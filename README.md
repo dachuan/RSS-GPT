@@ -44,3 +44,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://brett.trpstra.net/brettterpstra -> https://​dachuan.github.io/RSS-GPT/brett-terpstra.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://​dachuan.github.io/RSS-GPT/appinn.xml
 - https://rsshub.app/sspai/index -> https://​dachuan.github.io/RSS-GPT/sspai.xml
+- https://utgd.net/feed, https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyisheng?code=ee98b264d5c3272d2bf137aaefbf006a, https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu -> https://​dachuan.github.io/RSS-GPT/mergeRSS.xml
