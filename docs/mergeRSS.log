@@ -32,3 +32,12 @@ Append: [飞檐走壁朴小胖关注了问题: 中国矿业大学毕业的你，
 Append: [飞檐走壁朴小胖回答了问题: 有哪些适合高中生研究的建筑学方向的课题？](https://www.zhihu.com/question/42129765/answer/94374207)
 append_entries: 15
 Finish: 2023-09-26 14:07:28.825310
+------------------------------------------------------
+Started: 2023-09-26 14:10:59.517110
+Existing_entries: 15
+Fetching from https://utgd.net/feed
+Feed error: 301
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyisheng?code=ee98b264d5c3272d2bf137aaefbf006a
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
+append_entries: 0
+Finish: 2023-09-26 14:11:03.776668
