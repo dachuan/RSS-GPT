@@ -3688,3 +3688,12 @@ Existing_entries: 59
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-27 06:14:42.620286
+------------------------------------------------------
+Started: 2023-09-27 08:14:32.005714
+Existing_entries: 59
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性](https://sspai.com/post/83228)
+append_entries: 1
+Finish: 2023-09-27 08:14:32.630648
