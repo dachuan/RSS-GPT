@@ -1194,3 +1194,24 @@ Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 0
 Finish: 2023-09-27 20:11:35.466952
+------------------------------------------------------
+Started: 2023-09-27 22:09:46.340069
+Existing_entries: 263
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@dotey: 做个软件项目的可能都有经验，在写代码之前通常会在白板上画画线框图，把思路捋清楚，然后再去编码，生成界面。
+
+这位网友几乎重现了GPT-4发布时的演示，借助ChatGPT的多模态，从白板上的线框图直接让ChatGPT生成了代码。](https://twitter.com/dotey/status/1707145919282491621)
+Append: [@dotey: 我记得几个月前 ChatGPT 就可以通过 Bing 浏览的，后来迫于压力关闭了，现在又重新打开了，但是很多限制，好多网站都不会访问了。
+
+对于网站来说，如果不想让ChatGPT浏览其信息，只需要更新 robots.txt ，或者通过http里面的user agent来识别是不是ChatGPT的爬虫。…](https://twitter.com/dotey/status/1707144133419184260)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 2
+Finish: 2023-09-27 22:09:49.171492
