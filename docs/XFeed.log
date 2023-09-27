@@ -48,3 +48,780 @@ Fetching from  https://rss.solidunk.top/twitter/user/alexxubyte
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/XFeed
+------------------------------------------------------
+Started: 2023-09-27 02:36:32.791241
+Existing_entries: 0
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Append: [@huangyun_122: 独立开发者!! 服务器省钱攻略，翻翻这贴及评论](https://twitter.com/huangyun_122/status/1706668088606044216)
+Append: [@huangyun_122: AI 玩具，走过路过，不买也康康。。](https://twitter.com/huangyun_122/status/1706666852515217414)
+Append: [@huangyun_122: 家长非常“卷”。
+
+我的前前前 Leader, 她二娃了。
+朋友圈时常发小孩子补习的场景，花样繁多，看得出来，急切的心态，卷走了她的好心情。
+
+尤其是她看到上海土著（分好几套房那种，没有冒犯上海朋友的意思）都在不停晒自家娃的成绩。她说完全被逼着开“卷”](https://twitter.com/huangyun_122/status/1706665368545263779)
+Append: [@huangyun_122: 特别赞，必须跟进啊
+
+Stable Diffusion 做动画原来这么丝滑了，震惊 !!](https://twitter.com/huangyun_122/status/1706311457493717450)
+Append: [@huangyun_122: 手机背面敲 2 下，唤起 iPhone 转录语音，交由 ChatGPT 实时汇总
+
+这条足以压垮我“不买 iPhone 15”的执念 !! 哈哈哈哈哈](https://twitter.com/huangyun_122/status/1706188029658808755)
+Append: [@huangyun_122: 中年技术人的危机。盯住 Tiny 大叔这个频道，后续会有更多
+
+【专访】技术大神也有中年危机？听技术大神讲述他的中年危机以及如何渡过的故事【怀念耗子系列】  via @YouTube](https://twitter.com/huangyun_122/status/1706180049240469673)
+Append: [@huangyun_122: wow, 这位大哥用 Stable Diffusion 做了好几个动画，质量上乘 !! 赞](https://twitter.com/huangyun_122/status/1706179103785652368)
+Append: [@huangyun_122: what, 震惊 !! Stable Diffusion 居然可以做 Gif 了？
+
+
+
+GitHub Repo ：
+
+
+居然是全开源的，这么良心，国庆有事做了啊](https://twitter.com/huangyun_122/status/1706145497251983575)
+Append: [@huangyun_122: 哈哈哈哈哈，小伙伴们注意了哦， C 大趟坑经验，价值百万。。](https://twitter.com/huangyun_122/status/1706143588000641234)
+Append: [@huangyun_122: 闷声发大财，可保命，哈哈哈哈哈](https://twitter.com/huangyun_122/status/1706114688558272987)
+Append: [@huangyun_122: 这，就看不懂 OpenAI 意图了
+一方面，大规模封禁 IP，另一方面，玩起了“黑客增长”？](https://twitter.com/huangyun_122/status/1705848365693411432)
+Append: [@huangyun_122: 谷歌 Drive 中转 ？](https://twitter.com/huangyun_122/status/1705837698869604452)
+Append: [@huangyun_122: 如果后期费用高的话，忍不住自己要做一个了，这妥妥的就是生产力啊，很担心国内视频平台的“撞衫率”了，哈哈哈哈哈](https://twitter.com/huangyun_122/status/1705512384742199440)
+Append: [@huangyun_122: 又有新课题了。不再仅仅局限于 GPT 应用，而是深入 GPT 智能应用，哈哈哈哈哈
+
+举个例子，创造多人数字分身，比如马斯克马老师，特朗普普哥，盖茨先生，乔布斯大爷，请他们四人同台辩论一个话题，或给你一些个人生建议
+
+你会看到他们不同的视角，不同的实行方法，从而打开你的思路，哈哈哈哈哈，有意思](https://twitter.com/huangyun_122/status/1705438860723802603)
+Append: [@huangyun_122: Tiny 老师一如既往的真诚输出，这期通识很多。卫星通信，欧盟标准以及 opium war 始末，等等
+
+华为 Mate 60 pro那么好，我们该买 iPhone 15，还是华为 Mate 60 pro？个人观点，不作为购买建议  via @YouTube](https://twitter.com/huangyun_122/status/1705429988604891522)
+Append: [@huangyun_122: MidJourney 最便宜是 10美金/月。如果有自己喜欢的 Stable Diffusion, 以 1-2 美金出售，那买上 10来个常用，就完全可以退订 MidJourney 啦
+
+不过这玩意儿，就像手办/Steam 一样，哪会嫌多，买买买，哈哈哈哈哈](https://twitter.com/huangyun_122/status/1704473973449265259)
+Append: [@huangyun_122: Stable Diffusion 的初体验 !!
+
+Github Repo:
+
+
+使用指南看这篇（Model 的使用），就够：
+
+
+如果你有 6G显卡，本地 Windows 也可以顺畅地玩耍。我下载了 Anything V3，稍稍折腾了下，好玩儿 
+
+想开始就做出好东西，找开源模型用:
+HuggingFace & civitai](https://twitter.com/huangyun_122/status/1704472716030402569)
+Append: [@huangyun_122: 看到吴老师的声音克隆 Demo, 突然想到一个 idea:
+
+如果我对某门语言感兴趣，通过 ChatGPT 翻译世界顶级小说，用 text-to-speech API，让训练好/克隆好的人声，给念出来，就可以 24小时沉浸式听了
+
+哈哈哈，我来做一个，自娱自乐先 !!](https://twitter.com/huangyun_122/status/1704374759251992981)
+Append: [@huangyun_122: 昨天刚看到声音克隆，今天吴老师就立马上传了一个 awesome 的 Demo
+
+这个世界真的是太好玩了 !!](https://twitter.com/huangyun_122/status/1704368822055219544)
+Append: [@huangyun_122: 发现英文 tweet 下，黄推极少](https://twitter.com/huangyun_122/status/1704328172458696796)
+Append: [@huangyun_122: search everything including what you upload
+
+为谷歌的这个 Bard 点赞 !!](https://twitter.com/huangyun_122/status/1704103722324811785)
+Append: [@huangyun_122: 再一次，声音克隆 AI 进入了我的时间线
+
+
+
+为啥第一个想到的，就是下林志玲的声音，指导我开车？是不是有点邪恶？](https://twitter.com/huangyun_122/status/1704100758747029988)
+Append: [@huangyun_122: 羡慕死我们这些在银行搬砖的人，代码必须手敲，连 GitHub、Google 上的代码，都不能 Copy](https://twitter.com/huangyun_122/status/1704000042229498035)
+Append: [@huangyun_122: 用 ChatGPT 提取观点，再依据现有（观点-分类）做归类，少量数据，是没问题的。
+
+碰到大量数据，要么向量数据库，要么微调。具体做法我没实操过，但这里有个论文 NLP 检索网址，推荐给你：
+
+
+
+输入你要实现的功能，它会自动帮你找到实现过的论文，如图1
+
+注：图2 是用法](https://twitter.com/huangyun_122/status/1703699686601687437)
+Append: [@huangyun_122: 目前看到很多 LLM 的微调，采用的数据格式，都是对话式，和  alpaca 的数据集很接近
+
+这样的数据标注，用 GPT 3.5 这样的 API 来自动化生成，是最方便不过了
+
+于是考验你玩  Prompt 的功底就来了。
+
+我分享一个采集曹大文章的 Prompt, 在 ChatGPT3.5 和 ChatGPT 4 中对比了下，还是 4 占优势，但也贵](https://twitter.com/huangyun_122/status/1703658582728687820)
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Append: [@onenewbite: 今天一上午都在用新的ChatGPT练口语。GPT的中文发音有时候南洋风。但是很不错了。然后在会员网站更新了一个bonus 视频分享我改进后的口语练习快捷指令和Prompt.](https://twitter.com/onenewbite/status/1706815381166576115)
+Append: [@onenewbite: 真的很无语。这种号称“追求真相”的账号竟然直接偷我的视频。可以想象他们的底色是什么。它们和它们反对的人一样。这就是为什么在互联网上看那些所谓“宣传真相”的政治言论本身就是一种娱乐，浪费时间。还不如看P站。至少人家是光明正大的卖自己。这也就是为什么我从不在频道里聊政治。就是为了赚点钱，…](https://twitter.com/onenewbite/status/1706715392637648975)
+Append: [@onenewbite: 你需要去settings—->new feature 里面打开。它是逐步推送这些新功能。我比较走运，一早就拿到了。](https://twitter.com/onenewbite/status/1706515919974060412)
+Append: [@onenewbite: 立即退订了ElevenLabs](https://twitter.com/onenewbite/status/1706515002767937923)
+Append: [@onenewbite: 我分别用英语，中文和西班牙语和ChatGPT对话。太好了，这学外语太棒了！这一下子又死了不少AI口语软件。。。](https://twitter.com/onenewbite/status/1706511064660369542)
+Append: [@onenewbite: 我去！我ChatGPT刚有了语音聊天功能！](https://twitter.com/onenewbite/status/1706505043325923385)
+Append: [@onenewbite: 我很少换手机。去年从XR因为超级折扣换成了13最基础款 (还不是新款的14)。但是今年买了iPhone 15 Pro，就是因为那个Action Button. 因为我可以用它触发我自己做的一些AI快捷指令。超级有用。计划做个视频。](https://twitter.com/onenewbite/status/1705201434617348485)
+Append: [@onenewbite: 昨晚是我很久以來的第一次熬夜。視頻做到凌晨2點, 終於把會員網站和視頻都上線了。結果早上不到5點生物鐘又把我叫醒了。](https://twitter.com/onenewbite/status/1704499855358353592)
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Append: [@laike9m: RT by @yihong0618: 普通公司周年：宣布新功能/产品/计划
+
+Google 25 周年：关掉一个大家喜欢的产品（Google Podcast）以示庆祝
+
+🤡](https://twitter.com/yihong0618/status/1706846648230678995)
+Append: [@passluo: RT by @yihong0618: 刘老板这个不寒碜
+
+其实我最近也做了件类似的事，感觉很有趣，和大家分享下
+
+大概上周四我了解到支付宝一个红包活动
+
+这个活动扫码的用户有 3-8 块钱红包（后来缩水了）
+
+分享者也有 0.5-1.5 的随机奖励
+
+我其实挺怕大家骂，纠结了很久要不要发，…](https://twitter.com/yihong0618/status/1706831624758022572)
+Append: [@yihong0618: 修复了！yihong0618 可以！](https://twitter.com/yihong0618/status/1706696898038706426)
+Append: [@yihong0618: garmin and garmin-cn 今天更改了接口加强了限制，目前 running_page garmin_sync 都处于不可用状态，我们在想办法修复。](https://twitter.com/yihong0618/status/1706653328036569471)
+Append: [@HEHEHEHEHE2333: RT by @yihong0618: @0c125dd8ac23b21 @yihong0618 {Text}(ruby text) 🥱🥱🥱](https://twitter.com/yihong0618/status/1706588805782999111)
+Append: [@yihong0618: 学习了。
+>A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters. This kind of annotation is often used in Japanese publications.](https://twitter.com/yihong0618/status/1706574776431739130)
+Append: [@laixintao: RT by @yihong0618: @disksing @yihong0618 宜家：我们收到的客户咨询减少了，有什么头绪吗？](https://twitter.com/yihong0618/status/1706562964025978952)
+Append: [@yihong0618: 这效果也太惊艳了。。。直接吊打任何以前支持多模态的模型了。DALL-E 3 也太强了。](https://twitter.com/yihong0618/status/1706287746351018268)
+Append: [@yihong0618: @biantaishabi @guyii](https://twitter.com/yihong0618/status/1706284914105278922)
+Append: [@yihong0618: 来了。](https://twitter.com/yihong0618/status/1706282735432843455)
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Append: [@kepano: RT by @kepano: @danallison Leaders of organizations are often afraid of giving employees decisionmaking agency so they install bureaucracyOS a…](https://twitter.com/kepano/status/1706838544860459390)
+Append: [@kepano: Many ways to extend Obsidian beyond plugins:
+
+- bookmarklets, e.g. Web Clipper
+- browser extensions, e.g. MarkDownload
+- python scripts, e.g. obsidian-metadata
+- publishing tools, e.g. Quartz
+
+since Obsidian data is all local and interoperable there is a broad design space ☺️](https://twitter.com/kepano/status/1706762477781053706)
+Append: [@kepano: There's a dedicated channel on @obsdmd Discord where you can get help from the Obsidian team and community members to complete your plugins, themes, tools — I'll be there!
+
+The last two Octobers led to a flurry of amazing new projects... I can't wait to see this year's 💜](https://twitter.com/kepano/status/1706760463315558685)
+Append: [@kepano: bureaucracyOS is a viral operating system because it prioritizes bottom-up alignment over getting things done
+
+most orgs have bottom-up alignment and top-down decisionmaking, but the opposite is more effective](https://twitter.com/kepano/status/1706754102943006780)
+Append: [@obsdmd: RT by @kepano: Obsidian Desktop 1.4.14 (Public) is now available, with improvements for properties and sync.](https://twitter.com/kepano/status/1706740976143024168)
+Append: [@kepano: I find the Ocean's 11 model the most fun. A small, highly motivated team of doers. High craftsmanship and versatility at every position.
+
+Tools are now more scalable than ever before. The impact per team member can be massive — revenue, users, whatever the metric.](https://twitter.com/kepano/status/1706690014657274201)
+Append: [@kepano: go see Stop Making Sense while it's in theaters, it will make you stand and clap and dance and stomp your feet](https://twitter.com/kepano/status/1706514941778579687)
+Append: [@obsdmd: RT by @kepano: Obsidian Mobile 1.4.12 is now available for early access!
+
+This update adds support for Properties on iOS and Android ✨](https://twitter.com/kepano/status/1705311927881408786)
+Append: [@kepano: controlnet is fun](https://twitter.com/kepano/status/1704978581276000287)
+Append: [@kepano: Stadium of selves](https://twitter.com/kepano/status/1704536692152221973)
+Append: [@kepano: Obsidian 1.4 with Properties is now out and available to everyone!](https://twitter.com/kepano/status/1697339319563014256)
+Append: [@kepano: all of my secrets on how to make great stovetop popcorn in 3 minutes:](https://twitter.com/kepano/status/1697032609841463524)
+Append: [@kepano: Scars are beautiful 
+2015](https://twitter.com/kepano/status/1696191942894485962)
+Append: [@kepano: Scars are beautiful
+
+I saw a wonderful exhibit of Ishiuchi Miyako’s photography. Her series “Scars” particularly struck me.
+
+The images are hard to look at without wincing. The oversized prints were even more painful to witness in person. But after the initial shock washed over…](https://twitter.com/kepano/status/1696191606674862564)
+Append: [@kepano: RT by @kepano: You want to send 100 high-resolution digital photos to your descendants 1,000 years from now. How do you do it?](https://twitter.com/kepano/status/1695610443623239733)
+Append: [@kepano: *are small](https://twitter.com/kepano/status/1694811937895555151)
+Append: [@kepano: List of oldest companies](https://twitter.com/kepano/status/1694809163581563018)
+Append: [@kepano: In the list of oldest companies in the world, most of them small](https://twitter.com/kepano/status/1694809075979329679)
+Append: [@kepano: A principle is only useful if you can legitimately take the opposite side.
+
+Otherwise it's simply an aspiration that everyone else is also shooting for.](https://twitter.com/kepano/status/1694731718807404805)
+Append: [@kepano: From a traditional business perspective the Obsidian approach has many downsides:
+
+we can only focus on 1-2 things at a time, we can't build lots of stuff in parallel like a bigger company can
+
+we have to cover our costs, we can't subsidize pricing — charging a fair price is a…](https://twitter.com/kepano/status/1694731716580315392)
+Append: [@kepano: The plan for Obsidian is to never grow beyond 10-12 people, never take VC funding, never collect personal data or analytics.
+
+Continue building with the assumption that software is ephemeral, files matter more than apps. Use formats that are open and durable.
+
+See our manifesto:](https://twitter.com/kepano/status/1694731713686196526)
+Append: [@obsdmd: RT by @kepano: Obsidian 1.4.4 (early access) is now available!
+
+Adds search syntax for Properties and lots of small improvements](https://twitter.com/kepano/status/1694449039402783108)
+Append: [@kepano: any items you would particularly like to see?](https://twitter.com/kepano/status/1694432567439900934)
+Append: [@kepano: @obsdmd help pick the designs](https://twitter.com/kepano/status/1694431278966387173)
+Append: [@kepano: Color combo?](https://twitter.com/kepano/status/1694430714366992472)
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Append: [@nishuang: RT by @nishuang: 谢绝电动车和自动驾驶的“自驾游”
+
+我正在听津津乐道“3000元攻略”系列播客的新节目，这回说的是“自驾游”和“轻露营”
+
+国庆长假就在眼前，估计正常人都一边嚷嚷着要出游、一边拖延症至今还没做好准备，这期节目正好帮大家临时抱佛脚吧
+
+https://…](https://twitter.com/nishuang/status/1706824223555998036)
+Append: [@nishuang: 美国人很喜欢周末开车短途游，有个单词叫做 getaway 特指这种周末旅游、周末放松
+
+有个有趣网站叫做 Within Hours，能按照 1 小时、2 小时或者 100 英里、200 英里的范围，帮你找到附近的旅游目的地
+
+
+会按照城镇、RV 营地和露营地、旅游热点来列出不同类型的目的地，很方便](https://twitter.com/nishuang/status/1706694745009897556)
+Append: [@nishuang: 谢绝电动车和自动驾驶的“自驾游”
+
+我正在听津津乐道“3000元攻略”系列播客的新节目，这回说的是“自驾游”和“轻露营”
+
+国庆长假就在眼前，估计正常人都一边嚷嚷着要出游、一边拖延症至今还没做好准备，这期节目正好帮大家临时抱佛脚吧
+
+…](https://twitter.com/nishuang/status/1706688695921680826)
+Append: [@nishuang: RT by @nishuang: 全新的 Rick & Morty 
+
+第七季将于 10 月 15 日回归。预告片延续了一贯风格，但你仔细听一下，会发现 Rick 和 Morty 的声音变了😭
+
+因为换了配音演员
+
+之前为 Rick 和 Morty 这两个角色配音的 Justin R…](https://twitter.com/nishuang/status/1706669248196526326)
+Append: [@bearbig: RT by @nishuang: 用AI，把你的文字变成足以乱真的视频。
+
+用自己平时使用的视频编辑软件，把我之前发的数字人视频（见前面的贴）简单处理了一下，10多分钟后，得到了这个视频。下面说一下情况：
+
+- 原始的视频是由AI生成的，我只是把自己写的文稿输入给了它
+-… https…](https://twitter.com/nishuang/status/1706656590173016188)
+Append: [@nishuang: RT by @nishuang: iPhone Action Button 的“正确”用法
+
+#设计参考
+
+The Verge 的编辑演示了 Action Button 的扩展用法：
+
+- 按一下显示一组动作菜单（用“快捷指令”实现）
+- 动作菜单里还能再嵌套二级菜单](https://twitter.com/nishuang/status/1706648822007439852)
+Append: [@nishuang: RT by @nishuang: 开源的稍后再读软件 Omnivore，Readwise 免费替代品
+
+
+
+#活到死学到死
+
+产品化程度很高的开源产品，网站、iOS 和安卓 APP、WPA APP、浏览器插件都齐全，使用体验也不次于商业软…](https://twitter.com/nishuang/status/1706646831281602685)
+Append: [@nishuang: 错别字，应该是 PWA APP
+
+谢谢推友提醒](https://twitter.com/nishuang/status/1706535427434250693)
+Append: [@nishuang: RT by @nishuang: 不是你的问题，Linkedin 确实越来越怪了
+
+Business Insider 的长文，说社交网站引起的“过度分享”潮流，也影响了专业/职业社交网站 Linkedin，越来越多人分享个人生活和情感经历，甚至分享不敢用公共厕所的弱点
+
+https:…](https://twitter.com/nishuang/status/1706520219055706530)
+Append: [@nishuang: 在 iPhone 15 的 USB-C 接口上随机接各种东西，会发生什么？
+
+MKBHD 很冷静地搞笑了一把😂：
+
+- iPhone 15 总给 lightning 接口的 iPhone 充电
+- 两个 iPhone 15 会握手，电量多的给电少的充电
+- iPhone 和 C 口安卓连接，谁当充电宝取决于安卓的 C 口有没有 PD
+
+开箱视频：](https://twitter.com/nishuang/status/1704145181866405947)
+Append: [@nishuang: 这家设计公司 intactile 来自法国，他们设计了很多专业领域的 UI，有些像是科幻电影、战争电影里才会出现的界面
+
+比如为海军设计护卫舰设计互动地图（图一）
+
+
+为国防公司 Thales 设计战略决策支持工具（图二）
+
+
+设计未来的飞机驾驶舱界面（图三）…](https://twitter.com/nishuang/status/1704134037420339675)
+Append: [@nishuang: HN 的讨论里提到了一个我的疑问：
+
+为什么这套字体里的 0 和大写的 O 一模一样，难道不应该在 0 中间加上斜线或者小点吗？这基本上是所有强调可读性的编程字体的标配了
+
+有人回答了，说带斜线的 0 可能会和数字 8 混淆
+
+实拍的照片里，Airbus 的仪表里使用了带斜线的 0，不清楚具体情况了](https://twitter.com/nishuang/status/1704130227142795295)
+Append: [@nishuang: 怎么为飞机驾驶舱、仪表盘设计字体
+
+#设计入门
+
+设计公司 intactile 为 Airbus 空中客车驾驶舱和仪表设计的特殊字体 B612，设计重点是优化可读性，特别是在恶劣情况（注1）下的可读性。另外设计公司强调了这个字体在不同场合的一致性，比如用于仪表、航图、长文本…](https://twitter.com/nishuang/status/1704128276166307891)
+Append: [@nishuang: RT by @nishuang: 倪爽的阅读分享 – 2023年9月18日
+
+
+
+来自我在竹白的 newsletter“设计未来”，欢迎订阅！
+
+- MAYA 原则：最先进但可接受的产品获胜](https://twitter.com/nishuang/status/1704111793050698050)
+Append: [@arui_kisi: RT by @nishuang: 🎉 Tomato Bank 已经上架 Chrome 商店了
+- 支持设置白名单、黑名单网站
+- 白名单：可开启番茄钟累积🍅](https://twitter.com/nishuang/status/1703947681469509756)
+Append: [@nishuang: 推友开发的番茄钟插件已经上架了 Chrome Store👏
+
+喜欢产品设计的人，可以对比一下实际功能和之前整理思路的奇怪“产品逻辑”图，看看二者有多少差异😂](https://twitter.com/nishuang/status/1703947354951254203)
+Append: [@Jackywine: RT by @nishuang: #Jacky用户体验
+
+
+
+专门为飞机仪表设计的字体
+自2013年以来，这种字体已被部署在空中客车研究模拟器上，并被空中客车R&T以及其他实体的HMI设计师使用。
+如何给飞机仪表做字体设计？
+需要注意哪…](https://twitter.com/nishuang/status/1703931495495168197)
+Append: [@nishuang: 苹果 HIG 建议在设计系统里给色彩命名时，不要描述色彩的特征和参数、而应该描述它的用途
+
+这种命名方式也有它的问题，比如标题、按钮、分隔线三种视觉元素都用了同一种深灰色，按照苹果的建议来给色彩命名，这同一个深灰色就会被定义三次、共有三个名称😂…](https://twitter.com/nishuang/status/1700418638476349574)
+Append: [@nishuang: 日本色彩和西方色彩搭配
+
+把不同文化里的颜色和名称混搭，这个思路很有意思
+
+#设计参考
+
+平面设计里色彩的命名都是语义化的，名称描述色彩的视觉特征。用 Figma 管理设计系统时，色彩命名就很痛苦…](https://twitter.com/nishuang/status/1700417046398300364)
+Append: [@mave99a: RT by @nishuang: 大公司ABC为什么不自己做一个XYZ？](https://twitter.com/nishuang/status/1700397070786388161)
+Append: [@nishuang: RT by @nishuang: 差生文具多，翻译软件至少得用 3 个（第二部分）
+
+前面介绍了用于正规翻译的工具，最典型使用场景是写简历、写报告、写说明文档
+
+下面介绍我用于休闲翻译的工具，最常见使用场景就是看外文网页和看外文 Youtube 视频
+
+沉浸式翻译插件
+https:/…](https://twitter.com/nishuang/status/1700372904632803755)
+Append: [@nishuang: 错别字：马克思主义
+
+谢谢推友提醒](https://twitter.com/nishuang/status/1700348362468286825)
+Append: [@nishuang: 为什么要看播客？怎么看？
+
+#设计参考
+
+
+
+阅读 APP Matters 推出了新功能：把播客节目转文字、转成能看的播客。官方的理由还挺中肯的：音频的东西容易忘记啊，转成文字方便阅读、搜索、建立知识库
+
+并没有重新设计一个播客 APP，而是从你现在使用的播客 APP 里，把节目分享到…](https://twitter.com/nishuang/status/1700346026559729782)
+Append: [@dotey: RT by @nishuang: 从商业思维到AI实施：利用Semantic Kernel构建插件之路1 —— 介绍
+
+在本次视频中，我们为你介绍了一门新课程，由微软公司开设，旨在教授你如何通过“Semantic Kernel”SDK快速地在你的应用程序中使用LLMs。课程讲师John……](https://twitter.com/nishuang/status/1700294774350086205)
+Append: [@nishuang: 像钱包一样的折叠手机
+
+荣耀 V Purse 概念手机是一款造型奇特的概念手机，整体造型像女士钱包、配上肩带就更像了
+
+技术上实现了两块朝外的折叠屏，可以利用这两块折叠屏展示无穷无尽的钱包图案
+
+这么大的外屏肯定很容易损坏，下一步就是要卖款式无穷无尽的手机壳了
+
+#设计参考](https://twitter.com/nishuang/status/1699456436361740375)
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Append: [@cncnlhc: kafka、rocketMQ 抽象太多对于大多项目来说牛刀杀鸡 / nsq、nats 得引入额外的组件运维很麻烦 / redis 简单的 pubsub 无法保证exactly once，DIY一个 exactly once 的 queue 不简单](https://twitter.com/cncnlhc/status/1706645742474133640)
+Append: [@cncnlhc: 近日在HN上一个比较火的帖子：能否用Postgresql 代替消息队列？
+之前有几个side project 图省事也用pg的 row lock 机制做消息队列，开发体验意外的好，非常简单就能实现带有transaction语义的provider-consumer background jobs。  那么这样做的代价是什么呢？](https://twitter.com/cncnlhc/status/1706643388781727906)
+Append: [@golang: RT by @cncnlhc: 🥳 Go 1.21.0 is released!
+
+🗒️ Release notes: 
+
+⬇️ Download: 
+
+#golang …](https://twitter.com/cncnlhc/status/1689066772404871171)
+Append: [@cncnlhc: 实习僧发职位竟然要收钱了😭虽说不贵但是发JD 还要收钱还是感觉有点难受
+现在还有什么渠道能招到实习生呢?](https://twitter.com/cncnlhc/status/1686913707807571973)
+Append: [@cncnlhc: #NextJs 尝试从 pages 迁移到 app 失败🥲 太痛苦了我还是用 pages 吧](https://twitter.com/cncnlhc/status/1675104871824097280)
+Append: [@cncnlhc: 好用](https://twitter.com/cncnlhc/status/1668915616789692418)
+Append: [@cncnlhc: 120元的兰州早餐🤩](https://twitter.com/cncnlhc/status/1667341756512489472)
+Append: [@cncnlhc: airdrop：你报我身份证号得了](https://twitter.com/cncnlhc/status/1666038477354573830)
+Append: [@cncnlhc: 『...要求近距离自组网信息服务使用者提供真实身份信息』
+『...默认设置为关闭接收状态』
+『服务提供者上线具有舆论属性或社会动员能力的新技术...应当..开展安全评估..』
+
+禁止赛博传单 😡](https://twitter.com/cncnlhc/status/1666035977444544512)
+Append: [@cncnlhc: 忙完硕士毕业后比较清闲，去清华精仪系的博士生论坛做了志愿者。今天听完十几个光学方面的报告后，不禁感慨在光学方面开展工作的难度之高。
+相比之下计算机相关的工作夸张的简单。互联网行业上行时，成为程序员是一种『财富密码』，但程序员的薪资和工作难度真的匹配吗？🤔](https://twitter.com/cncnlhc/status/1665015321772830725)
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@dotey: RT @songma: 上BBC了](https://twitter.com/dotey/status/1706830958710673493)
+Append: [@dotey: ChatGPT：这个句子 "In case u need to lose a boner fast" 的直接翻译可能有些难以理解，但其实它是一种幽默、调侃的说法。在这里，“boner” 是一个俚语，指的是男性的生理勃起。当人们看到某些不吸引人或者反感的东西时，可能会用这种说法来调侃，意思是：“如果你需要迅速消除兴奋，看这个吧”。…](https://twitter.com/dotey/status/1706807798682534051)
+Append: [@dotey: 生气时，马斯克可能会变得刻薄，尤其是在推特上。他在推特上发布了一张盖茨穿着高尔夫球衫、大腹便便的照片，让他看起来几乎怀孕了。 并评论道：“如果你需要迅速消除性奋，看这个吧。”](https://twitter.com/dotey/status/1706806868205597127)
+Append: [@dotey: 40位AI创始人分享了他们在日常生活中的AI使用经验。其中有趣的使用案例包括用AI写婚礼演讲和声音机器人。同时，AI在编码和界面设计方面也显示出强大的能力，只需指示所需的改动，AI便能自行调整代码以满足需求。…](https://twitter.com/dotey/status/1706762521946861756)
+Append: [@dotey: #AI开源项目推荐：grontown
+
+这看起来是一个古老的角色扮演类侦探破案游戏，但不同之处在于所有的NPC对话都是大语言模型（LLM）动态生成的，LLM会根据角色身份、性格、设定、记忆等，以及你提问的内容，动态返回对话，也就是你每次得到的答案都可能是不一样的，但又不偏离角色的设定。…](https://twitter.com/dotey/status/1706738206597697996)
+Append: [@dotey: #AI开源项目推荐：Colossal-LaMA-2
+来自Colossal-AI 团队的一种经济的在Llama2基础上训练更好的中文支持的方案，约 8.5B token 数据、15 小时、几百美元，不错的评估性能。代码完全开源，无商用限制。
+
+这是他们最新的一篇博文：《One half-day of training using a few hundred dollars yields…](https://twitter.com/dotey/status/1706733455172678124)
+Append: [@dotey: push别人是初级管理，高级一点的是让员工自己push自己
+
+If you want to build a ship，don't drum up people to collect wood and don't assign them tasks and work, but rather long for the endless immensity of sea.](https://twitter.com/dotey/status/1706724728143331813)
+Append: [@dotey: 😂](https://twitter.com/dotey/status/1706723527679000747)
+Append: [@xiaohuggg: RT by @dotey: Bezel：插入数据线即可将iPhone投射到Mac上
+
+✅ 即插即用: 只需将iPhone插入Mac，屏幕就会自动显示。
+
+✅ 精美的外观: 提供超逼真的设备框架，用于演示和录制。
+
+✅ 出色的性能: 性能超过 QuickTime 这样的原生解决…](https://twitter.com/dotey/status/1706701931530383518)
+Append: [@dotey: 这台词可以灵活应用于各种吐槽……
+“5QPS？就他妈5QPS？十个研发连续加班一个月！研发人员都是QPS的两倍！”
+
+BTW：QPS（Queries Per Second）即每秒钟的请求量！](https://twitter.com/dotey/status/1706701290057748798)
+Append: [@dotey: 我不直接认识承德这位程序员，帮转发一下](https://twitter.com/dotey/status/1706697097125261537)
+Append: [@dotey: 原来这个被罚的程序员还是知名项目ABP项目上贡献第二大的开发者，这个项目在GitHub上有一万个Star，之前还有人说是给违法网站提供技术支持的
+
+@你的档案: #开源项目推荐##承德公安罚remote程序员#  …](https://twitter.com/dotey/status/1706565035022065926)
+Append: [@dotey: Baichuan2-53B正式发布，开放了API。价钱居然还分时段：
+00:00 ~ 8:00  0.01元/千tokens
+8:00 ~ 24:00  0.02元/千tokens](https://twitter.com/dotey/status/1706556735337476430)
+Append: [@dotey: 我是最新的iOS版](https://twitter.com/dotey/status/1706547637678129280)
+Append: [@dotey: ChatGPT的语音对话功能很赞，中文也支持很好](https://twitter.com/dotey/status/1706534175325483146)
+Append: [@dotey: 马斯克传中关于马斯克和比尔盖茨的描述也很有意思，马斯克和盖茨有些相似之处。他们都拥有分析型的思维，可以高度集中注意力，他们均表现出极强的自信，这种自信有时甚至显得有些傲慢，他们都不喜欢和愚蠢的人打交道。这些特点使得他们发生冲突的可能性很大。…](https://twitter.com/dotey/status/1706461685035172167)
+Append: [@dotey: Spotify推出播客的语音翻译功能，这是一个由 AI 驱动的突破性功能，可以将播客翻译成其他语言——并完全使用播主的声音。
+
+是用的来自OpenAI 新发布的语音生成技术
+
+
+《Spotify 的 AI 语音翻译试验，让你喜欢的播主用你的母语为你播报》…](https://twitter.com/dotey/status/1706429209998925947)
+Append: [@dotey: 吴恩达都知道😄](https://twitter.com/dotey/status/1706376472229744878)
+Append: [@Barret_China: RT by @dotey: 看到一款可以自动跳过软件开屏广告的工具，SKIP，，它的原理比较简单，在获得系统无障碍服务权限后，程序可以读取当前界面上的元素信息，当识别到「跳过」或者「关闭」二字的时候，自动执行点击操作。](https://twitter.com/dotey/status/1706358315469439443)
+Append: [@op7418: RT by @dotey: Jim Fan分享了他了解的GPT-4V也就是即将发布的多模态GPT-4版本的信息。
+
+➡依然是一个经过互联网的图像和文本训练的文本模型，经过了RLHF。
+➡现在的GPT-4V版本比3月份的主要强在OCR能力的提升上。
+➡这个版本早在22年底就已经训练完…](https://twitter.com/dotey/status/1706358190365889010)
+Append: [@op7418: RT by @dotey: Alie Jules整理了一个 DALL-E 3 和 Mdijourney的各项内容对比，内容挺全面的。我翻译了一下加了一些补充的信息，感觉 DALL-E 3 很多图片看着观感不太好，可能是因为训练数据去掉了一些现代的艺术家的作品。 https://t.…](https://twitter.com/dotey/status/1706345877017686040)
+Append: [@dotey: 随着社会开始重视思考 AI 的所有潜在弊端——失业、误传信息、人类灭绝——OpenAI 开始把自己置于讨论的中心。因为如果监管者、立法者和末日论者开始努力扼杀这种新兴的基于云的外星智能，OpenAI 无疑会成为他们的首要目标。OpenAI 的首席政策官 Anna Makanju…](https://twitter.com/dotey/status/1706182230526087443)
+Append: [@dotey: 这十亿美元的风险资本轮并不是追求 OpenAI 愿景的真正入场费。创造 LLMs 的神奇的大型 Transformer 方法需要大型硬件。GPT 系列的每个版本都需要指数级地增加更多的能量——GPT-2 拥有超过 10 亿的参数，而 GPT-3 则使用 1750 亿。现在的 OpenAI 就像《大白鲨》中看到大白鲨大小后的 Quint。Altman…](https://twitter.com/dotey/status/1706182092550295865)
+Append: [@dotey: Radford 和他的合作者为他们创建的模型起了一个名字，称为“生成预训练变换器”——GPT-1。最终，这个模型被普遍称为“生成 AI”。为了构建它，他们使用了一系列 7,000 本未出版的书籍，其中很多属于浪漫、奇幻和冒险类型，并在 Quora…](https://twitter.com/dotey/status/1706181974061097153)
+Append: [@dotey: Stripe的首席技术官Greg Brockman就是这样一个人，他同意成为OpenAI的首席技术官。另一个关键的联合创始人是Andrej Karpathy，他曾在Google Brain工作，这是搜索巨头的前沿AI研究运营。但也许Altman最想要的目标是一位名叫Ilya Sutskever的俄罗斯出生的工程师。…](https://twitter.com/dotey/status/1706181835250671874)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: 给GPT的截图](https://twitter.com/xiaohuggg/status/1706845245017936335)
+Append: [@xiaohuggg: 使用最新的 GPT-4V 图像能力，给它一张网页截图
+
+它能自己重新编写代码
+
+立马帮你将这个网站复制出来👇
+
+这个就是GPT写的网页：](https://twitter.com/xiaohuggg/status/1706845044937036066)
+Append: [@xiaohuggg: 换了C口到iPhone
+
+现在什么都能干了🤣](https://twitter.com/xiaohuggg/status/1706834215562789210)
+Append: [@xiaohuggg: 人生重开模拟器游戏
+
+这是一个完全由 GPT4 的Advanced Data Analysis(原代码解释器）驱动的文字模拟游戏，打开这个游戏只需要一个Prompt...
+
+所有内容均由ChatGPT动态随机自动生成，故事剧情包罗万象，非常丰富，包含了人生的酸甜苦辣与起起伏伏...😂
+
+🔥 游戏亮点：
+
+⭐️…](https://twitter.com/xiaohuggg/status/1706640899189665975)
+Append: [@xiaohuggg: 可以同时镜像多个设备，可以用来快速、轻松地展示、录制和演示任何应用程序。](https://twitter.com/xiaohuggg/status/1706625129659482222)
+Append: [@xiaohuggg: 支持 iPhone、iPad 和 iPod Touch，提供新设备的引导设置，支持所有型号的 iPhone 和 iPad 的设备框架，完全支持设备旋转。
+
+🔗](https://twitter.com/xiaohuggg/status/1706625133249720361)
+Append: [@xiaohuggg: Bezel：插入数据线即可将iPhone投射到Mac上
+
+✅ 即插即用: 只需将iPhone插入Mac，屏幕就会自动显示。
+
+✅ 精美的外观: 提供超逼真的设备框架，用于演示和录制。
+
+✅ 出色的性能: 性能超过 QuickTime 这样的原生解决方案。
+
+✅ 还可以调整大小以匹配物理尺寸和像素精度，还有设备休眠和锁定检测等。](https://twitter.com/xiaohuggg/status/1706625126056563022)
+Append: [@xiaohuggg: PanoGen：根据文本描述生成无限多种多样的全景环境。
+
+该模型可以根据文本描述（比如“一个带有蓝色沙发和大窗户的客厅”）生成相应的全景环境。这意味着你可以用自然语言来描述你想要的场景，模型会生成一个相应的360度全景图。
+
+PanoGen…](https://twitter.com/xiaohuggg/status/1706561194906280361)
+Append: [@xiaohuggg: UnitedHuman ：使用多源数据，生成高分辨率的人体图像。
+
+这个模型的特点是它使用了多个不同来源和不同分辨率的数据集来训练。
+
+这样做的好处是，模型能够更全面地学习人体的各个部分，比如面部和手部，这些通常是其他模型难以处理的。
+
+项目及演示：…](https://twitter.com/xiaohuggg/status/1706548711453770059)
+Append: [@xiaohuggg: 羡慕，都已经用上了
+
+看来是波浪式推送，我把梯子线路换到美国去看看😁](https://twitter.com/xiaohuggg/status/1706544628290527611)
+Append: [@xiaohuggg: ChatGPT多模态应用场景展示
+
+哈哈哈哈
+
+😎](https://twitter.com/xiaohuggg/status/1706538544209289713)
+Append: [@xiaohuggg:](https://twitter.com/xiaohuggg/status/1706530755017650482)
+Append: [@xiaohuggg: BLIP-Diffusion：一个新型的主题驱动图像生成模型
+
+该模型不仅可以根据文本提示来生成图像，还可以根据一个给定的“主题”图像（例如某人的照片）来生成与该主题相关的新图像。
+
+比如：你有一张你最喜欢的明星的照片，你想看到这位明星在不同场景或不同表情下的样子。BLIP-Diffusion…](https://twitter.com/xiaohuggg/status/1706530502101123337)
+Append: [@xiaohuggg: GPT-4V的详细视觉识别能力和局限性，还可以识别图片来判定它的地理位置，而且还能破解不规则的图形验证码！
+
+- 物体检测：GPT-4V可以检测和识别图像中的常见物体，如汽车、动物、家居用品等。其物体识别能力在标准图像数据集上进行了评估。](https://twitter.com/xiaohuggg/status/1706482486329614830)
+Append: [@xiaohuggg: 很喜欢这种华而不实的东西🤣](https://twitter.com/xiaohuggg/status/1706466617209786411)
+Append: [@xiaohuggg: Spotify推出一个名为”Voice Translation for podcasts”的AI工具，可以将播客翻译成其他语言，并保持原始发言人的声音风格。
+
+这一工具使用了包括OpenAI刚发布的最新语音生成技术。
+
+这一功能正在测试，将对全球的Spotify…](https://twitter.com/xiaohuggg/status/1706454208264987002)
+Append: [@xiaohuggg: 当初李彦宏说三个月就能赶上
+
+然而人家现在推出的东西22年就训练完毕了😂
+
+就这库存还有很多没拿出来😠](https://twitter.com/xiaohuggg/status/1706329518334792097)
+Append: [@xiaohuggg: 今天OpenAI放出的ChatGPT 4的多模态语音和图像更新的模型其实叫GPT-4V(ision)。
+
+OpenAI放出了19页的GPT-4V(ision)报告来解释这个模型，释放了大量信息：
+
+GPT-4V(ision)的训练完成于2022年，2023年3月开始提供早期访问。
+
+GPT-4V 的训练过程与 GPT-4…](https://twitter.com/xiaohuggg/status/1706304076126785833)
+Append: [@xiaohuggg: 今天OpenAI放出的ChatGPT 4的多模态语音和图像更新的模型叫GPT-4V(ision)。
+
+OpenAI放出了19页的GPT-4V(ision)报告来解释这个模型，释放了大量信息：
+
+GPT-4V(ision)的训练完成于2022年，2023年3月开始提供早期访问。
+
+GPT-4V 的训练过程与 GPT-4…](https://twitter.com/xiaohuggg/status/1706302512989344191)
+Append: [@xiaohuggg: OpenAI将在接下来的两周内向 Plus 和 Enterprise 用户推出 ChatGPT 中的语音和图像功能。
+
+语音功能将在 iOS 和 Android 上提供（在您的设置中选择加入），并且图像将在所有平台上提供。](https://twitter.com/xiaohuggg/status/1706286930097533255)
+Append: [@xiaohuggg: 此外，新的语音功能由一个新的文本到语音模型提供支持，该模型能够从纯文本和几秒钟的样本语音生成类似人类的音频。
+
+OpenAI 还与专业配音演员合作创建了每种声音，并使用其开源的语音识别系统 Whisper 将用户的口头话语转录为文本。](https://twitter.com/xiaohuggg/status/1706285492848013681)
+Append: [@xiaohuggg: 炸裂！！OpenAI发布重大更新，宣布开始为 ChatGPT 推出新的语音和图像功能。
+
+这些功能为用户提供了一种更直观的界面，允许用户与 ChatGPT 进行语音对话或展示他们正在讨论的内容。…](https://twitter.com/xiaohuggg/status/1706285235548405869)
+Append: [@xiaohuggg: 英文原版Prompt](https://twitter.com/xiaohuggg/status/1706251922607604004)
+Append: [@xiaohuggg: @jesselaunz @jesselaunz 的师范](https://twitter.com/xiaohuggg/status/1706251788188614851)
+Append: [@xiaohuggg: 测试了下@jesselaunz 老师分享的这个Prompt 确实很厉害
+
+可以用来研究和解释一切你不懂的东西和知识，而且非常的全面易懂，还能给你生成思维导图和解释流程图。
+
+很牛p...
+
+使用这个Prompt前，首先需要现安装2个插件，voxscript + Whimsical Diagrams，一个用来联网一个用来画图。…](https://twitter.com/xiaohuggg/status/1706251624187146270)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Append: [@vista8: AI辅助写作工具
+
+发现最近改了Logo，也优化了些交互。
+
+1. 右侧是对话AI Chat Bot，可随意提问或针对写作内容提问。
+2. 选中文本内容，按command+K，除常规编辑外，支持AI摘要，AI改写。
+3. 选择文本，可以@lex，让AI点评或讨论。
+4. 写一段文字然后附上 +++…](https://twitter.com/vista8/status/1706659761079603369)
+Append: [@vista8: 2023-09-26 英语短⽂学习
+A New Record, by Teri Wright
+
+I ease the 7 inch vinyl out of the sleeve. The latest single of my favourite group. As the melody
+begins, I imagine I am the lead singer. Hairbrush in hand, I mouth the words whilst strutting
+across the carpet.…](https://twitter.com/vista8/status/1706653780400656613)
+Append: [@vista8: OpenAI官网刚刚公布了多模态的能力Demo，预计两周内plus和企业用户就能用上。
+
+
+
+图片对话
+支持一张或多张图片，包括照片、屏幕截图以及包含文本和图像的文档。
+
+双向音频对话…](https://twitter.com/vista8/status/1706304491526467797)
+Append: [@vista8: 2023-09-25 英语短⽂学习
+Cuppa Joe, by Indira Sammy
+杯⼦乔，作者：Indira Sammy
+
+I savour my Blue Mountain coffee as though I drank from the Holy Grail.
+我像喝圣杯⼀样细细品味着我的蓝⼭咖啡。
+
+Two policemen escort Joe, my ex-fiancé, to their vehicle with his hands cuffed behind his…](https://twitter.com/vista8/status/1706158121436287457)
+Append: [@vista8: Apple TV上的AIplayer更新了，除了阿里云盘，支持全部主流网盘和alist，虽然没infuse的电影海报，但实在太方便了。
+
+绝对是Apple TV必买应用。](https://twitter.com/vista8/status/1706110339207893222)
+Append: [@vista8: 妙啊～    想想有道理。](https://twitter.com/vista8/status/1705924937436045448)
+Append: [@vista8: 整理笔记的Prompt还需要优化下，我记得白板报等老师有测试过更好的版本。](https://twitter.com/vista8/status/1705866736694861911)
+Append: [@vista8: 不用第三方录音工具也行，iPhone自带听写文本。
+
+快捷指令：
+
+打开设置-辅助功能-触控-轻点背面，设置轻敲手机背面2下调用这个快捷指令。
+
+效果：敲手机背面2下，调起语音输入转文本，结束后ChatGPT处理，写入备忘录。
+
+除ChatGPT，完全使用iPhone自带工具，](https://twitter.com/vista8/status/1705866177246031914)
+Append: [@vista8: 手机语音笔记AI整理：
+
+用Apple Watch或iPhone里的just press record  APP快速录音转写为文本。
+
+分享转写文本到快捷指令（调用ChatGPT整理）
+
+
+AI整理后自动保存到剪贴板。
+或者存到Obsidian或备忘录。](https://twitter.com/vista8/status/1705860127453306981)
+Append: [@vista8: iPhone 15 居然默认开启了全天候显示屏。不息屏变黑，可能影响晚上睡觉。
+
+关闭地址：
+设置-显示与亮度-全天候显示屏](https://twitter.com/vista8/status/1705628259810242820)
+Append: [@vista8: 号称是readwise的免费开源替代产品...
+
+Chrome插件下载
+
+
+- 支持生成邮件地址订阅Newsletter
+- 支持订阅RSS Feed](https://twitter.com/vista8/status/1705614557111255363)
+Append: [@vista8: 发现个有趣的Obsidian插件Dice-roller。
+
+设定要求随机返回笔记库指定内容，点骰子随机换。
+
+如：`dice: #阅读笔记` ，会从Obsidian库找用了该Tag的内容，如配图所示。
+
+按Tag返回只是它功能的一小部分，更多：
+
+
+Dataview固定返回，dice-roller随机返回。
+
+随机带来乐趣~](https://twitter.com/vista8/status/1705610169194008953)
+Append: [@vista8: 宝玉出品，必是精品。](https://twitter.com/vista8/status/1705523840896655869)
+Append: [@vista8: 买iPhone 15 pro比较期待的功能就是“静音键”改的“操作按钮”。
+
+昨天设置了个功能：手机阅读看到有启发的段落，复制后，长按“操作按钮”，自动保存到Obsidian当天日志。
+
+做法：
+1）新建一个快捷指令，从操作或屏幕接收内容，存到Obsidian指定以日期命名的文件中。…](https://twitter.com/vista8/status/1705396279130652702)
+Append: [@vista8: 好分享，节后直播里也可以展开讲讲。](https://twitter.com/vista8/status/1705251620337095043)
+Append: [@vista8: 今天飞机上无聊，读了几章《美食的十万个为什么》，发现些有趣的冷知识：
+
+闭门羹的来历：唐代宣州城有个叫史凤的青楼名妓，长得沉鱼落雁，慕名求见的名流公子多。她只挑有才华、好样貌的见，但又怕被拒绝的人没面子，所以送一碗羹汤当做台阶。闭门羹的主要食材是豆腐和鸭肠。…](https://twitter.com/vista8/status/1705248865124057537)
+Append: [@vista8: 现在提示传输数据需要3小时了。。。](https://twitter.com/vista8/status/1705105321465876759)
+Append: [@vista8: 从上海出差回北京，也刚好收到新iPhone 15 pro ，第一时间开箱。
+
+用旧手机送的Type-C口+lighting口线，通过本地传数据。
+出乎意料，提示需要2小时。。。
+
+过程有FaceID识别设置，让选要不要支持戴口罩识别，恍如隔世。
+
+同步时让输另一个美区ID账号密码，应该没琐区？
+
+钛原色不错，握持手感有提升。](https://twitter.com/vista8/status/1705105112124018942)
+Append: [@vista8: 谷歌厉害，就是没看到使用地址，不知道啥时候发布。](https://twitter.com/vista8/status/1704895983337824764)
+Append: [@vista8: 现在各种产品订阅制流行，对开发者来说，能获得相对稳定的Pipeline收入，但对用户来说，各种订阅每月加一起，开支也不少。
+
+所以现在貌似出现一股反向风，如37signals CEO提到要开条新的产品线，一次付费，永久使用。
+
+地址：
+
+今天逛Producthunt，发现个有趣的产品定价页，…](https://twitter.com/vista8/status/1704887796484456810)
+Append: [@vista8: 前年在公司听了一场在线直播分享，主题跟脑科学、演化论相关，都是我很感兴趣的话题，所以直播过程中我会忍不住打字提问、补充信息、给表情反馈。后来一个认识她的朋友说，她觉得我实在太捧场了，一定要找机会见见。…](https://twitter.com/vista8/status/1704876684674240871)
+Append: [@vista8: 什么产品场景更适合用LUI（对话式语言交互），什么更适合传统GUI交互？
+
+问了GPT4，给的答案比较抽象，不知道大家有没有什么好的Use Case？
+
+比如客服场景，没有大模型前的智能客服差不多是智障客服，现在就有可能做出很好的AI客服。比如Intercom的Bot很智能。…](https://twitter.com/vista8/status/1704803077663150240)
+Append: [@vista8: 2023-09-21 英语短⽂学习
+
+In an Unexpected Hour, by Krystyna Fedosejevs
+在⼀个意想不到的⼩时，作者：Krystyna Fedosejevs
+
+They agreed not to meet again. Years of promises to love forever reduced to nothing.
+他们约定不再⻅⾯。多年来对永远的爱的承诺化为乌有。
+
+Next day the woman…](https://twitter.com/vista8/status/1704690327175717176)
+Append: [@vista8: 看完整本书，对马斯克疯狂的紧迫感印象深刻。
+
+每当公司进入平稳发展阶段，马斯克会开始搞事情，发起一场又一场运动，设定一些不切实际的Deadline，逼团队去达成。
+
+“没战争也要制造战争氛围”，让大家永远处于战斗状态，极限状态找创新思路。…](https://twitter.com/vista8/status/1704476107670720601)
+Append: [@vista8: 艾萨克森认为马斯克是传奇，评价如下：
+
+“这个传奇的意义在于，让我们知道创造财富不是顶峰，也不是重点，真正的传奇的成功，是通过商业来实现自己对未来的构想，为人类留下痕迹；而真正令人羡慕的人生，是可以一直用生命去驾驭财富而不是相反。”…](https://twitter.com/vista8/status/1704475443301351841)
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+Append: [@alexxubyte: Explaining Sessions, Tokens, JWT, SSO, and OAuth in One Diagram. The method to download the high-resolution PDF is available at the end.
+
+Understanding these backstage maneuvers helps us build secure, seamless experiences. 
+
+How do you see the evolution of web session management…](https://twitter.com/alexxubyte/status/1706696005503336772)
+Append: [@alexxubyte: How do we transform a system to be Cloud Native?
+
+The diagram below shows the action spectrum and adoption roadmap. You can use it as a blueprint for adopting cloud-native in your organization.
+
+For a company to adopt cloud native architecture, there are 6 aspects in the…](https://twitter.com/alexxubyte/status/1706324846123106476)
+Append: [@alexxubyte: RT by @alexxubyte: Made a simple visual guide to help everyone understand the key considerations when designing or using caching systems.](https://twitter.com/alexxubyte/status/1706194966597521421)
+Append: [@bytebytego: RT by @alexxubyte: What tech stack is commonly used for microservices?
+
+Below you will find a diagram showing the microservice tech stack, bot…](https://twitter.com/alexxubyte/status/1705968278383010217)
+Append: [@bytebytego: RT by @alexxubyte: HTTP status codes you should know
+
+The response codes for HTTP are divided into five categories:
+
+Informational (100-199)
+S…](https://twitter.com/alexxubyte/status/1705824210432794743)
+Append: [@alexxubyte: Made a simple visual guide to help everyone understand the key considerations when designing or using caching systems.
+
+- What is a cache
+- Why do we need cache
+- Where is cache used
+- Cache deployment
+- Distributed cache
+- Cache replacement and invalidation
+- Cache strategies
+-…](https://twitter.com/alexxubyte/status/1705607927523123260)
+Append: [@bytebytego: RT by @alexxubyte: A picture is worth a thousand words: 9 best practices for developing microservices.
+
+When we develop microservices, we need…](https://twitter.com/alexxubyte/status/1705454056150597998)
+Append: [@alexxubyte: How does VISA work when we 𝐬𝐰𝐢𝐩𝐞 𝐚 𝐜𝐫𝐞𝐝𝐢𝐭 𝐜𝐚𝐫𝐝 at a merchant’s shop?
+
+VISA, Mastercard, and American Express act as card networks for the clearing and settling of funds. The card acquiring bank and the card issuing bank can be – and often are – different. If banks…](https://twitter.com/alexxubyte/status/1705241204911464518)
+Append: [@bytebytego: RT by @alexxubyte: CI/CD Pipeline Explained to Kids
+
+Section 1 - SDLC with CI/CD
+
+The software development life cycle (SDLC) consists of sever…](https://twitter.com/alexxubyte/status/1705104645058953344)
+Append: [@alexxubyte: You can find the CNCF Cloud Native Interactive Landscape here. It's pretty cool:](https://twitter.com/alexxubyte/status/1704881318704951353)
+Append: [@alexxubyte: Typo, it’s](https://twitter.com/alexxubyte/status/1701278425909174520)
+Append: [@alexxubyte: Recommended materials with links:
+
+Coding
+- Leetcode： 
+- Neetcode： 
+- Cracking the coding interview book：
+
+System Design Interview 
+- System Design Interview book 1, 2 by Alex Xu: 
+Vol1:…](https://twitter.com/alexxubyte/status/1701273459039543582)
+Append: [@alexxubyte: My recommended materials for cracking your next technical interview:
+
+Coding
+- Leetcode
+- Cracking the coding interview book
+- Neetcode
+
+System Design Interview
+- System Design Interview book 1, 2 by Alex Xu
+- Grokking the system design by Design Guru
+- Design Data-intensive…](https://twitter.com/alexxubyte/status/1701253078874235164)
+Append: [@bytebytego: RT by @alexxubyte: How to improve API performance?
+
+The diagram below shows 5 common tricks to improve API performance.
+
+1. Pagination
+This is…](https://twitter.com/alexxubyte/status/1701107898645188621)
+Append: [@bytebytego: RT by @alexxubyte: What does a typical microservice architecture look like? 👇
+
+The diagram below shows a typical microservice architecture.
+
+🔹…](https://twitter.com/alexxubyte/status/1700898774821097864)
+Append: [@bytebytego: RT by @alexxubyte: Popular interview question: What is the difference between Process and Thread?
+
+To better understand this question, let’s f…](https://twitter.com/alexxubyte/status/1700755283876929611)
+Append: [@alexxubyte: 10 Key Data Structures We Use Every Day 
+
+- list: keep your Twitter feeds 
+- stack: support undo/redo of the word editor 
+- queue: keep printer jobs, or send user actions in-game 
+- hash table: cashing systems 
+- Array: math operations 
+- heap: task scheduling 
+- tree: keep the…](https://twitter.com/alexxubyte/status/1700535669624541530)
+Append: [@bytebytego: RT by @alexxubyte: Which latency numbers should you know?
+
+Please note those are not accurate numbers. They are based on some online benchmark…](https://twitter.com/alexxubyte/status/1700391204339499415)
+Append: [@alexxubyte: If you use diagrams produced by us, could you please make the tag clickable?](https://twitter.com/alexxubyte/status/1700319850416279614)
+Append: [@alexxubyte: Big milestone : Our system design YouTube channel has grown to half a million subscribers. Here are the top five most-liked topics:
+
+- Why is Kafka fast?
+- HTTP/1 to HTTP/2 to HTTP/3
+- Top 6 Most Popular API Architecture Styles
+- Kubernetes Explained in 6 Minutes
+- What Is REST…](https://twitter.com/alexxubyte/status/1700166261684978052)
+Append: [@bytebytego: RT by @alexxubyte: How do you pay from your digital wallet, such as Paytm, Paypal and Venmo, by scanning the QR code?
+
+To understand the proce…](https://twitter.com/alexxubyte/status/1700031970401759377)
+Append: [@alexxubyte: RT by @alexxubyte: How Do C++, Java, Python Work?
+
+The diagram shows how the compilation and execution work.
+
+Compiled languages are compiled…](https://twitter.com/alexxubyte/status/1700004120873275480)
+Append: [@alexxubyte: How Do C++, Java, Python Work?
+
+The diagram shows how the compilation and execution work.
+
+Compiled languages are compiled into machine code by the compiler. The machine code can later be executed directly by the CPU. Examples: C, C++, Go.
+
+A bytecode language like Java, compiles…](https://twitter.com/alexxubyte/status/1699807446834000045)
+Append: [@bytebytego: RT by @alexxubyte: Would it be nice if the code we wrote automatically turned into architecture diagrams?
+
+I recently discovered a GitHub repo…](https://twitter.com/alexxubyte/status/1699666735111246208)
+Append: [@alexxubyte: Explaining 7 Popular Network Protocols in 1 Diagram.
+
+The diagram below shows how network protocols are used in a typical eCommerce website.
+
+1. DNS (Domain Name Service)
+When we type a URL (Uniform Resource Locator) in a web browser, a DNS resolver translates the hostname of the…](https://twitter.com/alexxubyte/status/1699441172479881638)
+append_entries: 203
+Finish: 2023-09-27 02:36:36.907813
