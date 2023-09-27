@@ -2096,3 +2096,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [扎克伯格投资百亿的 Metaverse ，如今过的怎么样？](https://www.ifanr.com/1563528?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-09-27 12:20:34.450680
+------------------------------------------------------
+Started: 2023-09-27 14:10:14.873931
+Existing_entries: 84
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [机票 99 元的春秋航空们，真的便宜吗](https://www.ifanr.com/1563532?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-09-27 14:10:16.878021
