@@ -2027,3 +2027,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报|中国队夺亚运电竞首金/消息称 iPhone 16 将新增「拍摄按钮」/哈佛研究发现 GPT-4 使企业员工绩效提升 40%](https://www.ifanr.com/1563473?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-09-27 00:49:10.730641
+------------------------------------------------------
+Started: 2023-09-27 01:51:12.156099
+Existing_entries: 79
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [宝马内燃机，进入倒计时](https://www.ifanr.com/1563367?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-09-27 01:51:14.209932

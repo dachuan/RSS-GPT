@@ -2604,3 +2604,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-09-27 00:49:15.963492
+------------------------------------------------------
+Started: 2023-09-27 01:51:15.602945
+Existing_entries: 91
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [有大佬试过navidrome吗？请教一个标签乱码的问题](https://meta.appinn.net/t/topic/47777)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-09-27 01:51:19.558487
