@@ -3664,3 +3664,15 @@ Existing_entries: 57
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-27 02:36:24.640221
+------------------------------------------------------
+Started: 2023-09-27 04:07:27.136897
+Existing_entries: 57
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)
+append_entries: 2
+Finish: 2023-09-27 04:07:27.665747

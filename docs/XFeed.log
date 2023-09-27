@@ -825,3 +825,45 @@ The diagram below shows how network protocols are used in a typical eCommerce we
 When we type a URL (Uniform Resource Locator) in a web browser, a DNS resolver translates the hostname of the…](https://twitter.com/alexxubyte/status/1699441172479881638)
 append_entries: 203
 Finish: 2023-09-27 02:36:36.907813
+------------------------------------------------------
+Started: 2023-09-27 04:07:31.891283
+Existing_entries: 203
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Append: [@nishuang: 世界上最小的打碟装备
+
+用的是 teenage engineering 的 TP-7 录音机 + TX-6 混音台
+
+再次羡慕会玩乐器的人👏😂
+
+#设计参考](https://twitter.com/nishuang/status/1706869727790858611)
+Append: [@dotey: RT by @nishuang: 40位AI创始人分享了他们在日常生活中的AI使用经验。其中有趣的使用案例包括用AI写婚礼演讲和声音机器人。同时，AI在编码和界面设计方面也显示出强大的能力，只需指示所需的改动，AI便能自行调整代码以满足需求。…](https://twitter.com/nishuang/status/1706868495412060202)
+Append: [@nishuang: 怎么手工制作网页？
+
+拿草稿纸画一个，然后用 GPT-4，直接把手画的草图变成网页设计和相应代码
+
+真实展示了 GPT-4 多模态的处理能力。这对设计流程而言可能不算什么，对开发流程而言显然会引起新变化
+
+另外一边，Figma 也在逐步实现 AI 的设计能力，那一块倒是真的会改变设计流程
+
+#设计AI](https://twitter.com/nishuang/status/1706867570614129016)
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: 又一个
+
+在纸上随便画个网页原型草图
+
+GPT 4V帮你写好代码😅](https://twitter.com/xiaohuggg/status/1706876911526551755)
+Append: [@xiaohuggg: 教程：使用 ComfyUI AnimateDiff 对视频进行 vid2vid 转换
+
+详细解释了如何使用ControlNet的Openpose和Depth功能将原始视频转换为不同风格（如动画、实拍等）的视频。
+
+文章还列出了需要准备的工具和步骤，包括使用ComfyUI Manager进行安装，以及如何进行前处理和动画生成。作者：@bk_sakurai…](https://twitter.com/xiaohuggg/status/1706859510953037899)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 5
+Finish: 2023-09-27 04:07:36.082578
