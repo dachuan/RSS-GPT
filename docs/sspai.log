@@ -3772,3 +3772,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
 append_entries: 1
 Finish: 2023-09-28 06:14:41.999058
+------------------------------------------------------
+Started: 2023-09-28 08:14:25.250134
+Existing_entries: 63
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-09-28 08:14:25.407554
