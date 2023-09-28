@@ -3799,3 +3799,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
 append_entries: 2
 Finish: 2023-09-28 12:20:21.469845
+------------------------------------------------------
+Started: 2023-09-28 14:10:40.981204
+Existing_entries: 66
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
+append_entries: 1
+Finish: 2023-09-28 14:10:41.368919
