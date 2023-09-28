@@ -3754,3 +3754,12 @@ Existing_entries: 61
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-28 02:17:20.848911
+------------------------------------------------------
+Started: 2023-09-28 04:12:44.363429
+Existing_entries: 61
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
+append_entries: 1
+Finish: 2023-09-28 04:12:44.824454
