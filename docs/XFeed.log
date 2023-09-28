@@ -1342,3 +1342,64 @@ Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 13
 Finish: 2023-09-28 04:12:56.960584
+------------------------------------------------------
+Started: 2023-09-28 06:14:51.011020
+Existing_entries: 287
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Append: [@nishuang: RT by @nishuang: 怎么用白板直接开发程序
+
+#设计AI
+
+下面的视频演示了用 GPT-4 的多模态处理能力，直接把白板上画的流程图变成可以运行的程序代码，并创建相应网页。GPT-4 过于强大，人类的未来看来已经被诅咒了](https://twitter.com/nishuang/status/1707253505306640403)
+Append: [@nishuang: RT by @nishuang: 罗技 Logitech 开卖折叠版的赛车游戏座舱，据说可以适配罗技和其他品牌的各种方向盘、油门、踏板
+
+299 美元
+
+媒体说它本质上就是个沙滩椅/野餐椅](https://twitter.com/nishuang/status/1707244995244101805)
+Append: [@dotey: RT by @nishuang: 这位网友给 ChatGPT 提供了 SaaS 后台的截图，ChatGPT 为他编写了前端代码，并且最终显示效果几乎以假乱真，先模拟的假数据都一样。
+
+他感慨说这就是未来。
+
+给他的视频加了个中文字幕](https://twitter.com/nishuang/status/1707240958981492996)
+Append: [@dotey: RT by @nishuang: Meta AI是一款虚拟助手，能提供流畅的交流体验，仿佛与真人对话。该助手可以通过WhatsApp、Messenger和Instagram Direct等平台接收消息并提供服务，未来还将支持Quest 3设备。
+
+Meta AI建立在Llama 2技术基础…](https://twitter.com/nishuang/status/1707238972273918180)
+Append: [@xiaohuggg: RT by @nishuang: Adobe 发布Photoshop网页版 支持Firefly AI生成功能
+
+包括了Generative Fill（智能填充）和Generative Expand（智能扩展）功能。允许用户非破坏性地从图像中添加、扩展或删除内容，支持100多种语言。…](https://twitter.com/nishuang/status/1707238799527264710)
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@dotey: 更新 2023-09-27：Prompt后续优化，借助CoT改进翻译结果](https://twitter.com/dotey/status/1707255054883831996)
+Append: [@dotey: Prompt的后续优化](https://twitter.com/dotey/status/1707253828481954159)
+Append: [@dotey: 之前我分享过，每次翻译字幕时，在精翻阶段，通常我会让ChatGPT给我提供3-5个不同风格的翻译选项，然后我从中挑选好的，大部分时候都不需要修改，只要逐句选择最好的翻译就好了。
+
+虽然已经简单很多了，但是还是有点筛选工作，于是我想，是不是可以优化一下这个过程？…](https://twitter.com/dotey/status/1707253637682982979)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: 雷朋Meta AI眼镜宣传演示视频
+
+如果真像视频里面这样，感觉倒是可以入手一个
+
+我有个大胆的想法：想试试第一视角直播
+
+哈哈哈...😏😏](https://twitter.com/xiaohuggg/status/1707262391963271297)
+Append: [@xiaohuggg: 表情生成演示，输入文本提示词即可
+
+生成会帮你自动去除背景](https://twitter.com/xiaohuggg/status/1707255240226177078)
+Append: [@xiaohuggg: EmojiGen： 应该是世界上最大的表情符号库（约 25 万表情）
+
+它还有个开源项目，可以利用文本提示生成表情。
+接受用户的提示，生成一个表情。然后，使用Replicate去除背景。用户可以点击下载并添加到Slack。
+
+在线体验：
+GitHub：](https://twitter.com/xiaohuggg/status/1707254655657615794)
+Append: [@xiaohuggg: 使用Llama 2模型的企业项目启动数量在Google Cloud和AWS共计超过3,500个。Hugging Face上优化并发布了超过7,000个衍生模型。GitHub上有超过7,000个项目是基于或提及Llama构建的。
+
+Meta这个开源策略可能会让Llama成为人工智能时代下一个安卓😎](https://twitter.com/xiaohuggg/status/1707241534515757495)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 12
+Finish: 2023-09-28 06:14:52.102516
