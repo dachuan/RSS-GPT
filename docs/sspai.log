@@ -3778,3 +3778,12 @@ Existing_entries: 63
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-28 08:14:25.407554
+------------------------------------------------------
+Started: 2023-09-28 10:11:28.590434
+Existing_entries: 63
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/post/75712)
+append_entries: 1
+Finish: 2023-09-28 10:11:28.939601
