@@ -1610,3 +1610,33 @@ The diagram below shows a comparison of normal CRUD system design and event sour
 The event sourcing paradigm is used to design a system with…](https://twitter.com/alexxubyte/status/1707415524374966673)
 append_entries: 9
 Finish: 2023-09-28 16:13:59.042734
+------------------------------------------------------
+Started: 2023-09-28 18:13:51.997640
+Existing_entries: 333
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@dotey: 原始视频：](https://twitter.com/dotey/status/1707449594240483504)
+Append: [@dotey: 视频](https://twitter.com/dotey/status/1707449442515755448)
+Append: [@dotey: 近期福布斯对马克-扎克伯的一次访谈，一些有意思的话题
+
+被问到在他的一生中最重大的技术创新是什么？
+
+马克认为是移动互联网，但最期待AI和元宇宙，注意AI现在在元宇宙前面了😄
+
+另外他认为未来不会有一种大的中央超级AI，而是会有很多不同的 AI…](https://twitter.com/dotey/status/1707449242095161664)
+Append: [@lencx_: RT by @dotey: 😂 笑死了，编程语言之前最多是互相伤害，ChatGPT 是想一锅端...](https://twitter.com/dotey/status/1707422791086092431)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: 苹果CoreML 版 SDXL 现在实现了可以在离线的情况下在iPhone上运行。
+
+经过4位权重压缩，兼容 iOS17 并且可以在iPhone 13Pro以上的iPhone上运行！
+
+速度好像还挺快…](https://twitter.com/xiaohuggg/status/1707427456209256753)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 5
+Finish: 2023-09-28 18:13:55.186510
