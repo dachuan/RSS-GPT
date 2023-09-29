@@ -1937,3 +1937,20 @@ Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 3
 Finish: 2023-09-29 10:11:46.533511
+------------------------------------------------------
+Started: 2023-09-29 12:20:24.610577
+Existing_entries: 379
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Append: [@yihong0618:](https://twitter.com/yihong0618/status/1707694555427143729)
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@Stanley83784547: RT by @dotey: @hwjia @dotey 打印就是输出，这个prompt中要求翻译两次，gpt很可能会直接输出最终结果而忽略过程，所以要求打印两次就是把第一次翻译的过程给显示出来。](https://twitter.com/dotey/status/1707713663119896976)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 2
+Finish: 2023-09-29 12:20:27.324182

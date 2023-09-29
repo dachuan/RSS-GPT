@@ -3871,3 +3871,12 @@ Existing_entries: 68
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-29 10:11:35.669233
+------------------------------------------------------
+Started: 2023-09-29 12:20:19.347702
+Existing_entries: 68
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)
+append_entries: 1
+Finish: 2023-09-29 12:20:20.394325
