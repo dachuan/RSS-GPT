@@ -3880,3 +3880,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)
 append_entries: 1
 Finish: 2023-09-29 12:20:20.394325
+------------------------------------------------------
+Started: 2023-09-29 14:09:06.342104
+Existing_entries: 69
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-09-29 14:09:06.493397
