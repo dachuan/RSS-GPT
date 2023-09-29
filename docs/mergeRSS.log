@@ -348,3 +348,13 @@ Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyis
 Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
 append_entries: 0
 Finish: 2023-09-29 02:17:54.032541
+------------------------------------------------------
+Started: 2023-09-29 04:12:54.004706
+Existing_entries: 16
+Fetching from https://utgd.net/feed
+Feed error: 301
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyisheng?code=ee98b264d5c3272d2bf137aaefbf006a
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
+Append: [飞檐走壁朴小胖发布了想法:](https://www.zhihu.com/pin/1691053528964063232)
+append_entries: 1
+Finish: 2023-09-29 04:13:01.857838
