@@ -3850,3 +3850,12 @@ Existing_entries: 67
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-09-29 04:12:53.974089
+------------------------------------------------------
+Started: 2023-09-29 06:14:14.396961
+Existing_entries: 67
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
+append_entries: 1
+Finish: 2023-09-29 06:14:14.762391
