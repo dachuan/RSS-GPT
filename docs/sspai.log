@@ -3859,3 +3859,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
 append_entries: 1
 Finish: 2023-09-29 06:14:14.762391
+------------------------------------------------------
+Started: 2023-09-29 08:14:04.234340
+Existing_entries: 68
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-09-29 08:14:04.437639
