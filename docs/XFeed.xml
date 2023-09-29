@@ -5,17 +5,97 @@
 <link>https://twitter.com/alexxubyte</link>
 
 <item>
+<title>@kepano: crazy prediction: Apple will add cameras to the stem of AirPods
+
+this would enable you to point at things and talk to an AI assistant without wearing glasses</title>
+<link>https://twitter.com/kepano/status/1707835794050920656</link>
+<guid>https://twitter.com/kepano/status/1707835794050920656</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">crazy prediction: Apple will add cameras to the stem of AirPods<br /><br />this would enable you to point at things and talk to an AI assistant without wearing glasses</p>— kepano (@kepano) <a href="https://twitter.com/kepano/status/1707835794050920656?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 19:12:38 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 19:12:38 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg: RT by @dotey: Shopify在Hugging Face平台创建的一个产品图像的 SDXL背景替换工具，上传任意照片，输入提示即可帮你替换和增加图片背景。
+
+该空间在A100上运行...
+
+🚪传送门： https://…</title>
+<link>https://twitter.com/dotey/status/1707836468096299309</link>
+<guid>https://twitter.com/dotey/status/1707836468096299309</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">Shopify在Hugging Face平台创建的一个产品图像的 SDXL背景替换工具，上传任意照片，输入提示即可帮你替换和增加图片背景。<br /><br />该空间在A100上运行...<br /><br />🚪传送门：<a href="https://t.co/tjuXCXItPT">https://t.co/tjuXCXItPT</a> <a href="https://t.co/XpLcgLNL0f">pic.twitter.com/XpLcgLNL0f</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1707564728279834979?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 19:15:18 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 19:15:18 GMT</updated>
+</item>
+<item>
+<title>@dotey: 这位网友再次演示了用 ChatGPT Vision 可以从 Figma 截图并生成前端代码，他甚至指定了使用一个流行的前端库shadcn ui  ，通过提供给ChatGPT shadcn上的代码示例，ChatGPT就能基于代码示例和UI截图，生成代码，运行效果和截图基本一致。
+
+视频加上了中文字幕</title>
+<link>https://twitter.com/dotey/status/1707835773859352794</link>
+<guid>https://twitter.com/dotey/status/1707835773859352794</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">这位网友再次演示了用 ChatGPT Vision 可以从 Figma 截图并生成前端代码，他甚至指定了使用一个流行的前端库shadcn ui <a href="https://t.co/xCVTNun54v">https://t.co/xCVTNun54v</a> ，通过提供给ChatGPT shadcn上的代码示例，ChatGPT就能基于代码示例和UI截图，生成代码，运行效果和截图基本一致。<br /><br />视频加上了中文字幕 <a href="https://t.co/dqtLIl19G0">https://t.co/dqtLIl19G0</a> <a href="https://t.co/k3Gk7SRDU4">pic.twitter.com/k3Gk7SRDU4</a></p>— 宝玉 (@dotey) <a href="https://twitter.com/dotey/status/1707835773859352794?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 19:12:33 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 19:12:33 GMT</updated>
+</item>
+<item>
+<title>@Gorden_Sun: RT by @dotey: RECONCILE框架：让多个LLM，经过多轮讨论，产生最终的回复。有点三个臭皮匠顶个诸葛亮的意思。
+第一轮每个LLM生成初始答案、一个例子和对答案的自信程度。
+第2-N轮开始每个LLM对其他LLM的答案进行质疑。
+达成一致后或达到轮数上限后，按…</title>
+<link>https://twitter.com/dotey/status/1707816674659836367</link>
+<guid>https://twitter.com/dotey/status/1707816674659836367</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">RECONCILE框架：让多个LLM，经过多轮讨论，产生最终的回复。有点三个臭皮匠顶个诸葛亮的意思。<br />第一轮每个LLM生成初始答案、一个例子和对答案的自信程度。<br />第2-N轮开始每个LLM对其他LLM的答案进行质疑。<br />达成一致后或达到轮数上限后，按权重输出最终答案。<br />Github：<a href="https://t.co/5Af5Argy2F">https://t.co/5Af5Argy2F</a> <a href="https://t.co/QZO4AiSyiq">pic.twitter.com/QZO4AiSyiq</a></p>— Gorden Sun (@Gorden_Sun) <a href="https://twitter.com/Gorden_Sun/status/1707754935092183432?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 17:56:39 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 17:56:39 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg:</title>
+<link>https://twitter.com/xiaohuggg/status/1707820342629249071</link>
+<guid>https://twitter.com/xiaohuggg/status/1707820342629249071</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zxx"><a href="https://t.co/3B7Zq2KAmD">https://t.co/3B7Zq2KAmD</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1707820342629249071?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 18:11:14 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 18:11:14 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg: Poe上线SDXL机器人，你可以在上面直接输入文字生成图片
+
+速度挺快！
+
+而且还可以创建不同风格类型的SDXL机器人，比如梵高风格、赛博风等👍</title>
+<link>https://twitter.com/xiaohuggg/status/1707820187335143604</link>
+<guid>https://twitter.com/xiaohuggg/status/1707820187335143604</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">Poe上线SDXL机器人，你可以在上面直接输入文字生成图片<br /><br />速度挺快！<br /><br />而且还可以创建不同风格类型的SDXL机器人，比如梵高风格、赛博风等👍<br /><br /> <a href="https://t.co/951jUVJTpf">pic.twitter.com/951jUVJTpf</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1707820187335143604?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 18:10:37 GMT</pubDate>
+<updated>Fri, 29 Sep 2023 18:10:37 GMT</updated>
+</item>
+
+<item>
 <title>@xiaohuggg: 测试了，很好用
 
 👍</title>
 <link>https://twitter.com/xiaohuggg/status/1707798400450843120</link>
 <guid>https://twitter.com/xiaohuggg/status/1707798400450843120</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">测试了，很好用<br /><br />👍 <a href="https://t.co/lxx7rFMHCF">https://t.co/lxx7rFMHCF</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1707798400450843120?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 29 Sep 2023 16:44:02 GMT</pubDate>
-<updated>Fri, 29 Sep 2023 16:44:02 GMT</updated>
 </item>
 <item>
 <title>@alexxubyte: What is k8s (Kubernetes)?
@@ -26,13 +106,10 @@ A k8s cluster consists of a set of worker machines, called nodes, that run conta
 <link>https://twitter.com/alexxubyte/status/1707787591792337271</link>
 <guid>https://twitter.com/alexxubyte/status/1707787591792337271</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">What is k8s (Kubernetes)?<br /><br />k8s is a container orchestration system. It is used for container deployment and management. Its design is greatly impacted by Google’s internal system Borg.<br /><br />A k8s cluster consists of a set of worker machines, called nodes, that run containerized… <a href="https://t.co/Fsx2vek2sa">pic.twitter.com/Fsx2vek2sa</a></p>— Alex Xu (@alexxubyte) <a href="https://twitter.com/alexxubyte/status/1707787591792337271?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 29 Sep 2023 16:01:05 GMT</pubDate>
-<updated>Fri, 29 Sep 2023 16:01:05 GMT</updated>
 </item>
-
 <item>
 <title>@kepano: RT by @kepano: Sensory computing opens up new superpowers that we can borrow from nature. Animals, plants and other organisms can sense things…</title>
 <link>https://twitter.com/kepano/status/1707778710064243160</link>

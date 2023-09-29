@@ -2043,3 +2043,39 @@ k8s is a container orchestration system. It is used for container deployment and
 A k8s cluster consists of a set of worker machines, called nodes, that run containerized…](https://twitter.com/alexxubyte/status/1707787591792337271)
 append_entries: 2
 Finish: 2023-09-29 18:14:03.499805
+------------------------------------------------------
+Started: 2023-09-29 20:11:30.951120
+Existing_entries: 394
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Append: [@kepano: crazy prediction: Apple will add cameras to the stem of AirPods
+
+this would enable you to point at things and talk to an AI assistant without wearing glasses](https://twitter.com/kepano/status/1707835794050920656)
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@xiaohuggg: RT by @dotey: Shopify在Hugging Face平台创建的一个产品图像的 SDXL背景替换工具，上传任意照片，输入提示即可帮你替换和增加图片背景。
+
+该空间在A100上运行...
+
+🚪传送门： https://…](https://twitter.com/dotey/status/1707836468096299309)
+Append: [@dotey: 这位网友再次演示了用 ChatGPT Vision 可以从 Figma 截图并生成前端代码，他甚至指定了使用一个流行的前端库shadcn ui  ，通过提供给ChatGPT shadcn上的代码示例，ChatGPT就能基于代码示例和UI截图，生成代码，运行效果和截图基本一致。
+
+视频加上了中文字幕](https://twitter.com/dotey/status/1707835773859352794)
+Append: [@Gorden_Sun: RT by @dotey: RECONCILE框架：让多个LLM，经过多轮讨论，产生最终的回复。有点三个臭皮匠顶个诸葛亮的意思。
+第一轮每个LLM生成初始答案、一个例子和对答案的自信程度。
+第2-N轮开始每个LLM对其他LLM的答案进行质疑。
+达成一致后或达到轮数上限后，按…](https://twitter.com/dotey/status/1707816674659836367)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg:](https://twitter.com/xiaohuggg/status/1707820342629249071)
+Append: [@xiaohuggg: Poe上线SDXL机器人，你可以在上面直接输入文字生成图片
+
+速度挺快！
+
+而且还可以创建不同风格类型的SDXL机器人，比如梵高风格、赛博风等👍](https://twitter.com/xiaohuggg/status/1707820187335143604)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 6
+Finish: 2023-09-29 20:11:34.837575
