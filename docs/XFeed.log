@@ -2020,3 +2020,26 @@ Append: [@vista8: 明天计划5点起床赶海。
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 5
 Finish: 2023-09-29 16:13:51.368570
+------------------------------------------------------
+Started: 2023-09-29 18:14:00.202231
+Existing_entries: 392
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: 测试了，很好用
+
+👍](https://twitter.com/xiaohuggg/status/1707798400450843120)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+Append: [@alexxubyte: What is k8s (Kubernetes)?
+
+k8s is a container orchestration system. It is used for container deployment and management. Its design is greatly impacted by Google’s internal system Borg.
+
+A k8s cluster consists of a set of worker machines, called nodes, that run containerized…](https://twitter.com/alexxubyte/status/1707787591792337271)
+append_entries: 2
+Finish: 2023-09-29 18:14:03.499805
