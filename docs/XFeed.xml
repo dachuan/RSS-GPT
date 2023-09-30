@@ -5,26 +5,34 @@
 <link>https://twitter.com/alexxubyte</link>
 
 <item>
+<title>@laixintao: RT by @yihong0618: flameshow 做了一点优化，能展示更多的信息了，渲染速度也更快了。删除了 Python 通过 cffi 调用 golang 来解析 pprof 文件，直接换成了用 Python 来解析。现在是纯 Python 工具了，没有了跨语言依赖，安装更…</title>
+<link>https://twitter.com/yihong0618/status/1708046794524065970</link>
+<guid>https://twitter.com/yihong0618/status/1708046794524065970</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">flameshow 做了一点优化，能展示更多的信息了，渲染速度也更快了。删除了 Python 通过 cffi 调用 golang 来解析 pprof 文件，直接换成了用 Python 来解析。现在是纯 Python 工具了，没有了跨语言依赖，安装更简单了。<br /><br />欢迎更新体验。<br /><br />pip install -U flameshow<a href="https://t.co/cpF0Q0l9tt">https://t.co/cpF0Q0l9tt</a> <a href="https://t.co/pHqmq7i5bW">pic.twitter.com/pHqmq7i5bW</a></p>— laixintao (@laixintao) <a href="https://twitter.com/laixintao/status/1708046697539285191?ref_src=twsrc%5Etfw">September 30, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 30 Sep 2023 09:11:04 GMT</pubDate>
+<updated>Sat, 30 Sep 2023 09:11:04 GMT</updated>
+</item>
+
+<item>
 <title>@leeeboo: RT by @yihong0618: 26度的烈日下还行哈：）这件衣服之后5公里坏了…</title>
 <link>https://twitter.com/yihong0618/status/1707997806991180119</link>
 <guid>https://twitter.com/yihong0618/status/1707997806991180119</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">26度的烈日下还行哈：）这件衣服之后5公里坏了… <a href="https://t.co/kSiw1isEdB">pic.twitter.com/kSiw1isEdB</a></p>— 李博 (@leeeboo) <a href="https://twitter.com/leeeboo/status/1707992936053661801?ref_src=twsrc%5Etfw">September 30, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 30 Sep 2023 05:56:24 GMT</pubDate>
-<updated>Sat, 30 Sep 2023 05:56:24 GMT</updated>
 </item>
 <item>
 <title>@dotey: 所以我下一步打算写一个Chrome插件，把一些操作自动化</title>
 <link>https://twitter.com/dotey/status/1707997334737424494</link>
 <guid>https://twitter.com/dotey/status/1707997334737424494</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">所以我下一步打算写一个Chrome插件，把一些操作自动化 <a href="https://t.co/VZ9b0A4fgb">https://t.co/VZ9b0A4fgb</a></p>— 宝玉 (@dotey) <a href="https://twitter.com/dotey/status/1707997334737424494?ref_src=twsrc%5Etfw">September 30, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 30 Sep 2023 05:54:32 GMT</pubDate>
-<updated>Sat, 30 Sep 2023 05:54:32 GMT</updated>
 </item>
 <item>
 <title>@bytebytego: RT by @alexxubyte: Eight Data Structures That Power Your Databases. Which one should we pick?
@@ -33,13 +41,10 @@ The answer will vary depending on your use case…</title>
 <link>https://twitter.com/alexxubyte/status/1708000324911534344</link>
 <guid>https://twitter.com/alexxubyte/status/1708000324911534344</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">Eight Data Structures That Power Your Databases. Which one should we pick?<br /><br />The answer will vary depending on your use case. Data can be indexed in memory or on disk. Similarly, data formats vary, such as numbers, strings, geographic coordinates, etc. The system might be… <a href="https://t.co/c179tm6OZR">pic.twitter.com/c179tm6OZR</a></p>— Bytebytego (@bytebytego) <a href="https://twitter.com/bytebytego/status/1708000272679866705?ref_src=twsrc%5Etfw">September 30, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 30 Sep 2023 06:06:25 GMT</pubDate>
-<updated>Sat, 30 Sep 2023 06:06:25 GMT</updated>
 </item>
-
 <item>
 <title>@BillChen2K: RT by @yihong0618: 这次中秋回家给爸妈见识了一下 ChatGPT 的魔力，他们的震撼无以复加，惊恐的表情写满了第四次工业革命带来的推背感。我于是成为了他们所有文书报告的润色/扩写/改写助手🤣</title>
 <link>https://twitter.com/yihong0618/status/1707963866125382082</link>
