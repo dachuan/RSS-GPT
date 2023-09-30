@@ -2355,3 +2355,25 @@ Append: [@alexxubyte: Almost every software engineer has used Git before, but on
 To begin with, it's essential to identify where our code is stored. The common assumption is that there are only two locations - one on a remote server like Github and the other on our…](https://twitter.com/alexxubyte/status/1708145139515109449)
 append_entries: 1
 Finish: 2023-09-30 18:12:49.084762
+------------------------------------------------------
+Started: 2023-09-30 20:10:27.974272
+Existing_entries: 440
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Append: [@dotey: 视频演示](https://twitter.com/dotey/status/1708185489658749431)
+Append: [@dotey: 现在用ChatGPT的过程中，最烦的是有很多体力活，尤其是长的文本分块，然后一次次复制粘贴，然后手工合并，这个过程是不是可以全自动化？整了个POC来验证是不是可行。…](https://twitter.com/dotey/status/1708185220929802369)
+Append: [@dotey: 整了个POC，尝试用ChatGPT全自动方式（用脚本自动分块自动提交）翻译了经济学人一篇长文，一个字都没改，大家觉得机翻痕迹严重吗？
+-----------------
+
+ <微软力图凭借 AI 超越苹果，成为世界市值最高企业>
+-- 微软期望通过发挥 AI 的力量，彻底转变未来工作的面貌…](https://twitter.com/dotey/status/1708181333464211902)
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 3
+Finish: 2023-09-30 20:10:32.139276
