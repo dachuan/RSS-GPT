@@ -2826,3 +2826,26 @@ Append: [@bytebytego: RT by @alexxubyte: Netflix Tech Stack - Part 1 (CI/CD Pipe
 Planing: Netflix Engineering uses JIRA for planning and Confluence for docume…](https://twitter.com/alexxubyte/status/1708724395790012838)
 append_entries: 1
 Finish: 2023-10-02 08:14:32.391228
+------------------------------------------------------
+Started: 2023-10-02 10:11:56.216924
+Existing_entries: 514
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: Gossip：在线快速创建精彩而有趣的PPT  
+
+直观和高效的用户界面，解决了传统PPT的多个问题。在Gossip里，你有个专门的地方可以先把所有想到的点子记下来，然后形成大纲，大纲直接生成PPT。
+
+你可以像搭积木一样，把你的内容按照你想要的顺序排列好，不用像以前那样一个个拖动幻灯片。…](https://twitter.com/xiaohuggg/status/1708766583785656421)
+Append: [@xiaohuggg: 教程：使用 Animatediff-Cli-Prompt-Travel 创建动画指南。
+
+该方案与大多数其他方案不同，因为它只需要简单的垫图和prompt效果即可达到很好的效果。不需要依赖其他工具，直接进行面部替换和风格化。逐帧拆视频, 然后 SD 图生图, 轻量重绘，生成的视频无闪烁。…](https://twitter.com/xiaohuggg/status/1708756160269140179)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 2
+Finish: 2023-10-02 10:11:58.903556

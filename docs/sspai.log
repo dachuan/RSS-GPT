@@ -4087,3 +4087,12 @@ Existing_entries: 70
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-02 08:14:24.736249
+------------------------------------------------------
+Started: 2023-10-02 10:11:46.897532
+Existing_entries: 70
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [巧用 Word 邮件合并，半自动生成活动照片记录文档](https://sspai.com/post/83276)
+append_entries: 1
+Finish: 2023-10-02 10:11:47.336762
