@@ -4105,3 +4105,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/post/83333)
 append_entries: 1
 Finish: 2023-10-02 12:20:48.101142
+------------------------------------------------------
+Started: 2023-10-02 14:10:42.047028
+Existing_entries: 72
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-02 14:10:42.279680
