@@ -2435,3 +2435,12 @@ Existing_entries: 89
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-02 00:50:02.310655
+------------------------------------------------------
+Started: 2023-10-02 02:18:43.916011
+Existing_entries: 89
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [早报｜特斯拉新款 Model Y 上市 / 宝马无线充电或损坏 iPhone 15 NFC 芯片 / LV 老板涉嫌洗钱遭调查](https://www.ifanr.com/1563785?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-02 02:18:46.101014
