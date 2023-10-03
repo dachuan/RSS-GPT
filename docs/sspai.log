@@ -4192,3 +4192,12 @@ Existing_entries: 75
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-03 14:10:50.809621
+------------------------------------------------------
+Started: 2023-10-03 16:14:01.096555
+Existing_entries: 75
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [用「快捷短语」提高搜索效率：工具设置与自建服务](https://sspai.com/post/83347)
+append_entries: 1
+Finish: 2023-10-03 16:14:01.800978
