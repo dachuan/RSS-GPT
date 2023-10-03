@@ -5,28 +5,46 @@
 <link>https://twitter.com/alexxubyte</link>
 
 <item>
+<title>@yihong0618:</title>
+<link>https://twitter.com/yihong0618/status/1709069134271758702</link>
+<guid>https://twitter.com/yihong0618/status/1709069134271758702</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zxx"><a href="https://t.co/DF7ODjTtzN">https://t.co/DF7ODjTtzN</a> <a href="https://t.co/j2bWgfR5ud">pic.twitter.com/j2bWgfR5ud</a></p>— yihong0618 (@yihong0618) <a href="https://twitter.com/yihong0618/status/1709069134271758702?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 04:53:29 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 04:53:29 GMT</updated>
+</item>
+<item>
+<title>@janus_of_DC: RT by @yihong0618: @evilcos 看 cat 的实现，似乎并不会一次性读进内存，而是分配一个相对较小的缓冲区，边读边写。</title>
+<link>https://twitter.com/yihong0618/status/1709067114290851962</link>
+<guid>https://twitter.com/yihong0618/status/1709067114290851962</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">看 cat 的实现，似乎并不会一次性读进内存，而是分配一个相对较小的缓冲区，边读边写。<a href="https://t.co/Lghw8eSZT6">https://t.co/Lghw8eSZT6</a></p>— DCjanus (@janus_of_DC) <a href="https://twitter.com/janus_of_DC/status/1708924572417093646?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 04:45:27 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 04:45:27 GMT</updated>
+</item>
+
+<item>
 <title>@huangyun_122: 当我颤巍巍地把 GPT 4 API 写进环境变量时， 脑袋里抑制不住要在后面加个盐，虽然没几个钱，但对损失的厌恶，几乎是刻在骨子里的</title>
 <link>https://twitter.com/huangyun_122/status/1709033142781411834</link>
 <guid>https://twitter.com/huangyun_122/status/1709033142781411834</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">当我颤巍巍地把 GPT 4 API 写进环境变量时， 脑袋里抑制不住要在后面加个盐，虽然没几个钱，但对损失的厌恶，几乎是刻在骨子里的 <a href="https://t.co/S2hB8UW2Z7">https://t.co/S2hB8UW2Z7</a></p>— 黄赟 (@huangyun_122) <a href="https://twitter.com/huangyun_122/status/1709033142781411834?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 03 Oct 2023 02:30:28 GMT</pubDate>
-<updated>Tue, 03 Oct 2023 02:30:28 GMT</updated>
 </item>
 <item>
 <title>@DIYgod: RT by @yihong0618: 28 年的发小成为了夫妻</title>
 <link>https://twitter.com/yihong0618/status/1709045069846610299</link>
 <guid>https://twitter.com/yihong0618/status/1709045069846610299</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">28 年的发小成为了夫妻 <a href="https://t.co/gvh6RPj871">pic.twitter.com/gvh6RPj871</a></p>— DIŸgöd ☀️ (@DIYgod) <a href="https://twitter.com/DIYgod/status/1709044839638331768?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 03 Oct 2023 03:17:51 GMT</pubDate>
-<updated>Tue, 03 Oct 2023 03:17:51 GMT</updated>
 </item>
-
 <item>
 <title>@xiaohuggg: Stability AI 发布其最新的语言模型：Stable LM 3B，可在笔记本和手机上运行。
 

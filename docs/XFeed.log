@@ -3082,3 +3082,20 @@ Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 2
 Finish: 2023-10-03 04:12:56.633987
+------------------------------------------------------
+Started: 2023-10-03 06:14:37.847934
+Existing_entries: 536
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Append: [@yihong0618:](https://twitter.com/yihong0618/status/1709069134271758702)
+Append: [@janus_of_DC: RT by @yihong0618: @evilcos 看 cat 的实现，似乎并不会一次性读进内存，而是分配一个相对较小的缓冲区，边读边写。](https://twitter.com/yihong0618/status/1709067114290851962)
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 2
+Finish: 2023-10-03 06:14:39.605041
