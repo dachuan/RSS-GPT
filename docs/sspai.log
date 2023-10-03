@@ -4177,3 +4177,12 @@ Existing_entries: 74
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-03 10:12:04.073727
+------------------------------------------------------
+Started: 2023-10-03 12:21:10.114476
+Existing_entries: 74
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
+append_entries: 1
+Finish: 2023-10-03 12:21:10.665381
