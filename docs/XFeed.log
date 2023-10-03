@@ -3039,3 +3039,29 @@ Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
 Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
 append_entries: 2
 Finish: 2023-10-03 00:49:42.237381
+------------------------------------------------------
+Started: 2023-10-03 02:18:37.875014
+Existing_entries: 533
+Fetching from https://rss.app/feeds/ZT9Q3cA6XmH2oOOk.xml
+Fetching from  https://rss.app/feeds/CrAA7uGbmp6X9nWH.xml
+Fetching from  https://rss.app/feeds/OUdZslJpJ916YUBy.xml
+Fetching from  https://rss.app/feeds/rW7nuuOHEC4JbrxN.xml
+Fetching from  https://rss.app/feeds/lrSQttV5sfdBi63K.xml
+Fetching from  https://rss.app/feeds/tCtKCMjwKVcmbAS0.xml
+Fetching from  https://rss.app/feeds/Tbvp0DKCBZy6PIem.xml
+Fetching from  https://rss.app/feeds/7q2ffPciI53zLlnF.xml
+Append: [@xiaohuggg: Stability AI 发布其最新的语言模型：Stable LM 3B，可在笔记本和手机上运行。
+
+这个模型有30亿个参数，相比于行业通常使用的70亿参数，它更小、更高效。
+
+主要功能：
+
+•文本生成：可以用于生成文本。
+•自回归：基于变换器解码器架构。
+•多样性的训练数据：使用了多个开源大规模数据集。
+
+Stable LM…](https://twitter.com/xiaohuggg/status/1709008041918792112)
+Fetching from  https://rss.app/feeds/gTdmz3zJPvWOdKrx.xml
+Fetching from  https://rss.app/feeds/g6chE142hYeu73sm.xml
+append_entries: 1
+Finish: 2023-10-03 02:18:39.984877
