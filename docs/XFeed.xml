@@ -5,6 +5,137 @@
 <link>https://twitter.com/alexxubyte</link>
 
 <item>
+<title>@yihong0618: 要不，我们还是聊原生家庭吧。。。</title>
+<link>https://twitter.com/yihong0618/status/1709199905531838584</link>
+<guid>https://twitter.com/yihong0618/status/1709199905531838584</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">要不，我们还是聊原生家庭吧。。。 <a href="https://t.co/2zaDp2BchQ">https://t.co/2zaDp2BchQ</a></p>— yihong0618 (@yihong0618) <a href="https://twitter.com/yihong0618/status/1709199905531838584?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:33:07 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:33:07 GMT</updated>
+</item>
+<item>
+<title>@yihong0618: #今天的跑步电台。 有趣，有机会去玩玩。</title>
+<link>https://twitter.com/yihong0618/status/1709196519222673556</link>
+<guid>https://twitter.com/yihong0618/status/1709196519222673556</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh"><a href="https://twitter.com/hashtag/%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%B7%91%E6%AD%A5%E7%94%B5%E5%8F%B0?src=hash&amp;ref_src=twsrc%5Etfw">#今天的跑步电台</a>。 有趣，有机会去玩玩。 <a href="https://t.co/XgCUQ5OIaE">pic.twitter.com/XgCUQ5OIaE</a></p>— yihong0618 (@yihong0618) <a href="https://twitter.com/yihong0618/status/1709196519222673556?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:19:40 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:19:40 GMT</updated>
+</item>
+<item>
+<title>@Skyworship2: RT by @yihong0618: 以前我以为4090是游戏最高的配置
+现在我才知道 原来陪伴才是游戏的最高配</title>
+<link>https://twitter.com/yihong0618/status/1709184776601796614</link>
+<guid>https://twitter.com/yihong0618/status/1709184776601796614</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">以前我以为4090是游戏最高的配置<br />现在我才知道 原来陪伴才是游戏的最高配</p>— Skyworship(祭天) (@Skyworship2) <a href="https://twitter.com/Skyworship2/status/1709184698486841666?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 12:33:00 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 12:33:00 GMT</updated>
+</item>
+<item>
+<title>@LuoSays: RT by @dotey: 好友 @victorzhrn 最近被人用漏洞薅走了 5000 多刀 OpenAI 额度。
+
+据他所说，对方注册了付费用户，拿到 auth，然后再调用一个 chat 的接口来实现盗用。
+
+目前我们在 EarlyBird 中的实践是：</title>
+<link>https://twitter.com/dotey/status/1709198177914527841</link>
+<guid>https://twitter.com/dotey/status/1709198177914527841</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">好友 <a href="https://twitter.com/victorzhrn?ref_src=twsrc%5Etfw">@victorzhrn</a> 最近被人用漏洞薅走了 5000 多刀 OpenAI 额度。<br /><br />据他所说，对方注册了付费用户，拿到 auth，然后再调用一个 chat 的接口来实现盗用。<br /><br />目前我们在 EarlyBird 中的实践是：<br />- 固定 prompts，不给原始接口<br />- 接口限流，并设置上限<br />- 迭代更换 key<br /><br />大家要留心，别让不法分子钻了空子！ <a href="https://t.co/ysIwtk8neZ">pic.twitter.com/ysIwtk8neZ</a></p>— Luo说不啰嗦 (@LuoSays) <a href="https://twitter.com/LuoSays/status/1709120016376103402?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:26:15 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:26:15 GMT</updated>
+</item>
+<item>
+<title>@Gorden_Sun: RT by @dotey: SMPLer-X：输入视频，即可提取视频中的动作。项目演示视频用其他模型复刻了原视频的动作，效果非常好。如果再消除原视频的人物，就实现了Wonders Studio。
+项目地址：
+Github：htt…</title>
+<link>https://twitter.com/dotey/status/1709197983823130670</link>
+<guid>https://twitter.com/dotey/status/1709197983823130670</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">SMPLer-X：输入视频，即可提取视频中的动作。项目演示视频用其他模型复刻了原视频的动作，效果非常好。如果再消除原视频的人物，就实现了Wonders Studio。<br />项目地址：<a href="https://t.co/Ox7V5RiReI">https://t.co/Ox7V5RiReI</a><br />Github：<a href="https://t.co/2VG4vrmERj">https://t.co/2VG4vrmERj</a><br />论文：<a href="https://t.co/s2Sfn9V3zE">https://t.co/s2Sfn9V3zE</a> <a href="https://t.co/tLVRL2Wpal">pic.twitter.com/tLVRL2Wpal</a></p>— Gorden Sun (@Gorden_Sun) <a href="https://twitter.com/Gorden_Sun/status/1709167609722347754?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:25:29 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:25:29 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg: RT by @dotey: Streaming-Llm：可以让大型语言模型处理无限长度的输入，同时不牺牲效率和性能，速度提升22倍。
+
+LLMs通常遇到两个问题：一是它会“忘记”你之前说过什么，因为它的记忆有限；二是如果对话太长，它可能会变得很慢或者出错。… https://…</title>
+<link>https://twitter.com/dotey/status/1709197366564196588</link>
+<guid>https://twitter.com/dotey/status/1709197366564196588</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">Streaming-Llm：可以让大型语言模型处理无限长度的输入，同时不牺牲效率和性能，速度提升22倍。<br /><br />LLMs通常遇到两个问题：一是它会“忘记”你之前说过什么，因为它的记忆有限；二是如果对话太长，它可能会变得很慢或者出错。… <a href="https://t.co/JKCC9PJw93">pic.twitter.com/JKCC9PJw93</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1709182215530361004?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:23:02 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:23:02 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg: SMPLer-X：从视频中准确地识别并提取人体的各种姿态和动作。
+
+SMPLer-X模型使用了大规模的数据集（多达450万个实例）学习了人体姿态和形状的多样性。使得它能够从视频中捕捉到人体、手和脸部的复杂动作。不仅能识别人体的基本形状，还能理解手势和面部表情。…</title>
+<link>https://twitter.com/xiaohuggg/status/1709203997528306043</link>
+<guid>https://twitter.com/xiaohuggg/status/1709203997528306043</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">SMPLer-X：从视频中准确地识别并提取人体的各种姿态和动作。<br /><br />SMPLer-X模型使用了大规模的数据集（多达450万个实例）学习了人体姿态和形状的多样性。使得它能够从视频中捕捉到人体、手和脸部的复杂动作。不仅能识别人体的基本形状，还能理解手势和面部表情。… <a href="https://t.co/jWylij0ev7">pic.twitter.com/jWylij0ev7</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1709203997528306043?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 13:49:23 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 13:49:23 GMT</updated>
+</item>
+<item>
+<title>@xiaohuggg: Streaming-Llm：可以让大型语言模型处理无限长度的输入，同时不牺牲效率和性能，速度提升22倍。
+
+LLMs通常遇到两个问题：一是它会“忘记”你之前说过什么，因为它的记忆有限；二是如果对话太长，它可能会变得很慢或者出错。…</title>
+<link>https://twitter.com/xiaohuggg/status/1709182215530361004</link>
+<guid>https://twitter.com/xiaohuggg/status/1709182215530361004</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">Streaming-Llm：可以让大型语言模型处理无限长度的输入，同时不牺牲效率和性能，速度提升22倍。<br /><br />LLMs通常遇到两个问题：一是它会“忘记”你之前说过什么，因为它的记忆有限；二是如果对话太长，它可能会变得很慢或者出错。… <a href="https://t.co/JKCC9PJw93">pic.twitter.com/JKCC9PJw93</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1709182215530361004?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 12:22:49 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 12:22:49 GMT</updated>
+</item>
+<item>
+<title>@vista8: 2023-10-03 英语短⽂学习
+Almost Gone, by Don Tassone
+
+“We’ve been through this before, you know.”
+我们之前经历过这个，你知道的。
+
+“What?”
+“什么？”
+
+“Almost going extinct.”
+“⼏乎灭绝。”
+
+“Really?”
+“真的吗？”
+
+“Yeah, about a million years ago.”
+“是的，⼤约⼀百万年前。”
+
+“What…</title>
+<link>https://twitter.com/vista8/status/1709189696927191310</link>
+<guid>https://twitter.com/vista8/status/1709189696927191310</guid>
+<content:encoded><![CDATA[
+
+<blockquote class="twitter-tweet"><p dir="ltr" lang="zh">2023-10-03 英语短⽂学习<br />Almost Gone, by Don Tassone<br /><br />“We’ve been through this before, you know.”<br />我们之前经历过这个，你知道的。<br /><br />“What?”<br />“什么？”<br /><br />“Almost going extinct.”<br />“⼏乎灭绝。”<br /><br />“Really?”<br />“真的吗？”<br /><br />“Yeah, about a million years ago.”<br />“是的，⼤约⼀百万年前。”<br /><br />“What…</p>— 向阳乔木 (@vista8) <a href="https://twitter.com/vista8/status/1709189696927191310?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 12:52:33 GMT</pubDate>
+<updated>Tue, 03 Oct 2023 12:52:33 GMT</updated>
+</item>
+
+<item>
 <title>@xiaohuggg: 微软166 页的报告 ：
 
 LMMs 多模态大模型的曙光：初探 GPT-4V(ision) 
@@ -15,11 +146,9 @@ LMMs 多模态大模型的曙光：初探 GPT-4V(ision)
 <link>https://twitter.com/xiaohuggg/status/1709164430779707673</link>
 <guid>https://twitter.com/xiaohuggg/status/1709164430779707673</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">微软166 页的报告 ：<br /><br />LMMs 多模态大模型的曙光：初探 GPT-4V(ision) <br /><br />中文版翻译<a href="https://twitter.com/dotey?ref_src=twsrc%5Etfw">@dotey</a> <a href="https://t.co/xosMeQqRP2">https://t.co/xosMeQqRP2</a> <a href="https://t.co/jkIc1L9Gpa">pic.twitter.com/jkIc1L9Gpa</a></p>— 小互 (@xiaohuggg) <a href="https://twitter.com/xiaohuggg/status/1709164430779707673?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 03 Oct 2023 11:12:09 GMT</pubDate>
-<updated>Tue, 03 Oct 2023 11:12:09 GMT</updated>
 </item>
 <item>
 <title>@dotey: RT by @xiaohuggg: 借助ChatGPT，我将论文全文翻译成了中文，请点击查看头条文章，如果你想了解 GPT-4V 多模态大模型，这绝对是最佳选择。
@@ -27,13 +156,10 @@ LMMs 多模态大模型的曙光：初探 GPT-4V(ision)
 <link>https://twitter.com/xiaohuggg/status/1709161075487428619</link>
 <guid>https://twitter.com/xiaohuggg/status/1709161075487428619</guid>
 <content:encoded><![CDATA[
-
 <blockquote class="twitter-tweet"><p dir="ltr" lang="zh">借助ChatGPT，我将论文全文翻译成了中文，请点击查看头条文章，如果你想了解 GPT-4V 多模态大模型，这绝对是最佳选择。<br />《多模态大模型（LMMs）的曙光：初探 GPT-4V(ision)》<a href="https://t.co/GOc6ABKz7W">https://t.co/GOc6ABKz7W</a> <a href="https://t.co/gXkg4S0y41">https://t.co/gXkg4S0y41</a></p>— 宝玉 (@dotey) <a href="https://twitter.com/dotey/status/1709094471759966461?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 03 Oct 2023 10:58:49 GMT</pubDate>
-<updated>Tue, 03 Oct 2023 10:58:49 GMT</updated>
 </item>
-
 <item>
 <title>@federico_sheng: RT by @yihong0618: 5000米自测</title>
 <link>https://twitter.com/yihong0618/status/1709142369894076685</link>
