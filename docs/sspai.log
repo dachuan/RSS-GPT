@@ -4162,3 +4162,12 @@ Existing_entries: 73
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-03 06:14:30.766695
+------------------------------------------------------
+Started: 2023-10-03 08:14:17.883622
+Existing_entries: 73
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [如何在信息过载时代开启「独立思考」的人生](https://sspai.com/post/82646)
+append_entries: 1
+Finish: 2023-10-03 08:14:18.436342
