@@ -4255,3 +4255,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 append_entries: 1
 Finish: 2023-10-04 08:15:17.465927
+------------------------------------------------------
+Started: 2023-10-04 10:12:02.518639
+Existing_entries: 78
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-04 10:12:02.765570
