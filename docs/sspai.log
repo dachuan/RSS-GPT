@@ -4237,3 +4237,12 @@ Existing_entries: 76
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-04 04:13:00.234645
+------------------------------------------------------
+Started: 2023-10-04 06:14:38.516019
+Existing_entries: 76
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)
+append_entries: 1
+Finish: 2023-10-04 06:14:38.911868
