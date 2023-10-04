@@ -4246,3 +4246,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)
 append_entries: 1
 Finish: 2023-10-04 06:14:38.911868
+------------------------------------------------------
+Started: 2023-10-04 08:15:16.955328
+Existing_entries: 77
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
+append_entries: 1
+Finish: 2023-10-04 08:15:17.465927
