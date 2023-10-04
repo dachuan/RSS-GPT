@@ -2597,3 +2597,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜小米汽车或推出增程车型 / 微软 Bing 想成为苹果默认搜索引擎 / 2023 年诺贝尔物理学奖揭晓](https://www.ifanr.com/1563832?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-04 02:19:21.508093
+------------------------------------------------------
+Started: 2023-10-04 04:12:52.778830
+Existing_entries: 93
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-04 04:12:54.748201
