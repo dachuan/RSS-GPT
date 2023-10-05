@@ -4,12 +4,12 @@
 <title>飞檐走壁朴小胖的知乎动态</title>
 <link>https://www.zhihu.com/people/piao-shi-yu/activities</link>
 
+
 <item>
 <title>飞檐走壁朴小胖赞同了文章: 经过以佬一番同行评议，我终于搞定这个拖了一年的细节……</title>
 <link>https://zhuanlan.zhihu.com/p/659664207</link>
 <guid>https://zhuanlan.zhihu.com/p/659664207</guid>
 <content:encoded><![CDATA[
-
 <p>起因是我把用¥1700块望远镜「极致省钱」拍摄的国际空间站发到了X：</p><figure><img class="content_image" src="https://pic3.zhimg.com/v2-05b480c53e5b6e1bc8279f6ad9f0a0ba_b.gif" /></figure><p>我在评论区解释说，因为原则上我这个跟踪程序可以适用于任何有Celestron手柄的望远镜，其中最便宜且有货的就是这款LCM90，所以我就试了一下，结果还真的拍成了。</p><p>结果引起了“以色列大佬”Michael Tzukran的注意，他私信来跟我问我的跟踪程序能不能“锁死”目标：</p><figure><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-bc62a88dd9fd130edfed1b062d6ca6b5_1440w.jpg" /></figure><p>我说不同转台的跟踪精度不一样，像这款LCM转台，如果能单买的话应该也就不到1000块钱的便宜货，精度就会差一点，跟踪精度在+-2.5角分。而像我14寸大望远镜配的重型转台、30000块左右的CGX-L，跟踪精度可以到+-20个角秒：</p><figure><img class="origin_image zh-lightbox-thumb" src="https://pic3.zhimg.com/v2-551e5fd655492d939928f3a4e2873912_1440w.jpg" /></figure><p>因为他还问我用什么方式计算卫星的中心位置，“是否用重心”，我就具体解释了一下：</p><p>我用的是python里photutils这个包提供的centroid_com函数来计算光学重心。但是由于这个函数本身的一些问题，计算出来的结果并不是很准。在上面的曲线能看出来，x、y两个方向上的误差，都倾向于一格一格的变化，而不是连续变化。这里一格大约是6-7角秒，刚好和我寻星镜一格像素对应的角秒数差不多。</p><p>以佬追问那centroid_com为啥会有这样的问题，我尚不确定，只得先猜了一个。</p><p>这里首先解释一下，我在算重心的时候，实际上是首先找到画面中的最亮像素，然后以此为中心，裁出周围10x10像素的一个方块，然后在方块上求重心。</p><p>其实之所以要求重心，而不是直接用最亮点坐标，就是想要充分利用星点这个光斑中所有像素的信息，也就是利用其点扩散函数（PSF）的分布，找到更精确的星点坐标。这样就可以用分辨率有限的大视场导星镜图像，获得亚像素级别的位置信息、以便精确导星。</p><p>原则上算重心的函数应该有这样的性质：哪怕10x10的方框稍微偏开1-2个像素，只要能把4-5个像素大的星点完全套住，那求出来的重心位置相对于星点光强分布来说，应该是稳定的；如果10x10方框偏开一点之后，求出来的重心跟着也偏了，那这个重心就白求了。</p><p>用centroid_com测量的跟踪误差曲线中出现一格一格的变化，我猜就是centroid_com计算的重心位置对于求解区域范围的微调过于敏感导致的。于是我就这么回复以佬了。</p><p>其实这个原因我去年就猜到了，当时也试过photutils旗下另一款求重心的函数centroid_2dg（二维高斯拟合），2dg虽然不会出现“一格一格”，但是求解有时候会崩溃出错（比如突然来了片云，画面没有亮斑了），所以后来就又换回了centroid_com，得过且过了。</p><p>这次经以佬一问，我意识到这个问题出现这么长时间，我甚至还没做过实验确定到底是不是centroid_com导致的问题，更没有找到可靠的解决方案，觉得有点挂不住，于是在同行评议压力下，速速去把功课补了：</p><p>我找出前几天拍星链时记录到的寻星镜画面：</p><figure><img class="origin_image zh-lightbox-thumb" src="https://pic2.zhimg.com/v2-b05317eeb340728e4f8e85dfa0cd3f61_1440w.jpg" /></figure><p>对其中一颗星，我截取10x10像素的方块，用centroid_com和centroid_2dg分别求其重心，画在下面左图；然后再把方框选取范围往左挪一个像素，再求一遍，比较这两次求解结果是否有区别：</p><figure><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-8fd630453516beb981f6f5e3e1441e93_1440w.jpg" /></figure><p>结果很明显，红色（2dg）结果非常稳定的保持在星点重心，而蓝色（com）结果，明显往左边挪了一个像素。也就是方框取在哪里，非常显著影响了centroid_com的求解结果。</p><p>那么我们只要把原始程序中的com改成2dg，就皆大欢喜，不是吗？</p><hr /><p>并不是！！</p><p>我跟gpt一聊，发现photutils，是个王八蛋。</p><figure><img class="origin_image zh-lightbox-thumb" src="https://pic4.zhimg.com/v2-869126b635b20140fc8f8d8bf025dd9f_1440w.jpg" /></figure><p>同样一个photutils，旗下干同一件事——求重心——的两个函数，给出的结果，其x、y次序，居！然！不！一！样！</p><p>我去年改用2dg期间，就真的只是把com三个字母替换成2dg，万万没想到这样给出的x、y直接就是颠倒的，完全是错误结果。</p><p>就算我把x、y顺序搞对了，还有刚才说的2dg有时候求不出来就会摆烂崩溃的问题；</p><p>再加上我发现，2dg的求解时间真的是分外的长：centroid_com只需要150多微秒就能算出结果，2dg居然需要3万-10万微秒（0.1秒！）才能算出来。</p><p>所以我势必要再找一个其他的替代方案，既具有2dg的结果稳定性，又具有centroid_com的计算效率。</p><p>我首先换了skimage.measure里的centroid函数，后来又勒令gpt给我直接定义一个求光学重心的函数，gpt写出来的是这样的：</p><div class="highlight"><pre><code class="language-text">def centroid_gpt(image):
     """
     Compute the centroid coordinates using the center of mass method.
@@ -42,9 +42,7 @@
     return m1, m0  # Return as (x, y)</code></pre></div><p>如果没有以佬质询压力，如果没有科技进步带来的代码奴隶gpt，这细枝末节的问题恐怕还要再拖一年。。。</p><hr /><p>把这个改好了有什么用：</p><p>测量是控制的基础，如果都不知道卫星的精确位置，就更谈不上对望远镜的精确控制。提升测量精度如果能带来控制精度的进一步提升，就可以进一步压缩相机的裁切尺幅，从而进一步推高帧率，取得更好的抗大气湍流表现和更高的信噪比。顶级的图像，就是从这些细节里一点点抠出来的～</p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Oct 2023 15:14:51 GMT</pubDate>
-<updated>Thu, 05 Oct 2023 15:14:51 GMT</updated>
 </item>
-
 <item>
 <title>飞檐走壁朴小胖赞同了回答: 御剑飞行的原理是什么？</title>
 <link>https://www.zhihu.com/question/582640205/answer/2929263014</link>
