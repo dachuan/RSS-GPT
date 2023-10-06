@@ -4384,3 +4384,12 @@ Existing_entries: 79
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-06 02:18:21.242884
+------------------------------------------------------
+Started: 2023-10-06 04:12:53.549670
+Existing_entries: 79
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [生活的平衡](https://sspai.com/post/82961)
+append_entries: 1
+Finish: 2023-10-06 04:12:53.963217
