@@ -4507,3 +4507,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
 append_entries: 1
 Finish: 2023-10-07 12:18:34.528656
+------------------------------------------------------
+Started: 2023-10-07 14:08:39.597915
+Existing_entries: 86
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-07 14:08:39.845119
