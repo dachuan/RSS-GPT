@@ -4498,3 +4498,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
 append_entries: 2
 Finish: 2023-10-07 10:10:08.988946
+------------------------------------------------------
+Started: 2023-10-07 12:18:33.981100
+Existing_entries: 85
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
+append_entries: 1
+Finish: 2023-10-07 12:18:34.528656
