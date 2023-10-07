@@ -4465,3 +4465,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)
 append_entries: 1
 Finish: 2023-10-07 02:16:29.983475
+------------------------------------------------------
+Started: 2023-10-07 04:12:37.451533
+Existing_entries: 82
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
+append_entries: 1
+Finish: 2023-10-07 04:12:38.086066
