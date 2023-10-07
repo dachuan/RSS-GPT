@@ -4456,3 +4456,12 @@ Existing_entries: 81
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-07 00:48:13.962948
+------------------------------------------------------
+Started: 2023-10-07 02:16:28.966600
+Existing_entries: 81
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)
+append_entries: 1
+Finish: 2023-10-07 02:16:29.983475
