@@ -2928,3 +2928,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [耗资 23 亿美元的全球最大球体建筑，是怎么造出来的？](https://www.ifanr.com/1564142?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2023-10-08 06:13:40.376611
+------------------------------------------------------
+Started: 2023-10-08 08:12:38.387779
+Existing_entries: 103
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [微软发布 166 页 GPT-4V 测评报告，ChatGPT 的高阶用法都在这｜Hunt Good 周报](https://www.ifanr.com/1564020?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-08 08:12:40.881997
