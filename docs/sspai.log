@@ -4576,3 +4576,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
 append_entries: 1
 Finish: 2023-10-08 08:12:49.741998
+------------------------------------------------------
+Started: 2023-10-08 10:10:05.825437
+Existing_entries: 89
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-08 10:10:06.041403

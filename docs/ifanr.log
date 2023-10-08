@@ -2937,3 +2937,15 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [微软发布 166 页 GPT-4V 测评报告，ChatGPT 的高阶用法都在这｜Hunt Good 周报](https://www.ifanr.com/1564020?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-08 08:12:40.881997
+------------------------------------------------------
+Started: 2023-10-08 10:09:58.001504
+Existing_entries: 104
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [Windows 12 最新爆料，爆料人竟是 Intel](https://www.ifanr.com/1564249?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [同样的 4800 万像素主摄，iPhone 15 Pro 的 Pro 在哪？](https://www.ifanr.com/1564239?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2023-10-08 10:09:59.700929
