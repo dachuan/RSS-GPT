@@ -4675,3 +4675,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/83450)
 append_entries: 1
 Finish: 2023-10-09 12:22:36.097700
+------------------------------------------------------
+Started: 2023-10-09 14:11:11.643824
+Existing_entries: 94
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-09 14:11:11.888435
