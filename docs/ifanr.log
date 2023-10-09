@@ -2994,3 +2994,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报|Meta 将苹果头显视为 2007 年 iPhone/华为手机显微镜专利曝光/微软明年或将推出 Win12 系统](https://www.ifanr.com/1564276?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-09 00:49:23.931909
+------------------------------------------------------
+Started: 2023-10-09 02:18:11.451433
+Existing_entries: 107
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [奔驰和蔚来，到底有没有未来？](https://www.ifanr.com/1564221?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-09 02:18:13.503673
