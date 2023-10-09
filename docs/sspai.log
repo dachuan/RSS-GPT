@@ -4666,3 +4666,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
 append_entries: 1
 Finish: 2023-10-09 10:12:43.460981
+------------------------------------------------------
+Started: 2023-10-09 12:22:33.928024
+Existing_entries: 93
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/83450)
+append_entries: 1
+Finish: 2023-10-09 12:22:36.097700
