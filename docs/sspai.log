@@ -4642,3 +4642,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报](https://sspai.com/post/83429)
 append_entries: 1
 Finish: 2023-10-09 04:13:19.491723
+------------------------------------------------------
+Started: 2023-10-09 06:15:00.042515
+Existing_entries: 91
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
+append_entries: 1
+Finish: 2023-10-09 06:15:01.277224
