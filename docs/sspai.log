@@ -4657,3 +4657,12 @@ Existing_entries: 92
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-09 08:15:15.544363
+------------------------------------------------------
+Started: 2023-10-09 10:12:43.040035
+Existing_entries: 92
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
+append_entries: 1
+Finish: 2023-10-09 10:12:43.460981
