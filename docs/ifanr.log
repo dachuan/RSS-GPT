@@ -3093,3 +3093,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [高通推出全新 XR2 和 AR1 平台，变革空间计算正式上线](https://www.ifanr.com/1564362?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-10 04:12:38.574937
+------------------------------------------------------
+Started: 2023-10-10 06:14:58.554210
+Existing_entries: 112
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-10 06:15:00.257649
