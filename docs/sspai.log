@@ -4750,3 +4750,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)
 append_entries: 1
 Finish: 2023-10-10 10:12:09.520739
+------------------------------------------------------
+Started: 2023-10-10 12:20:50.467345
+Existing_entries: 97
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)
+append_entries: 1
+Finish: 2023-10-10 12:20:51.696348
