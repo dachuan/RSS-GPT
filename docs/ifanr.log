@@ -3084,3 +3084,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报|库克谈为何每年推出新 iPhone / 华为辟谣网传拒绝富士康代工请求 / 法拉第未来向贾跃亭交付新车](https://www.ifanr.com/1564357?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-10 02:17:50.765111
+------------------------------------------------------
+Started: 2023-10-10 04:12:36.651966
+Existing_entries: 111
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [高通推出全新 XR2 和 AR1 平台，变革空间计算正式上线](https://www.ifanr.com/1564362?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-10 04:12:38.574937

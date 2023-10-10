@@ -4720,3 +4720,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
 append_entries: 1
 Finish: 2023-10-10 02:17:58.415296
+------------------------------------------------------
+Started: 2023-10-10 04:12:43.909000
+Existing_entries: 95
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-10 04:12:44.100452
