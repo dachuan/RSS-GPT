@@ -4711,3 +4711,12 @@ Existing_entries: 94
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-10 00:48:35.160767
+------------------------------------------------------
+Started: 2023-10-10 02:17:57.182229
+Existing_entries: 94
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
+append_entries: 1
+Finish: 2023-10-10 02:17:58.415296
