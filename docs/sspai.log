@@ -4789,3 +4789,12 @@ Existing_entries: 98
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-10 22:09:49.039485
+------------------------------------------------------
+Started: 2023-10-11 00:48:43.964001
+Existing_entries: 98
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)
+append_entries: 1
+Finish: 2023-10-11 00:48:44.515259
