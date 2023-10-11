@@ -4810,3 +4810,12 @@ Existing_entries: 99
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-11 04:12:47.869484
+------------------------------------------------------
+Started: 2023-10-11 06:15:22.575537
+Existing_entries: 99
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [用开源项目，你也能训练自己的 AI 语音模型](https://sspai.com/post/83487)
+append_entries: 1
+Finish: 2023-10-11 06:15:22.978445
