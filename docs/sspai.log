@@ -4825,3 +4825,18 @@ Existing_entries: 100
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-11 08:14:23.537973
+------------------------------------------------------
+Started: 2023-10-11 10:11:56.661568
+Existing_entries: 100
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/post/83491)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [返璞归真，又迎一春：小评《刺客信条：幻景》](https://sspai.com/post/83488)
+append_entries: 3
+Finish: 2023-10-11 10:12:00.269379
