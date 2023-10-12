@@ -4918,3 +4918,15 @@ Existing_entries: 105
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-12 10:11:52.526169
+------------------------------------------------------
+Started: 2023-10-12 12:20:48.196683
+Existing_entries: 105
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [大内密谈 | 口述深圳二十年少数派激荡浮沉录](https://sspai.com/post/83516)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
+append_entries: 2
+Finish: 2023-10-12 12:20:48.708853
