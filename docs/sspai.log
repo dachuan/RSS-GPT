@@ -4888,3 +4888,12 @@ Existing_entries: 103
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-12 02:16:28.581475
+------------------------------------------------------
+Started: 2023-10-12 04:13:04.389272
+Existing_entries: 103
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
+append_entries: 1
+Finish: 2023-10-12 04:13:04.929716
