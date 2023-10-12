@@ -4897,3 +4897,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
 append_entries: 1
 Finish: 2023-10-12 04:13:04.929716
+------------------------------------------------------
+Started: 2023-10-12 06:14:49.363080
+Existing_entries: 104
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/post/69134)
+append_entries: 1
+Finish: 2023-10-12 06:14:50.291540
