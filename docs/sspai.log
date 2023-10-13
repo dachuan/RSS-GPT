@@ -4978,3 +4978,15 @@ Existing_entries: 107
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-13 04:13:09.478004
+------------------------------------------------------
+Started: 2023-10-13 06:15:12.093088
+Existing_entries: 107
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [3 年、4 个库目录、100 万字——也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)
+append_entries: 2
+Finish: 2023-10-13 06:15:12.605622
