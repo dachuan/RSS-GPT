@@ -3330,3 +3330,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜iPhone 16 Pro 或将支持 5.5G / 小米社区负责人回应雷军被封号 / OPPO Find N3 发布会官宣](https://www.ifanr.com/1564762?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-13 00:50:48.985866
+------------------------------------------------------
+Started: 2023-10-13 02:21:28.841195
+Existing_entries: 123
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [华为 Mate 60 RS 非凡大师：高端之上，领创极致](https://www.ifanr.com/1564766?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-13 02:21:30.859963
