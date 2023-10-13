@@ -3357,3 +3357,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [解散又重组，苹果到底还要不要造车了？](https://www.ifanr.com/1564577?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-10-13 06:15:02.539223
+------------------------------------------------------
+Started: 2023-10-13 08:14:29.485376
+Existing_entries: 126
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [越来越「丑」的宝马，在践行自己的信条](https://www.ifanr.com/1564421?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-13 08:14:31.150712
