@@ -5086,3 +5086,12 @@ Existing_entries: 111
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-14 12:18:25.606295
+------------------------------------------------------
+Started: 2023-10-14 14:09:01.918999
+Existing_entries: 111
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [告别电影荒：日本电影观看全指南](https://sspai.com/post/83412)
+append_entries: 1
+Finish: 2023-10-14 14:09:02.395302
