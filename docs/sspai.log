@@ -5065,3 +5065,12 @@ Existing_entries: 110
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-14 06:13:37.754515
+------------------------------------------------------
+Started: 2023-10-14 08:12:25.967012
+Existing_entries: 110
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)
+append_entries: 1
+Finish: 2023-10-14 08:12:26.324553
