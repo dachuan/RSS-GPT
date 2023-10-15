@@ -5137,3 +5137,12 @@ Existing_entries: 112
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-15 04:12:24.178146
+------------------------------------------------------
+Started: 2023-10-15 06:13:37.372943
+Existing_entries: 112
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)
+append_entries: 1
+Finish: 2023-10-15 06:13:38.461360
