@@ -3594,3 +3594,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [罗技 GPW 游戏键鼠套装体验：轻盈的机身，重量级体验](https://www.ifanr.com/1565076?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-16 06:15:14.643433
+------------------------------------------------------
+Started: 2023-10-16 08:14:58.136143
+Existing_entries: 133
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-16 08:14:59.852869
