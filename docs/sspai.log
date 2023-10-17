@@ -5320,3 +5320,18 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [Adobe 老树开新花：生成式 AI 功能一站式体验](https://sspai.com/post/83561)
 append_entries: 1
 Finish: 2023-10-17 10:12:04.305969
+------------------------------------------------------
+Started: 2023-10-17 12:21:35.372286
+Existing_entries: 119
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐](https://sspai.com/post/83652)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意](https://sspai.com/post/83650)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验](https://sspai.com/post/83552)
+append_entries: 3
+Finish: 2023-10-17 12:21:36.459706
