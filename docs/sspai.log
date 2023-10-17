@@ -5287,3 +5287,12 @@ Existing_entries: 116
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-17 02:18:56.528059
+------------------------------------------------------
+Started: 2023-10-17 04:12:56.260550
+Existing_entries: 116
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：腾讯待办将停运，淘宝回应微信扫码支付等](https://sspai.com/post/83640)
+append_entries: 1
+Finish: 2023-10-17 04:12:56.636591
