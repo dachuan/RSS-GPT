@@ -3732,3 +3732,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜小米澎湃 OS 官宣，告别 MIUI / 苹果发布两款新品 / 华为称花瓣支付不与支付宝微信竞争](https://www.ifanr.com/1565262?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-18 00:49:19.098417
+------------------------------------------------------
+Started: 2023-10-18 02:18:39.711428
+Existing_entries: 137
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [神车 MINI EV 之后，五菱首款轿车发布，剑指「马路三大妈」](https://www.ifanr.com/1565153?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-18 02:18:41.999537

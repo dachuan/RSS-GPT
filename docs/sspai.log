@@ -5374,3 +5374,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
 append_entries: 1
 Finish: 2023-10-18 00:49:26.791087
+------------------------------------------------------
+Started: 2023-10-18 02:18:47.928644
+Existing_entries: 123
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-18 02:18:48.110769
