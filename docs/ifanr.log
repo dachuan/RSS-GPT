@@ -3741,3 +3741,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [神车 MINI EV 之后，五菱首款轿车发布，剑指「马路三大妈」](https://www.ifanr.com/1565153?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-18 02:18:41.999537
+------------------------------------------------------
+Started: 2023-10-18 04:12:49.338006
+Existing_entries: 138
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-18 04:12:51.247886

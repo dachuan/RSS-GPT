@@ -5380,3 +5380,12 @@ Existing_entries: 123
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-18 02:18:48.110769
+------------------------------------------------------
+Started: 2023-10-18 04:12:57.047083
+Existing_entries: 123
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
+append_entries: 1
+Finish: 2023-10-18 04:12:57.391488
