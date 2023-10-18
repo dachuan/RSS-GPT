@@ -5410,3 +5410,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
 append_entries: 1
 Finish: 2023-10-18 10:11:50.500165
+------------------------------------------------------
+Started: 2023-10-18 12:21:09.509457
+Existing_entries: 125
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
+append_entries: 1
+Finish: 2023-10-18 12:21:09.900875
