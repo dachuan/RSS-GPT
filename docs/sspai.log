@@ -5401,3 +5401,12 @@ Existing_entries: 124
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-18 08:14:25.314551
+------------------------------------------------------
+Started: 2023-10-18 10:11:48.913986
+Existing_entries: 124
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
+append_entries: 1
+Finish: 2023-10-18 10:11:50.500165
