@@ -5365,3 +5365,12 @@ Existing_entries: 122
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-17 22:10:19.729257
+------------------------------------------------------
+Started: 2023-10-18 00:49:26.339619
+Existing_entries: 122
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
+append_entries: 1
+Finish: 2023-10-18 00:49:26.791087
