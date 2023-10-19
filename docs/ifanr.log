@@ -3810,3 +3810,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜消息称苹果正开发可折叠 iPad / 特斯拉 Cybertruck 下月底开始交付 / 威马汽车回应破产风波](https://www.ifanr.com/1565446?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-19 00:49:09.678740
+------------------------------------------------------
+Started: 2023-10-19 02:18:11.337088
+Existing_entries: 139
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [理想 MEGA，李想选择了流量最大的玩法](https://www.ifanr.com/1565298?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-19 02:18:13.132961
