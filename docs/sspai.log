@@ -5470,3 +5470,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
 append_entries: 1
 Finish: 2023-10-19 04:12:49.194271
+------------------------------------------------------
+Started: 2023-10-19 06:15:01.981327
+Existing_entries: 127
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
+append_entries: 1
+Finish: 2023-10-19 06:15:02.661550
