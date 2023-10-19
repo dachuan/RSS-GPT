@@ -3834,3 +3834,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [小米澎湃 OS 要来了，MIUI 十三年留下了什么？](https://www.ifanr.com/1565345?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-19 06:14:55.568947
+------------------------------------------------------
+Started: 2023-10-19 08:14:12.795462
+Existing_entries: 141
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [现在，重新认识一下折叠屏手机](https://www.ifanr.com/1565392?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-19 08:14:15.164721
