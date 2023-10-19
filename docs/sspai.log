@@ -5506,3 +5506,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
 append_entries: 3
 Finish: 2023-10-19 12:21:14.175959
+------------------------------------------------------
+Started: 2023-10-19 14:10:32.744063
+Existing_entries: 131
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-19 14:10:33.280197
