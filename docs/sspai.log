@@ -5569,3 +5569,12 @@ Existing_entries: 132
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-20 08:13:56.252769
+------------------------------------------------------
+Started: 2023-10-20 10:11:43.270252
+Existing_entries: 132
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 & 主创访谈](https://sspai.com/post/83720)
+append_entries: 1
+Finish: 2023-10-20 10:11:43.682344
