@@ -5548,3 +5548,12 @@ Existing_entries: 131
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-20 02:18:21.671066
+------------------------------------------------------
+Started: 2023-10-20 04:13:11.592534
+Existing_entries: 131
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
+append_entries: 1
+Finish: 2023-10-20 04:13:11.946052
