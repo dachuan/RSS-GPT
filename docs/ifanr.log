@@ -3891,3 +3891,20 @@ Existing_entries: 142
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-20 00:49:02.115177
+------------------------------------------------------
+Started: 2023-10-20 02:18:02.742721
+Existing_entries: 142
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Internal server error {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+ 500 {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}} {'Date': 'Fri, 20 Oct 2023 02:18:14 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '166', 'Connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': '3bf7556ee270fc2e6d543d7cf88c8c8a', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818dc4c19d8ceaa4-DFW', 'alt-svc': 'h3=":443"; ma=86400'}
+Append: [早报｜英伟达 4090 显卡全网断货，最高涨至 5 万/马斯克称特斯拉将坚持降价/OpenAI 开放 AI 绘图神器](https://www.ifanr.com/1565528?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-20 02:18:14.600685
