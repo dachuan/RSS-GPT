@@ -3971,3 +3971,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [新 Model 3 今日开售，Cybertruck 下月交付，可特斯拉居然卖不动了？](https://www.ifanr.com/1565449?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-20 22:10:01.523411
+------------------------------------------------------
+Started: 2023-10-21 00:47:11.296467
+Existing_entries: 144
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [华为六周内售出 160 万部 Mate60 Pro/耐克中国将试行 4+1 混合工作制/钟薛高回应欠薪传闻| 未来周报](https://www.ifanr.com/1565657?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-21 00:47:13.421181
