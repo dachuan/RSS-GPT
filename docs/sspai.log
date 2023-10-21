@@ -5635,3 +5635,12 @@ Existing_entries: 134
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-21 06:13:23.307679
+------------------------------------------------------
+Started: 2023-10-21 08:12:23.095085
+Existing_entries: 134
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)
+append_entries: 1
+Finish: 2023-10-21 08:12:23.422023
