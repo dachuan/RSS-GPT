@@ -5152,3 +5152,11 @@ Append: [【iOS 自荐】色彩反应游戏](https://meta.appinn.net/t/topic/411
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2023-10-23 04:13:07.702036
+------------------------------------------------------
+Started: 2023-10-23 06:15:00.942625
+Existing_entries: 111
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-10-23 06:15:05.080473
