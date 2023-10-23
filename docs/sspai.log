@@ -5800,3 +5800,15 @@ Existing_entries: 137
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-23 10:12:26.589821
+------------------------------------------------------
+Started: 2023-10-23 12:21:03.346429
+Existing_entries: 137
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/83806)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么](https://sspai.com/post/83797)
+append_entries: 2
+Finish: 2023-10-23 12:21:03.966660

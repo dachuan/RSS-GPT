@@ -4160,3 +4160,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [3202 年了，国产 MPV 还没有走出「埃尔法」的阴影](https://www.ifanr.com/1565573?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-23 10:12:19.706348
+------------------------------------------------------
+Started: 2023-10-23 12:20:54.466312
+Existing_entries: 149
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [和 GPT-4 聊天，一种很新的隐私泄露方式](https://www.ifanr.com/1565806?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-23 12:20:56.495188
