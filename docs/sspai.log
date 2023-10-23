@@ -5773,3 +5773,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)
 append_entries: 1
 Finish: 2023-10-23 02:19:10.113534
+------------------------------------------------------
+Started: 2023-10-23 04:13:08.735852
+Existing_entries: 136
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [App +1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
+append_entries: 1
+Finish: 2023-10-23 04:13:09.080897
