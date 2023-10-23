@@ -5764,3 +5764,12 @@ Existing_entries: 135
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-23 00:49:45.461980
+------------------------------------------------------
+Started: 2023-10-23 02:19:09.732126
+Existing_entries: 135
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)
+append_entries: 1
+Finish: 2023-10-23 02:19:10.113534
