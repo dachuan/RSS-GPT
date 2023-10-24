@@ -4274,3 +4274,12 @@ Existing_entries: 153
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-24 20:11:27.995559
+------------------------------------------------------
+Started: 2023-10-24 22:09:59.959873
+Existing_entries: 153
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [力压苹果英特尔，全面拥抱 AIGC，高通发布骁龙 X Elite 和第三代骁龙 8](https://www.ifanr.com/1566009?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-24 22:10:02.353210
