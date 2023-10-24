@@ -5290,3 +5290,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-10-24 14:09:08.733475
+------------------------------------------------------
+Started: 2023-10-24 16:14:29.436946
+Existing_entries: 113
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【开发者自荐】ChatShelf，一键保存ChatGPT对话到Notion](https://meta.appinn.net/t/topic/48507)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-10-24 16:14:33.979126
