@@ -3039,3 +3039,13 @@ Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyis
 Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
 append_entries: 0
 Finish: 2023-10-24 00:49:01.038769
+------------------------------------------------------
+Started: 2023-10-24 02:18:40.129570
+Existing_entries: 22
+Fetching from https://utgd.net/feed
+Feed error: 301
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyisheng?code=ee98b264d5c3272d2bf137aaefbf006a
+Feed error: 404
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
+append_entries: 0
+Finish: 2023-10-24 02:18:46.785593

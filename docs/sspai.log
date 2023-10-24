@@ -5848,3 +5848,12 @@ Existing_entries: 139
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-24 00:48:56.591258
+------------------------------------------------------
+Started: 2023-10-24 02:18:39.563202
+Existing_entries: 139
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)
+append_entries: 1
+Finish: 2023-10-24 02:18:40.039018
