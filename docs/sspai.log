@@ -5974,3 +5974,15 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，我想和你聊聊秋日 EDC](https://sspai.com/post/83800)
 append_entries: 1
 Finish: 2023-10-25 10:11:53.713714
+------------------------------------------------------
+Started: 2023-10-25 12:20:24.212256
+Existing_entries: 147
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/post/83864)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [集成百家所长的 matter，也是智能家居的未来（系列文章之一）](https://sspai.com/post/74886)
+append_entries: 2
+Finish: 2023-10-25 12:20:24.705530
