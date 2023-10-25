@@ -5944,3 +5944,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)
 append_entries: 1
 Finish: 2023-10-25 02:17:59.722152
+------------------------------------------------------
+Started: 2023-10-25 04:13:23.177833
+Existing_entries: 145
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
+append_entries: 1
+Finish: 2023-10-25 04:13:23.682161
