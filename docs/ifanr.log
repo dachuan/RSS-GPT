@@ -4382,3 +4382,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜首发 | 小米 14 超前实测出炉 / 苹果将推新款 AirPods / 春节连休 8 天，除夕不放假](https://www.ifanr.com/1566099?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-26 02:16:44.594707
+------------------------------------------------------
+Started: 2023-10-26 04:12:39.152384
+Existing_entries: 159
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [踩苹果 M2，压英特尔旗舰芯，高通刚刚发布的骁龙 X Elite 都有什么？](https://www.ifanr.com/1566097?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-26 04:12:40.795395
