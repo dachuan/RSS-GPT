@@ -6064,3 +6064,15 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
 append_entries: 1
 Finish: 2023-10-26 10:11:26.115926
+------------------------------------------------------
+Started: 2023-10-26 12:20:00.083871
+Existing_entries: 153
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [用命令行工具助力移动端自动化：以视频和图片下载为例](https://sspai.com/post/83878)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [双十一硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
+append_entries: 2
+Finish: 2023-10-26 12:20:00.680744
