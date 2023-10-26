@@ -6055,3 +6055,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
 append_entries: 1
 Finish: 2023-10-26 08:13:44.930994
+------------------------------------------------------
+Started: 2023-10-26 10:11:24.884094
+Existing_entries: 152
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
+append_entries: 1
+Finish: 2023-10-26 10:11:26.115926
