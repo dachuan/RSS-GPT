@@ -6142,3 +6142,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验](https://sspai.com/post/83859)
 append_entries: 1
 Finish: 2023-10-27 08:13:27.233255
+------------------------------------------------------
+Started: 2023-10-27 10:11:24.226044
+Existing_entries: 157
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
+append_entries: 1
+Finish: 2023-10-27 10:11:25.194765
