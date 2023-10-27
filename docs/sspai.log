@@ -6133,3 +6133,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案](https://sspai.com/post/83893)
 append_entries: 1
 Finish: 2023-10-27 06:14:25.137019
+------------------------------------------------------
+Started: 2023-10-27 08:13:26.778103
+Existing_entries: 156
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验](https://sspai.com/post/83859)
+append_entries: 1
+Finish: 2023-10-27 08:13:27.233255
