@@ -4478,3 +4478,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [3999 起！小米 14 杀疯了，越级对标 iPhone 15 Pro， 澎湃 OS 惊艳亮相](https://www.ifanr.com/1566157?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-27 04:12:51.708039
+------------------------------------------------------
+Started: 2023-10-27 06:14:14.250181
+Existing_entries: 165
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-27 06:14:15.702959
