@@ -6151,3 +6151,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 append_entries: 1
 Finish: 2023-10-27 10:11:25.194765
+------------------------------------------------------
+Started: 2023-10-27 12:19:46.108733
+Existing_entries: 158
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)
+append_entries: 1
+Finish: 2023-10-27 12:19:46.485322
