@@ -4520,3 +4520,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [发布首款 AI PC，联手英伟达，联想的 AI 新浪潮有什么不一样](https://www.ifanr.com/1566344?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-10-27 16:13:23.232881
+------------------------------------------------------
+Started: 2023-10-27 18:13:23.846931
+Existing_entries: 167
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-27 18:13:25.358073
