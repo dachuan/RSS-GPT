@@ -4469,3 +4469,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜荣耀手机国内市场份额跃至第一/小米 14 起售价 3999 元/6G 或最晚 2030 年投入商用](https://www.ifanr.com/1566312?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-27 02:16:54.623911
+------------------------------------------------------
+Started: 2023-10-27 04:12:50.154952
+Existing_entries: 164
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [3999 起！小米 14 杀疯了，越级对标 iPhone 15 Pro， 澎湃 OS 惊艳亮相](https://www.ifanr.com/1566157?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-27 04:12:51.708039
