@@ -4547,3 +4547,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜华为前三季度销售收入 4566 亿元 / 品牌方否认李佳琦卖假货 / 2024 放假安排公布 | 未来周报](https://www.ifanr.com/1566391?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-28 00:46:58.645877
+------------------------------------------------------
+Started: 2023-10-28 02:15:01.839448
+Existing_entries: 168
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-28 02:15:03.612432
