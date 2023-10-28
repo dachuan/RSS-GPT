@@ -6214,3 +6214,12 @@ Existing_entries: 159
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-28 06:13:11.855433
+------------------------------------------------------
+Started: 2023-10-28 08:12:21.217454
+Existing_entries: 159
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [识图：在茫茫手机相册中精准定位想要照片](https://sspai.com/post/83441)
+append_entries: 1
+Finish: 2023-10-28 08:12:21.580347
