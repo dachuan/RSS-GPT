@@ -4628,3 +4628,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [索尼 HT-AX7 体验：像积木一样分拆组合，索尼用真无线耳机的玩法做了一款音响](https://www.ifanr.com/1566366?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-29 02:19:43.620357
+------------------------------------------------------
+Started: 2023-10-29 04:12:18.142743
+Existing_entries: 169
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-29 04:12:19.865131
