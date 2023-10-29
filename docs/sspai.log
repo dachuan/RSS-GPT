@@ -6295,3 +6295,12 @@ Existing_entries: 160
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-29 08:12:17.775626
+------------------------------------------------------
+Started: 2023-10-29 10:10:20.793687
+Existing_entries: 160
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [如何用 Make 自动化将即刻动态同步到 Notion](https://sspai.com/post/83490)
+append_entries: 1
+Finish: 2023-10-29 10:10:21.206067
