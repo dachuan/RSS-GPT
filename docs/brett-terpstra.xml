@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>SearchLink Fixes</title>
 <link>https://brett.trpstra.net/link/535/16416050/searchlink-fixes</link>
 <guid>https://brett.trpstra.net/link/535/16416050/searchlink-fixes</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://brettterpstra.com/projects/searchlink/" title="SearchLink">SearchLink</a> 2.3.50 is out and contains fixes for some recent changes in DuckDuckGo’s responses. It currently passes all tests except for one (TMDB is returning a movie for the search result “Brad Pitt”, rather than the actor page, and when I add “actor” to the search it dumps out to IMDB, which I don’t fully understand).</p>
 
 <p>Don’t forget that the source code is all neatly organized on GitHub and you can compile the whole thing as a gem for command line usage, if you like. Every search is <a href="https://github.com/ttscoff/searchlink/tree/main/lib/searchlink/searches">a plugin</a> and you can add new search types pretty easily. If you <em>do</em> extend SearchLink at all, be sure to make a Pull Request and be part of the development!</p>
@@ -25,9 +25,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16416050.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-10-30T09:19:00-05:00</pubDate>
-<updated>2023-10-30T09:19:00-05:00</updated>
 </item>
-
 <item>
 <title>WordCounter giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16415970/wordcounter-giveaway</link>
