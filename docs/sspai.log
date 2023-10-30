@@ -6376,3 +6376,12 @@ Existing_entries: 163
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-30 08:14:16.821586
+------------------------------------------------------
+Started: 2023-10-30 10:12:04.918613
+Existing_entries: 163
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [直播 | 不讲干货只聊天，今晚来看少数派的双十一「科技故事会」](https://sspai.com/post/83934)
+append_entries: 1
+Finish: 2023-10-30 10:12:07.556377

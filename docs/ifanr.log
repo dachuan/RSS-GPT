@@ -4724,3 +4724,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [华为天津旗舰店开业，让文保建筑焕新为「城市客厅」](https://www.ifanr.com/1566524?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-30 08:14:09.817601
+------------------------------------------------------
+Started: 2023-10-30 10:11:55.102326
+Existing_entries: 171
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [造增程车的小米，正在「紧急避险」](https://www.ifanr.com/1566333?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-30 10:11:57.591908
