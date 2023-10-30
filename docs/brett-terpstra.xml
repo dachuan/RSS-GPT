@@ -5,11 +5,34 @@
 <link>https://brettterpstra.com/</link>
 
 <item>
+<title>SearchLink Fixes</title>
+<link>https://brett.trpstra.net/link/535/16416050/searchlink-fixes</link>
+<guid>https://brett.trpstra.net/link/535/16416050/searchlink-fixes</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://brettterpstra.com/projects/searchlink/" title="SearchLink">SearchLink</a> 2.3.50 is out and contains fixes for some recent changes in DuckDuckGo’s responses. It currently passes all tests except for one (TMDB is returning a movie for the search result “Brad Pitt”, rather than the actor page, and when I add “actor” to the search it dumps out to IMDB, which I don’t fully understand).</p>
+
+<p>Don’t forget that the source code is all neatly organized on GitHub and you can compile the whole thing as a gem for command line usage, if you like. Every search is <a href="https://github.com/ttscoff/searchlink/tree/main/lib/searchlink/searches">a plugin</a> and you can add new search types pretty easily. If you <em>do</em> extend SearchLink at all, be sure to make a Pull Request and be part of the development!</p>
+
+<p>Download below, and see the <a href="https://brettterpstra.com/projects/searchlink/" title="SearchLink">SearchLink project page</a> for more details!</p>
+
+<div class="download" id="dlbox"><h4>SearchLink v2.3.50</h4><p class="dl-icon"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.50"><img height="100" src="https://cdn3.brettterpstra.com/uploads/2023/01/searchlink-thumbnail.jpg" width="100" /></a></p><div class="dl-body"><p class="dl-link"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.50">Download SearchLink v2.3.50</a></p><p class="dl-description">Generate Markdown links from web searches without leaving your editor.</p><p class="dl-published">Published 11/10/14.</p><p class="dl-updated">Updated 10/29/23. <a class="changelog" href="https://brettterpstra.com/projects/searchlink/#changelog">Changelog</a></p><p class="dl-info"><a href="https://brettterpstra.com//donate/">Donate</a> &bull; <a href="https://brettterpstra.com//projects/searchlink/" title="More information on SearchLink">More info&hellip;</a></p></div></div>
+
+<p>Like or share this post <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2023%2F10%2F30%2Fsearchlink-fixes%2F&amp;text=SearchLink+Fixes&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2023%2F10%2F30%2Fsearchlink-fixes%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2023 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16416050.gif" width="1" />
+]]></content:encoded>
+<pubDate>2023-10-30T09:19:00-05:00</pubDate>
+<updated>2023-10-30T09:19:00-05:00</updated>
+</item>
+
+<item>
 <title>WordCounter giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16415970/wordcounter-giveaway</link>
 <guid>https://brett.trpstra.net/link/535/16415970/wordcounter-giveaway</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/webp" />
@@ -56,9 +79,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16415970.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-10-30T08:00:00-05:00</pubDate>
-<updated>2023-10-30T08:00:00-05:00</updated>
 </item>
-
 <item>
 <title>The Scrivener giveaway winners!</title>
 <link>https://brett.trpstra.net/link/535/16413505/the-scrivener-giveaway-winners</link>
