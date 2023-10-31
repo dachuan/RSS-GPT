@@ -6499,3 +6499,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
 append_entries: 1
 Finish: 2023-10-31 16:14:19.469117
+------------------------------------------------------
+Started: 2023-10-31 18:13:41.850765
+Existing_entries: 172
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-10-31 18:13:42.094286
