@@ -6430,3 +6430,15 @@ Existing_entries: 165
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-31 00:50:01.114423
+------------------------------------------------------
+Started: 2023-10-31 02:19:05.928830
+Existing_entries: 165
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色](https://sspai.com/post/83976)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)
+append_entries: 2
+Finish: 2023-10-31 02:19:06.737584
