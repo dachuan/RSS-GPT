@@ -6463,3 +6463,15 @@ Existing_entries: 168
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-10-31 08:13:54.335207
+------------------------------------------------------
+Started: 2023-10-31 10:11:53.472098
+Existing_entries: 168
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)
+append_entries: 2
+Finish: 2023-10-31 10:11:54.108476
