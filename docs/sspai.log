@@ -6442,3 +6442,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)
 append_entries: 2
 Finish: 2023-10-31 02:19:06.737584
+------------------------------------------------------
+Started: 2023-10-31 04:12:55.959865
+Existing_entries: 167
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一图流 | Apple 十月新品发布会回顾](https://sspai.com/post/83978)
+append_entries: 1
+Finish: 2023-10-31 04:12:56.273042

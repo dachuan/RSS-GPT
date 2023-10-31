@@ -4784,3 +4784,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜苹果刚刚发布多款新品/华为申请注册遥遥领先商标/反垄断办回应李佳琦被指控价](https://www.ifanr.com/1566587?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-31 02:18:57.822044
+------------------------------------------------------
+Started: 2023-10-31 04:12:47.040505
+Existing_entries: 173
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [苹果史上最短发布会！一大波 Mac 新品来袭，最大彩蛋居然是 iPhone](https://www.ifanr.com/1566589?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-31 04:12:50.081772
