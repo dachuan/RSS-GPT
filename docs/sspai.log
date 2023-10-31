@@ -6490,3 +6490,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)
 append_entries: 1
 Finish: 2023-10-31 14:10:35.567775
+------------------------------------------------------
+Started: 2023-10-31 16:14:19.058631
+Existing_entries: 171
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
+append_entries: 1
+Finish: 2023-10-31 16:14:19.469117
