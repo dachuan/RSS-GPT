@@ -4850,3 +4850,12 @@ Existing_entries: 175
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-31 22:09:43.807167
+------------------------------------------------------
+Started: 2023-11-01 00:52:33.828360
+Existing_entries: 175
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [早报｜微信新增独立发送按钮 / 李佳琦回应最低价争夺 / 大疆否认被罚 440 亿元](https://www.ifanr.com/1566704?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-01 00:52:36.016784
