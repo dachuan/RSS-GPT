@@ -6547,3 +6547,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪](https://sspai.com/post/83590)
 append_entries: 1
 Finish: 2023-11-01 06:14:53.453158
+------------------------------------------------------
+Started: 2023-11-01 08:13:57.735508
+Existing_entries: 174
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [众测 | 先享体验计划第一期产品揭晓，立即报名体验小米 14 Pro](https://sspai.com/post/84014)
+append_entries: 1
+Finish: 2023-11-01 08:13:58.101542
