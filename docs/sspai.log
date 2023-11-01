@@ -6562,3 +6562,18 @@ Existing_entries: 175
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-01 10:11:52.553062
+------------------------------------------------------
+Started: 2023-11-01 12:20:39.993013
+Existing_entries: 175
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [陌生而有趣的训练伙伴——壶铃和药球使用指南](https://sspai.com/post/83897)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [日本浮生录 03：纵横北海道，1100 公里的道东寻秋之旅](https://sspai.com/post/83972)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)
+append_entries: 3
+Finish: 2023-11-01 12:20:40.728212
