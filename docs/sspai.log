@@ -6577,3 +6577,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)
 append_entries: 3
 Finish: 2023-11-01 12:20:40.728212
+------------------------------------------------------
+Started: 2023-11-01 14:10:14.323661
+Existing_entries: 178
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价](https://sspai.com/post/84028)
+append_entries: 1
+Finish: 2023-11-01 14:10:14.733133
