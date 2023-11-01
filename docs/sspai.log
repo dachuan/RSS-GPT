@@ -6529,3 +6529,12 @@ Existing_entries: 172
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-01 02:22:26.982498
+------------------------------------------------------
+Started: 2023-11-01 04:13:15.281003
+Existing_entries: 172
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等](https://sspai.com/post/84019)
+append_entries: 1
+Finish: 2023-11-01 04:13:15.616831

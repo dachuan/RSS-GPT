@@ -4868,3 +4868,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [全新奥迪纯电 A4：去年就应该发布，但其实后年才能上市](https://www.ifanr.com/1566533?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-01 02:22:19.392581
+------------------------------------------------------
+Started: 2023-11-01 04:13:06.350433
+Existing_entries: 177
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [「最美比亚迪」宋 L 发布，22 万起，新能源老大不想再丑下去了](https://www.ifanr.com/1566666?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-01 04:13:08.294941
