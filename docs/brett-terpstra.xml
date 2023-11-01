@@ -4,6 +4,44 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+<item>
+<title>Web Excursions for November 01, 2023</title>
+<link>https://brett.trpstra.net/link/535/16420745/web-excursions-for-november-01-2023</link>
+<guid>https://brett.trpstra.net/link/535/16420745/web-excursions-for-november-01-2023</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Brett holding map" class="aligncenter" height="349" src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" title="Brett holding map" width="800" />
+              </noscript>
+            
+
+<p>Web excursions brought to you in partnership with Backblaze. <a href="https://secure.backblaze.com/r/00dszk">Back up everything.</a></p>
+
+<dl>
+  <dt><a href="https://cloudprompter.com/">CloudPrompter</a></dt>
+  <dd>The idea of a teleprompter is simple, yet so many people screw it up. Teleprompter Premium is my favorite on iOS/Mac, and the same devs have just released a web version of the same. It’s a bit pricier than I think it should be, but you can get a lifetime 50% discount for signing up before Nov 3rd.</dd>
+  <dt><a href="https://github.com/Royaljerry/jerrys-workflows-for-alfred">“Planter” redux for Alfred</a></dt>
+  <dd>Nice to see a new version of <a href="https://brettterpstra.com/projects/planter/">Planter</a> taking root. An Alfred workflow for creating new projects based on a template file.</dd>
+  <dt><a href="https://thesweetsetup.com/a-closer-look-at-apple-notess-smart-folders/">A Closer Look at Apple Notes’ Smart Folders</a></dt>
+  <dd>I have to admit Notes has become a killer app. I never would have guessed Apple would put this much development into it.</dd>
+  <dt><a href="https://christianheilmann.com/2023/08/24/quick-tip-getting-all-links-from-any-web-site-into-a-spreadsheet-using-browser-developer-tools/">Quick tip: Getting all links from any web site into a spreadsheet using browser developer tools</a></dt>
+  <dd>I finally get how useful <code class="language-plaintext highlighter-rouge">console.table()</code> can be.</dd>
+</dl>
+
+<p>Backblaze securely backs up your entire computer to the cloud, affordably and reliably. I trust it with all my data. <a href="https://secure.backblaze.com/r/00dszk">Check it out today.</a></p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/111336855173287515" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2023%2F11%2F01%2Fweb-excursions-for-november-01-2023%2F&amp;text=Web+Excursions+for+November+01%2C+2023&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2023%2F11%2F01%2Fweb-excursions-for-november-01-2023%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2023 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16420745.gif" width="1" />
+]]></content:encoded>
+<pubDate>2023-11-01T14:00:00-05:00</pubDate>
+<updated>2023-11-01T14:00:00-05:00</updated>
+</item>
 
 <item>
 <title>Searchlink, not just for searching</title>
