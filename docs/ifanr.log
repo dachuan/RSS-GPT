@@ -4859,3 +4859,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [早报｜微信新增独立发送按钮 / 李佳琦回应最低价争夺 / 大疆否认被罚 440 亿元](https://www.ifanr.com/1566704?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-01 00:52:36.016784
+------------------------------------------------------
+Started: 2023-11-01 02:22:17.718780
+Existing_entries: 176
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [全新奥迪纯电 A4：去年就应该发布，但其实后年才能上市](https://www.ifanr.com/1566533?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-01 02:22:19.392581
