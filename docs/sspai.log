@@ -6640,3 +6640,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [车到用时不恨少：日本共享汽车服务观察](https://sspai.com/post/83639)
 append_entries: 1
 Finish: 2023-11-02 06:14:08.273945
+------------------------------------------------------
+Started: 2023-11-02 08:13:39.954884
+Existing_entries: 181
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-02 08:13:40.182423
