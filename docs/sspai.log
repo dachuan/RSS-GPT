@@ -6622,3 +6622,12 @@ Existing_entries: 179
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-02 02:18:20.855282
+------------------------------------------------------
+Started: 2023-11-02 04:13:07.376032
+Existing_entries: 179
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等](https://sspai.com/post/84068)
+append_entries: 1
+Finish: 2023-11-02 04:13:07.766117
