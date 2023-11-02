@@ -6646,3 +6646,12 @@ Existing_entries: 181
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-02 08:13:40.182423
+------------------------------------------------------
+Started: 2023-11-02 10:11:43.736368
+Existing_entries: 181
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译](https://sspai.com/post/83943)
+append_entries: 1
+Finish: 2023-11-02 10:11:44.204875
