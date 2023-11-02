@@ -6655,3 +6655,15 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译](https://sspai.com/post/83943)
 append_entries: 1
 Finish: 2023-11-02 10:11:44.204875
+------------------------------------------------------
+Started: 2023-11-02 12:20:26.082615
+Existing_entries: 182
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金](https://sspai.com/post/84083)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [新玩意 163｜少数派的编辑们最近买了啥？](https://sspai.com/post/84088)
+append_entries: 2
+Finish: 2023-11-02 12:20:26.681311
