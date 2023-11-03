@@ -6745,3 +6745,15 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [Timestripe：什么样的待办软件才是最贴近生活的人生规划器](https://sspai.com/post/83944)
 append_entries: 1
 Finish: 2023-11-03 10:11:51.410474
+------------------------------------------------------
+Started: 2023-11-03 12:20:46.037625
+Existing_entries: 188
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [本周看什么 | 最近值得一看的一大簇作品](https://sspai.com/post/84116)
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/post/84067)
+append_entries: 2
+Finish: 2023-11-03 12:20:46.531456
