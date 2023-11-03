@@ -6721,3 +6721,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
 append_entries: 1
 Finish: 2023-11-03 04:13:11.448070
+------------------------------------------------------
+Started: 2023-11-03 06:14:09.907032
+Existing_entries: 186
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
+append_entries: 1
+Finish: 2023-11-03 06:14:10.253948
