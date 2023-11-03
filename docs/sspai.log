@@ -6757,3 +6757,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/post/84067)
 append_entries: 2
 Finish: 2023-11-03 12:20:46.531456
+------------------------------------------------------
+Started: 2023-11-03 14:10:43.055192
+Existing_entries: 190
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单](https://sspai.com/post/83991)
+append_entries: 1
+Finish: 2023-11-03 14:10:43.378992
