@@ -6736,3 +6736,12 @@ Existing_entries: 187
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-03 08:13:33.114998
+------------------------------------------------------
+Started: 2023-11-03 10:11:50.612673
+Existing_entries: 187
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [Timestripe：什么样的待办软件才是最贴近生活的人生规划器](https://sspai.com/post/83944)
+append_entries: 1
+Finish: 2023-11-03 10:11:51.410474
