@@ -6697,3 +6697,12 @@ Existing_entries: 184
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-02 22:09:13.777368
+------------------------------------------------------
+Started: 2023-11-03 00:49:52.364781
+Existing_entries: 184
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [初来温州问声好，Apple Store 新店抢先看](https://sspai.com/post/84084)
+append_entries: 1
+Finish: 2023-11-03 00:49:52.763016
