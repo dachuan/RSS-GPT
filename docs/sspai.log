@@ -6712,3 +6712,12 @@ Existing_entries: 185
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-03 02:19:34.023441
+------------------------------------------------------
+Started: 2023-11-03 04:13:11.090133
+Existing_entries: 185
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
+append_entries: 1
+Finish: 2023-11-03 04:13:11.448070
