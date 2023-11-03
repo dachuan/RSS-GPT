@@ -5018,3 +5018,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [小鹏月销破 2 万，理想破 4 万，比亚迪破 30 万！国产新能源上演 10 月狂飙](https://www.ifanr.com/1566878?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-11-03 00:49:44.911202
+------------------------------------------------------
+Started: 2023-11-03 02:19:25.896447
+Existing_entries: 181
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [苹果在中国发布了最大产品，处处都有 iPhone 的影子](https://www.ifanr.com/1566794?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-03 02:19:28.052917
