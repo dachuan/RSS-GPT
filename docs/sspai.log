@@ -6820,3 +6820,12 @@ Existing_entries: 191
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-04 08:12:31.791195
+------------------------------------------------------
+Started: 2023-11-04 10:10:34.538935
+Existing_entries: 191
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [App+1 | 搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」](https://sspai.com/post/83982)
+append_entries: 1
+Finish: 2023-11-04 10:10:34.857376
