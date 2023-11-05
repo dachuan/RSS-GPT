@@ -5210,3 +5210,12 @@ Existing_entries: 185
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-05 14:08:47.582448
+------------------------------------------------------
+Started: 2023-11-05 16:12:27.108088
+Existing_entries: 185
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [智己 LS6 低价出击，想做高端的国产品牌，都有一个活下去的难题](https://www.ifanr.com/1567193?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-05 16:12:29.260483
