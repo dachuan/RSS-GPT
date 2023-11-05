@@ -5219,3 +5219,9 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [智己 LS6 低价出击，想做高端的国产品牌，都有一个活下去的难题](https://www.ifanr.com/1567193?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-05 16:12:29.260483
+------------------------------------------------------
+Started: 2023-11-05 18:12:17.012015
+Existing_entries: 186
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-05 18:12:19.091551

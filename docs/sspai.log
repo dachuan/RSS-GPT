@@ -6913,3 +6913,12 @@ Existing_entries: 192
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-05 16:12:36.064746
+------------------------------------------------------
+Started: 2023-11-05 18:12:24.926108
+Existing_entries: 192
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)
+append_entries: 1
+Finish: 2023-11-05 18:12:25.361043
