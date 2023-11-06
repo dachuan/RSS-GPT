@@ -6994,3 +6994,12 @@ Existing_entries: 197
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-06 14:10:59.039259
+------------------------------------------------------
+Started: 2023-11-06 16:14:54.540460
+Existing_entries: 197
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
+append_entries: 1
+Finish: 2023-11-06 16:14:55.206922
