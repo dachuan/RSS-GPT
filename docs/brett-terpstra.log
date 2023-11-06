@@ -8215,3 +8215,15 @@ Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/tex
 Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
 append_entries: 0
 Finish: 2023-11-05 22:09:37.109160
+------------------------------------------------------
+Started: 2023-11-06 00:51:10.420357
+Existing_entries: 64
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [SearchLink gets Google Search back](https://brett.trpstra.net/link/535/16429946/searchlink-gets-google-search-back)
+Filter: [The TextExpander giveaway winners!](https://brett.trpstra.net/link/535/16404215/the-textexpander-giveaway-winners)
+Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/textexpander-giveaway)
+Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
+append_entries: 1
+Finish: 2023-11-06 00:51:11.674551
