@@ -6955,3 +6955,12 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
 append_entries: 1
 Finish: 2023-11-06 04:13:40.235166
+------------------------------------------------------
+Started: 2023-11-06 06:15:09.965176
+Existing_entries: 194
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [一日一技 | Mac 版 Word 下图片乱码的临时处理方法](https://sspai.com/post/84017)
+append_entries: 1
+Finish: 2023-11-06 06:15:10.910687
