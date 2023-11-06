@@ -6946,3 +6946,12 @@ Existing_entries: 193
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-06 02:22:55.528883
+------------------------------------------------------
+Started: 2023-11-06 04:13:39.839603
+Existing_entries: 193
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
+append_entries: 1
+Finish: 2023-11-06 04:13:40.235166
