@@ -6970,3 +6970,12 @@ Existing_entries: 195
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-06 08:15:01.316838
+------------------------------------------------------
+Started: 2023-11-06 10:12:56.805473
+Existing_entries: 195
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Incorrect API key provided: pk-this-**********************************yone. You can find your API key at https://platform.openai.com/account/api-keys.
+Append: [既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)
+append_entries: 1
+Finish: 2023-11-06 10:12:57.315720
