@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>SearchLink gets Google Search back</title>
 <link>https://brett.trpstra.net/link/535/16429946/searchlink-gets-google-search-back</link>
 <guid>https://brett.trpstra.net/link/535/16429946/searchlink-gets-google-search-back</guid>
 <content:encoded><![CDATA[
-
 <p>So it turns out Google now offers <a href="https://developers.google.com/custom-search/v1/introduction">an API</a> (once again). It’s limited to 100 searches per day for the free version, so I don’t want to put my API key into the public distribution of SearchLink, but if you want to tap into Google’s power for your searches, you can now add your own API key to the config and get 100 searches per day for free. If you should, for whatever reason, run out of searches in a day, it should gracefully switch out to the previous DuckDuckGo configuration.</p>
 
 <p>The <code class="language-plaintext highlighter-rouge">!g</code> search will now test for the presence of a Google API key, and if it exists, use Google for the search. You can also use <code class="language-plaintext highlighter-rouge">!gg</code> to force a Google search. If there’s not a key set up, it will continue operating as it has using DuckDuckGo. As far as privacy concerns go, these searches don’t include any tracking data, so using Google in this manner shouldn’t present any new issues. For anyone creating plugins, the <code class="language-plaintext highlighter-rouge">SL.ddg()</code> method will also test for an API key and use Google if available.</p>
@@ -27,9 +27,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16429946.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-11-05T16:27:00-06:00</pubDate>
-<updated>2023-11-05T16:27:00-06:00</updated>
 </item>
-
 <item>
 <title>The WordCounter giveaway winners!</title>
 <link>https://brett.trpstra.net/link/535/16428225/the-wordcounter-giveaway-winners</link>
