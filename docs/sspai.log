@@ -7003,3 +7003,74 @@ error: Incorrect API key provided: pk-this-**********************************yon
 Append: [一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
 append_entries: 1
 Finish: 2023-11-06 16:14:55.206922
+------------------------------------------------------
+Started: 2023-11-09 02:20:29.569035
+Existing_entries: 198
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [城市漫步指南 | 精神安居是故乡](https://sspai.com/post/84241)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用 iPhone 15 Pro 玩 3A 大作：《生化危机 村庄》详尽游玩体验](https://sspai.com/post/84223)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等](https://sspai.com/post/84243)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾](https://sspai.com/post/84234)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Alfred Workflow 进阶指南：以少数派标签搜索为例](https://sspai.com/post/84233)
+Append: [31 岁在一线城市被裁意味着什么？](https://sspai.com/post/83956)
+Append: [社区速递 019 | 德甲比赛、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)
+Append: [外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)
+Append: [派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)
+Append: [城市漫步指南：夏末秋初，在慕尼黑漫步](https://sspai.com/post/84119)
+append_entries: 10
+Finish: 2023-11-09 02:20:29.888681
