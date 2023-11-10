@@ -7236,3 +7236,21 @@ Existing_entries: 215
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-10 04:13:12.786722
+------------------------------------------------------
+Started: 2023-11-10 06:14:30.218561
+Existing_entries: 215
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档](https://sspai.com/post/84232)
+append_entries: 1
+Finish: 2023-11-10 06:14:30.447579
