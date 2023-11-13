@@ -5791,3 +5791,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [ChatGPT 之父投资，前苹果员工打造，这款产品想成为 AI 时代的 iPhone](https://www.ifanr.com/1567591?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2023-11-13 04:13:09.650736
+------------------------------------------------------
+Started: 2023-11-13 06:14:33.666985
+Existing_entries: 206
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [手机行业终结「小核」的历史，恰是芯片历史的一次进步](https://www.ifanr.com/1567642?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-13 06:14:35.236213
