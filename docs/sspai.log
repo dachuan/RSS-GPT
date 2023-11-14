@@ -7698,3 +7698,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)
 append_entries: 1
 Finish: 2023-11-14 10:12:20.727437
+------------------------------------------------------
+Started: 2023-11-14 12:20:35.098984
+Existing_entries: 228
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-14 12:20:35.224725
