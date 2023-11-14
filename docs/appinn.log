@@ -7102,3 +7102,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【开发者自荐】Win、Mac图片批量编辑软件](https://meta.appinn.net/t/topic/49129)
 append_entries: 1
 Finish: 2023-11-14 14:10:40.331755
+------------------------------------------------------
+Started: 2023-11-14 16:12:22.008529
+Existing_entries: 141
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-11-14 16:12:25.530554

@@ -7734,3 +7734,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意](https://sspai.com/post/84408)
 append_entries: 2
 Finish: 2023-11-14 14:10:42.263365
+------------------------------------------------------
+Started: 2023-11-14 16:12:26.975337
+Existing_entries: 230
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-14 16:12:27.150521
