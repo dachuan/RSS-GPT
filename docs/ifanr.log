@@ -5989,3 +5989,21 @@ Existing_entries: 211
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-15 02:23:50.108427
+------------------------------------------------------
+Started: 2023-11-15 04:13:22.591267
+Existing_entries: 211
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [手机电脑里的 GPT，要先解决这个「屏幕孤岛」难题](https://www.ifanr.com/1567974?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-15 04:13:24.088160
