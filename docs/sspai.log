@@ -8004,3 +8004,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/post/84460)
 append_entries: 1
 Finish: 2023-11-16 16:15:14.379556
+------------------------------------------------------
+Started: 2023-11-16 18:14:06.111722
+Existing_entries: 240
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-16 18:14:06.280379
