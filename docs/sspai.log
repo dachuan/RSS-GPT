@@ -7938,3 +7938,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [自由输入法 RIME 简明配置指南](https://sspai.com/post/84373)
 append_entries: 1
 Finish: 2023-11-16 06:15:07.549312
+------------------------------------------------------
+Started: 2023-11-16 08:14:18.056532
+Existing_entries: 237
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-16 08:14:18.204979
