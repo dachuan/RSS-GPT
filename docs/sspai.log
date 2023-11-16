@@ -7920,3 +7920,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等](https://sspai.com/post/84444)
 append_entries: 1
 Finish: 2023-11-16 04:13:45.585118
+------------------------------------------------------
+Started: 2023-11-16 06:15:07.411922
+Existing_entries: 236
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [自由输入法 RIME 简明配置指南](https://sspai.com/post/84373)
+append_entries: 1
+Finish: 2023-11-16 06:15:07.549312
