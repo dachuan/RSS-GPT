@@ -8100,3 +8100,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？](https://sspai.com/post/84456)
 append_entries: 1
 Finish: 2023-11-17 12:20:36.173498
+------------------------------------------------------
+Started: 2023-11-17 14:10:32.309545
+Existing_entries: 243
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [本周看什么 | 最近值得一看的一大本作品](https://sspai.com/post/84477)
+append_entries: 1
+Finish: 2023-11-17 14:10:32.515520
