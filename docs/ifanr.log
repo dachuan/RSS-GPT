@@ -6193,3 +6193,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报｜iPhone 消息发送明年将迎来大更新 / 抖音测试付费短视频 / 小米汽车将于明年上半年正式发布](https://www.ifanr.com/1568245?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-17 02:24:12.447313
+------------------------------------------------------
+Started: 2023-11-17 04:13:21.904688
+Existing_entries: 216
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [ColorOS 14 正式版体验：让陪伴成为习惯](https://www.ifanr.com/1568261?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-17 04:13:24.079896
