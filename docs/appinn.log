@@ -7654,3 +7654,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-11-20 06:15:23.226712
+------------------------------------------------------
+Started: 2023-11-20 08:15:19.642335
+Existing_entries: 149
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [问一个小问题，请问wallhaven图片是不是没法下载了](https://meta.appinn.net/t/topic/49447)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-11-20 08:15:22.780146
