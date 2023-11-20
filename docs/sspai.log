@@ -8376,3 +8376,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)
 append_entries: 1
 Finish: 2023-11-20 08:15:24.488884
+------------------------------------------------------
+Started: 2023-11-20 10:12:46.460325
+Existing_entries: 249
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-20 10:12:46.641003
