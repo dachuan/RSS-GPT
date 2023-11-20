@@ -8352,3 +8352,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)
 append_entries: 2
 Finish: 2023-11-20 04:14:04.871201
+------------------------------------------------------
+Started: 2023-11-20 06:15:24.651252
+Existing_entries: 248
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-20 06:15:24.843063
