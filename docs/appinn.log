@@ -7638,3 +7638,11 @@ Append: [求推荐markdown的win安卓ios三端同步方案](https://meta.appinn
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2023-11-20 02:25:31.581857
+------------------------------------------------------
+Started: 2023-11-20 04:13:59.569457
+Existing_entries: 149
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-11-20 04:14:02.926272
