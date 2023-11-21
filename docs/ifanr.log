@@ -6667,3 +6667,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [原来，MacBook Pro 的「小黑本」是这样「炼」成的](https://www.ifanr.com/1568658?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-21 12:21:36.207639
+------------------------------------------------------
+Started: 2023-11-21 14:11:01.409423
+Existing_entries: 229
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [影石 Insta360 Ace Pro 发布：自带翻转屏的运动相机，超友好的入门选择](https://www.ifanr.com/1568596?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-21 14:11:03.637954
