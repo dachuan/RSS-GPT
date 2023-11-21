@@ -8478,3 +8478,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
 append_entries: 1
 Finish: 2023-11-21 06:15:12.885883
+------------------------------------------------------
+Started: 2023-11-21 08:15:02.019087
+Existing_entries: 252
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-21 08:15:02.182076
