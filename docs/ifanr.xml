@@ -4,6 +4,93 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>原来，MacBook Pro 的「小黑本」是这样「炼」成的</title>
+<link>https://www.ifanr.com/1568658?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1568658?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<h3><img alt="" class="alignnone size-full wp-image-1568690" height="800" src="https://s3.ifanr.com/wp-content/uploads/2023/11/59.jpg" width="1200" /></h3>
+<p>最近 MacBook Pro 产品线迎来新成员，除了例行搭载的 M3 系列芯片，最引人注目的要数全新的深空黑配色。</p>
+<p>在以往的 MacBook Pro 系列中，苹果一直钟爱于深空灰和银色这样的浅色系设计风格，而深空黑配色却打破常规，黑得更为深邃，给人一种强烈而沉稳的金属质感。</p>
+<p>那么，这种独特的深空黑配色是如何实现的呢？</p>
+<h3><img alt="" class="alignnone size-full wp-image-1568659" height="960" src="https://s3.ifanr.com/wp-content/uploads/2023/11/1-6.png" width="1280" /><br />
+小配色，大智慧</h3>
+<p>知名维修网站 iFixit 近日分享了配备 M3 和 M3 Pro 芯片的新款 14 英寸 MacBook Pro 的拆解视频，向我们揭示了这背后的制造原理。</p>
+<p>事实上，打造深空黑色主要依赖于两个关键步骤：阳极氧化和蚀刻工艺。</p>
+<p>阳极氧化是在铝表面镀上一层保护膜的电化学过程，就像农夫在土地上栽种庄稼一样，利用通电流促使铝表面原子氧化，形成具有空心凸起的保护层，这层氧化膜就像「镀膜」一样防止下方铝基体被腐蚀。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568661" height="569" src="https://s3.ifanr.com/wp-content/uploads/2023/11/2-6.png" width="854" /></p>
+<div class="editor-image-source">
+<p>▲阳极氧化会产生一系列的波峰和波谷。图片来源：美国专利局</p>
+</div>
+<p>阳极氧化过程中添加染料可以产生不同颜色，但过程随机，仅在氧化层小孔中填充染料颗粒，不足以染出理想的黑色，其他颜色也需要反复试验。</p>
+<p>这就相当于你站在很干净、光滑的黑色桌子前，当阳光照在桌面上时，你会看到明亮的白光反射到你的眼睛里。而当这个桌面被用砂纸打磨粗糙，阳光再次照射，不同颜色的光线分离开来，然后你就会看到黑色。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568662" height="152" src="https://s3.ifanr.com/wp-content/uploads/2023/11/3-3.png" width="635" /></p>
+<p>深空黑 MacBook Pro 同理，阳极氧化过程中虽然添加了黑色染料，但过于光滑的表面容易产生强烈的眩光，难以达到深沉的黑色效果。</p>
+<p>既然漫反射是实现理想黑色的关键，那么就需要控制表面粗糙度来减少光泽。于是苹果采用蚀刻阳极氧化表面，让氧化层凹凸不平的做法。粗糙的表面能够产生更有效的光扩散，减少直射眼睛的光线量，从而达到轻奢哑光的效果。</p>
+<p>从微观层面上看，以下分别是深空灰和深空黑色在显微镜下的画面，可以看到深空灰色的表面较为平整，而深空黑色的表面则坑坑洼洼，凹凸不平，颜色也更深。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568698" height="369" src="https://s3.ifanr.com/wp-content/uploads/2023/11/8888.png" width="720" /></p>
+<div class="editor-image-source">
+<p>▲ 作为深空灰，右为深空黑</p>
+</div>
+<p>为了更直观地呈现凹凸程度，iFixit 还使用了激光扫描共聚焦显微镜来精准测量表面，最终得出的结果如下图所示。深空黑配色版本具有更深的谷底和更高的峰值，凹凸程度越大，表面也越粗糙。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568667" height="810" src="https://s3.ifanr.com/wp-content/uploads/2023/11/7-4.png" width="847" /></p>
+<p>我们的指尖部位时常会分泌油脂，碰上笔记本电脑就可能留下指纹、污渍，影响整体的外观美观。虽说黑色更显污渍，但深空黑不是纯黑，加上凹凸不平的表面使得手指汗渍难以扩散，就能有效避免在机身上留下明显痕迹。</p>
+<p>基于这个推断，我们不妨对比一下深灰色和深黑色指纹的「显眼」程度，看得出来，右边的指纹痕迹明显较轻。不过，iFixit 认为苹果也有可能使用了其它聚合物或疏油涂层。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568668" height="854" src="https://s3.ifanr.com/wp-content/uploads/2023/11/8-2.png" width="1280" /></p>
+<p>据外媒 Six colors 爆料，苹果也曾考虑在 iPhone 15 系列钛合金版本上使用阳极氧化技术，但最终还是选择 PVD 涂层作为其钛合金版本的着色技术。</p>
+<p>PVD 涂层着色的原理就像蒸粽子：将手机放入真空室，加热金属蒸发，手机表面就会「捕捉」金属蒸汽，形成美观耐用的金属薄膜，不易刮花褪色。<br />
+<img alt="" class="alignnone size-full wp-image-1568669" height="446" src="https://s3.ifanr.com/wp-content/uploads/2023/11/9.png" width="640" /><br />
+虽然 PVD 涂层有诸多优势，但接触油脂时会有变色风险，iPhone 15 Pro 刚发售就被曝出边框接触指纹后明显变色，尤其白色和蓝色版本最严重。</p>
+<p>原因在于，油脂改变了 PVD 涂层的表面光学特性，导致光的干涉、折射率变化和散射效应，从而产生变色。这种变色通常是暂时的，清洁掉油脂后可恢复原来颜色。</p>
+<p>苹果也在更新的支持文档给出解释，iPhone 15 Pro 机型的钛合金边框可能会暂时因为接触皮肤油脂而改变颜色，只需用微湿的无绒软布轻轻擦拭，就可以恢复 iPhone 原有的外观。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568670" height="520" src="https://s3.ifanr.com/wp-content/uploads/2023/11/10-6.jpg" width="836" /></p>
+<p>另外插一个热知识，iPhone 15 Pro 机型原色钛合金版本的「原色」由来，就是因为在 PVD 工艺中，钛合金框架的表面没有涂上任何颜色，展示了钛合金框架的原始色彩。</p>
+<h3>小配色，大作为</h3>
+<p>在这个「看脸」的时代，稀缺的配色有时足以成为影响消费者做决定的重要因素。</p>
+<p>《定位》作者杰克特劳特曾提出著名的「七秒钟定理」，消费者在挑选商品时，最多只需要 7 秒钟就可以确定是否有兴趣，其中色彩对大脑的影响高达 67%。</p>
+<p>纵观当下偌大的智能手机市场，iPhone 代代设计的「小修小补」固然有利于塑造品牌印象，但也容易造成消费者的审美疲劳。国内其他手机厂商也大差不差，常见的「奥利奥」镜头模组、换汤不换药的水滴屏、普通的金属中框，一眼望去，过往百家齐放的旗舰手机明显少了几分辨识度。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568671" height="640" src="https://s3.ifanr.com/wp-content/uploads/2023/11/11-5.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲  图片来自：iPhone 13 Pro vs 15 Pro</p>
+</div>
+<p>相较于其他硬件升级，配色能以更低的成本带来最直观的视觉冲击，这个天生就能提振消费者需求的「选手」在同质化手机市场的地位也被愈发重视，同时跟着配色一起进化的还有着色工艺的探索。</p>
+<p>以苹果为例，iPhone 4 只有单调的黑白两色。为了让 iPhone 5 拥有更深邃的黑色，苹果首次采用阳极氧化工艺，但遗憾的是，由于当时着色工艺的青涩，上市仅一周的 iPhone 5 就让苹果陷入了「掉漆门」的争议。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568672" height="400" src="https://s3.ifanr.com/wp-content/uploads/2023/11/12-3.png" width="600" /></p>
+<div class="editor-image-source">
+<p>▲  图片来自：法新社</p>
+</div>
+<p>虽然当时阳极氧化工艺在实现深邃的黑色着色上尚待改进，但浅色着色方面却是得心应手，2013 年苹果发布的 iPhone 5S 新增香槟金配色，开放预定 1 小时后就迅速售罄。据当时《华尔街日报》报道，为了满足中国旺盛的需求，苹果甚至还专门增加了香槟金版本的产量。</p>
+<p>此后 iPhone 6S 玫瑰金、iPhone 7 红色等配色的相继问世，都切实增强了 iPhone 的美学吸引力并成功收获了一大批忠于颜值的用户。</p>
+<p>颜值即正义的道理放到现在也很管用，美国调查机构 CIRP 曾向苹果用户发起季度调查，截至 2022 年 12 月，iPhone 14 Pro 机型用户中有 42% 选择了新增的暗紫色版本，相比之下，选择深空灰和午夜黑的用户占 23%，选择星光色和银色的用户则占 11%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568673" height="640" src="https://s3.ifanr.com/wp-content/uploads/2023/11/13-3.png" width="960" /></p>
+<p>在 iPhone 14 暗紫色版本上尝到甜头的苹果，延续了以往的策略，在 iPhone 15 基础款上一口气推出了黑色、蓝色、绿色、黄色和粉色五种配色，试图再次打响色彩战。</p>
+<p>为了让你手中 iPhone 15 的配色更加清新自然，苹果采用了业内首创的融色玻璃背板。融色玻璃背板先经过优化的双离子交换工艺强化，再进行纳米结晶例子抛光和蚀刻，方才呈现出具有奢华质感的哑光外观。</p>
+<p>此外，「卷上加卷」的 Android 阵营也没少在配色上花心思。例如，以惊艳渐变色设计著称的华为 P20 系列，在短短五个月内就突破了 1000 万部全球销量，一度造就了华为手机的销量神话。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568674" height="702" src="https://s3.ifanr.com/wp-content/uploads/2023/11/14-1.png" width="1248" /></p>
+<div class="editor-image-source">
+<p>▲  图片来自：Mashable</p>
+</div>
+<p>走在美学前沿的 OPPO R15 同样踩中了用户的痛点，通过将色带用热转的方式转到 PET 膜上，再与玻璃板进行贴合，打造了久看不腻的星空紫和梦镜红渐变色版，并在市场上大受好评。其他「眼馋」的手机厂商纷纷跟进，一时间各种色调的渐变眼花缭乱，各家厂商对手机的配色也越发上心。</p>
+<p>陶瓷机身是个「非主流」的方案，但独特的温润手感备受消费者的青睐，故而时常成为厂商们开拓销量市场的「座上宾」。想要在陶瓷表面实现均匀的着色并非易事，五彩斑斓的「特权」依然掌握在着色工艺较为成熟的塑料、金属等材质手中。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568675" height="516" src="https://s3.ifanr.com/wp-content/uploads/2023/11/15-1.png" width="1280" /></p>
+<p>但也有偏向虎山行的手机厂商，比如华为 Mate 60 RS 非凡大师瑞红采用陶瓷+金属拼接的方式，历经 1400℃ 高温煅烧，50 余道等制作工序，成功将陶瓷机身上的「一抹红」固定下来，在陶瓷着色工艺上迎来极大突破，也将陶瓷颜色玩出了新高度。</p>
+<p>这些捕捉用户兴奋的七秒心理学，其核心还是为了调动消费者的购买情绪。但不可否认，各家厂商在产品的配色和材质的打磨上，显然是下足了功夫。</p>
+<p>当然，仅仅依赖于外在颜值的路线，往往更适用于相当稳定的存量市场，要想在市场上获得领先地位并保持长期竞争优势，还是需要给予消费者更多维度的惊喜&#8211; 就像乔布斯生前那句经典的「One more thing」。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1568658">原文链接</a> ·
+<a href="https://www.ifanr.com/1568658#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 21 Nov 2023 12:07:40 +0000</pubDate>
+<updated>Tue, 21 Nov 2023 12:07:40 +0000</updated>
+</item>
 
 <item>
 <title>官宣！蔚来正式开放换电网络，李斌公布首个合作伙伴</title>

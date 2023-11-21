@@ -8502,3 +8502,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)
 append_entries: 1
 Finish: 2023-11-21 10:17:50.238725
+------------------------------------------------------
+Started: 2023-11-21 12:21:42.319372
+Existing_entries: 253
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
+append_entries: 1
+Finish: 2023-11-21 12:21:42.541047
