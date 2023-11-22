@@ -8592,3 +8592,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
 append_entries: 2
 Finish: 2023-11-22 04:13:45.299169
+------------------------------------------------------
+Started: 2023-11-22 06:15:22.592581
+Existing_entries: 256
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-22 06:15:22.780980
