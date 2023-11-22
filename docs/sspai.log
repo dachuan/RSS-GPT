@@ -8622,3 +8622,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [谈谈存在的价值与人生体验](https://sspai.com/post/83743)
 append_entries: 1
 Finish: 2023-11-22 10:13:04.142168
+------------------------------------------------------
+Started: 2023-11-22 12:21:33.609720
+Existing_entries: 257
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/post/84558)
+append_entries: 1
+Finish: 2023-11-22 12:21:34.428075
