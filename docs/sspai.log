@@ -8712,3 +8712,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 append_entries: 2
 Finish: 2023-11-23 04:13:48.476718
+------------------------------------------------------
+Started: 2023-11-23 06:14:55.092738
+Existing_entries: 260
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-23 06:14:55.256915
