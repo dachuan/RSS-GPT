@@ -5,11 +5,177 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>困扰 Android 多年的问题，终于要被苹果终结了</title>
+<link>https://www.ifanr.com/1568823?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1568823?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1568901" height="608" src="https://s3.ifanr.com/wp-content/uploads/2023/11/flow.jpg" width="1080" /></p>
+<p>去年的某次采访活动上，一位提问者把他的烦恼告诉库克：「我妈妈看不到我用 iMessage 发的视频。」</p>
+<p>库克的建议是，给他的妈妈买台 iPhone。</p>
+<p><img alt="" class="size-full wp-image-1568826 aligncenter" height="472" src="https://s3.ifanr.com/wp-content/uploads/2023/11/apple4.gif" width="664" /></p>
+<p>不错，回答得很有精神，iPhone 和 Android 之间旷日持久的短信恩怨，弥漫在现场略为尴尬的气氛里。</p>
+<p>但在最近，苹果做出了一项「违背祖宗的决定」，这位提问者可能不用花钱换手机了。</p>
+<h3>苹果对「短信」大升级，最高兴的是 Google</h3>
+<p>苹果原生的即时通讯服务 iMessage，虽然顶着「短信」的名头，但被不少苹果用户当作社交软件，无非是图它安全又好用。</p>
+<p>iMessage 基于 Wi-Fi 或移动数据，不像短信按条付费，体验更加接近微信，支持文字、表情、图片、视频等消息。</p>
+<p>各种有趣的互动功能，以及仅双方可见的端到端加密，更是 iMessage 的特色。</p>
+<p><img alt="" class="size-full wp-image-1568838 aligncenter" height="233" src="https://s3.ifanr.com/wp-content/uploads/2023/11/im3.gif" width="350" /></p>
+<div class="editor-image-source">
+<p>▲ iMessage 的动态效果.</p>
+</div>
+<p>然而，这只限于苹果设备之间，iPhone 和 Android 设备互发的信息，会被转换为 SMS（短信）和 MMS（彩信），被 Google 称为「00 年代的过时技术」。</p>
+<p><img alt="" class="size-full wp-image-1568867 aligncenter" height="544" src="https://s3.ifanr.com/wp-content/uploads/2023/11/apple3.gif" width="570" /></p>
+<p>从 iMessage 回到 SMS、MMS，仿佛从精装搬到了毛坯。</p>
+<p>图片和视频被压缩、丢失表情符号、错过群聊消息、没有已读回执、对话无法加密&#8230;&#8230;</p>
+<p>天差地别的体验，长着两张不同的脸。iPhone 之间的聊天气泡是蓝色的，但 iPhone 和 Android 之间的聊天气泡是绿色的。</p>
+<p><img alt="" class="size-full wp-image-1568868 aligncenter" height="882" src="https://s3.ifanr.com/wp-content/uploads/2023/11/blue1-1.jpg" width="1536" /></p>
+<p>颜色本无高低，直到它变成了某种机型的标志。「蓝绿气泡」导致了青少年的社交危机，有些美国学生不得不把 Android 手机换成 iPhone 以避免霸凌。</p>
+<p>开发 Android 的 Google 认为，责任全在于苹果，iOS 应该尽快支持 RCS（富媒体通信服务）。</p>
+<p>RCS 是一种新的全球通信协议，由全球移动通信系统协会 GSMA 发起，目的是取代 SMS 和 MMS。</p>
+<p>我们可以将 RCS 理解为传统短信的「消费升级」，它的聊天体验类似 iMessage 和微信，使用 Wi-Fi 或移动数据，同时它也想整合很多 app 的功能，比如订外卖和酒店。</p>
+<p>（微信：这才哪到哪，不就是我的「服务」和小程序吗？）</p>
+<p><img alt="" class="size-full wp-image-1568870 aligncenter" height="241" src="https://s3.ifanr.com/wp-content/uploads/2023/11/buy2.gif" width="430" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：GSMA YouTube 视频</p>
+</div>
+<p>RCS 和 iMessage 的区别在于，iMessage 为苹果专有，RCS 不受限于平台和设备，像更加开放的 iMessage。</p>
+<p>但 RCS 实现起来也更难，当参与聊天的所有设备都支持 RCS 时，系统才会启用 RCS 消息功能，否则将回到 SMS 或 MMS。</p>
+<p>AT&amp;T 之类的运营商、生产手机的终端厂商、Google 等操作系统开发者，都得达成共识。</p>
+<p>Google 是 RCS 目前最大的支持者，它很想拉苹果入伙，甚至在去年 8 月推出了一场营销活动「Get the Message」，高调向苹果喊话。</p>
+<p>Google 阵营的三星，最近也发了个脑洞大开的广告，罗密欧（Android）和朱丽叶（iPhone），因为苹果不支持 RCS，无法终成眷属。</p>
+<p><img alt="" class="size-full wp-image-1568872 aligncenter" height="564" src="https://s3.ifanr.com/wp-content/uploads/2023/11/Samsung-US.jpg" width="558" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Samsung US</p>
+</div>
+<p>苹果之前对 RCS 不感兴趣，毕竟它有自己的 iMessage，功能类似 RCS 甚至更多，特殊的蓝色气泡还能暗暗让大家多买 iPhone。</p>
+<p>不过，改变说来就来。11 月 16 日，苹果宣布采用 RCS 标准，软件更新将在 2024 年晚些时候推出。</p>
+<p>到时候，iPhone 和 Android 用户之间的短信不再那么复古，可以共享位置，显示输入中和已读回执，分享高质量图片和视频等。</p>
+<p>苹果表示，RCS 将取代 SMS 和 MMS，提供「更好的互操作体验」，不过 SMS 和 MMS 在必要时也可以作为备选。</p>
+<p>与此同时，iMessage 依然可用，被苹果称为「最好、最安全的消息体验」，且 RCS 还是显示为绿色气泡，蓝色为 iMessage 独有。</p>
+<p><img alt="" class="size-full wp-image-1568873 aligncenter" height="392" src="https://s3.ifanr.com/wp-content/uploads/2023/11/ms2.jpeg" width="848" /></p>
+<p>除了 Google 和三星的施压，苹果的改变更可能是因为欧盟的《数字市场法案》。该法案要求提高不同消息服务的互操作性，或将逼迫苹果在其 27 个成员国开放 iMessage。</p>
+<p>苹果的选择是，既不让 RCS 取代 iMessage，也不向非苹果设备开放 iMessage，而是走了第三条路——支持 RCS，又不是完全支持。</p>
+<p>因为 RCS，跨设备的聊天体验更好了，iMessage 有代餐了，欧盟的目的达到了，但蓝绿之争继续存在，该买 iPhone 的还是买。</p>
+<p>如此一来，RCS 的家庭地位就较为尴尬，比 SMS 和 MMS 好，但不如 iMessage。</p>
+<p>不过，看见苹果让了一步，Google 还是很高兴的：</p>
+<blockquote><p>人们不该担心正在向哪种手机发送短信，所有人都应该更好地使用短信。</p></blockquote>
+<h3>收短信不奇怪，但谁还在发短信</h3>
+<p>习惯了微信的我们，可能不觉得短信的气泡颜色是个问题，也不觉得短信的功能需要多么花里胡哨。</p>
+<p>毕竟，大多数人只是用短信收验证码、扣款提醒、快递通知、骚扰广告之类，iMessage 的已读回执让人有点慌，至于它的表情贴纸、视频分享，旁边的微信就笑笑不说话。</p>
+<p>不过，美国人更喜欢 SMS 和 iMessage，他们也有一些类似微信的即时通讯软件，比如 Meta 的 WhatsApp，但人气相对更低。</p>
+<p>「为什么大多数美国人更喜欢使用 iMessage 而不是 WhatsApp」，甚至成了美版知乎 Quora 和美版贴吧 Reddit 的问题。</p>
+<p><img alt="" class="size-full wp-image-1568874 aligncenter" height="1079" src="https://s3.ifanr.com/wp-content/uploads/2023/11/whatsapp.jpg" width="1920" /></p>
+<p>综合来看主要有两个原因，一方面，美国的大多数运营商提供无限短信套餐，SMS 几乎免费；另一方面，美国有大量 iPhone 用户，他们习惯了原生、免费、且还能在 Mac 和 iPad 等多设备互通有无的 iMessage。</p>
+<p>根据研究机构 CIRP 的一项调查，在美国消费者中 40% 使用 iPhone，其中 18 至 24 岁的消费者超过 70% 是 iPhone 用户。这也就不难理解，为什么不同颜色的聊天气泡，都能引起同辈压力。</p>
+<p>所以，问题客观存在，在苹果宣布支持 RCS 之前，怎么让跨设备的聊天体验更好，成了有利可图的蛋糕。</p>
+<p><img alt="" class="size-full wp-image-1568876 aligncenter" height="738" src="https://s3.ifanr.com/wp-content/uploads/2023/11/no1.jpg" width="1128" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：Nothing</p>
+</div>
+<p>最近，手机品牌 Nothing 和初创公司 Sunbird 合作，推出了一款 app「Nothing Chats」，将 iMessage 引入 Android，并让绿色气泡变成蓝色。</p>
+<p>原理说起来不难，Sunbird 在云端设置了 Mac 虚拟机，用户只需提供 Apple ID。然而，这款 app 的测试版没发布 24 小时就从 Google Play 下架，外界猜测是因为安全问题。</p>
+<p>TechCrunch 报道，多位安全研究人员指出，使用 Sunbird 系统发送的消息都是公开的，并未端到端加密，Sunbird 可以访问每条消息。</p>
+<p><img alt="" class="size-full wp-image-1568878 aligncenter" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2023/11/no2.jpg" width="1706" /></p>
+<p>类似「Nothing Chats」的方案也不是没有，但或多或少有隐私和安全的担忧。如此看来，改善跨设备的聊天体验，还是让苹果和 Google 自己动手。</p>
+<p>决定支持 RCS 的苹果，未来也打算为 RCS 做些贡献，特别在安全和加密方面。目前，支持 RCS 的 Google 官方短信应用 Messages 可以端到端加密，但加密本身不是 RCS 标准的一部分，所以仍待苹果和 Google 的推进。</p>
+<p><img alt="" class="size-full wp-image-1568879 aligncenter" height="962" src="https://s3.ifanr.com/wp-content/uploads/2023/11/suo1.jpg" width="1474" /></p>
+<div class="editor-image-source">
+<p>▲ Google RCS 的端到端加密.</p>
+</div>
+<p>值得一提的是，Google 对 RCS 的疯狂应援，是在 Hangouts、Allo 等聊天应用折戟后。</p>
+<p>Google 开发聊天应用屡战屡败，没能找到自己的亮点，更何况 Android 用户不像美国的 iPhone 用户情有独钟，他们对 WhatsApp 等第三方即时通讯软件接受良好。</p>
+<p>自己的失败固然揪心，但对手的成功更让人难过。</p>
+<p>iMessage 受欢迎，因为它内置于 iPhone 的封闭系统中；WhatsApp 有一席之地，因为它与电话号码绑定，又无需短信费用；Messenger 也能上桌吃饭，因为它基于 Facebook。</p>
+<p><img alt="" class="size-full wp-image-1568880 aligncenter" height="750" src="https://s3.ifanr.com/wp-content/uploads/2023/11/mac1.jpg" width="1500" /></p>
+<p>Google 转而扶持通用标准 RCS，和几十家运营商周旋，其实是选择了一条少有人走的道路，直接重塑行业的游戏规则，改善 Android 的默认短信体验，然后曲线救国，和 WhatsApp、 iMessage 等产品分庭抗礼。</p>
+<p>如今，风水轮流转，Google 终于能在苹果面前扬眉吐气一次。</p>
+<p>苹果不再无视 RCS，也可能因为 RCS 的影响力确实越来越大。Google 在今年 5 月的 I/O 大会宣布，目前超过 8 亿人在使用 RCS，预计到年底将达到 10 亿。</p>
+<h3>下一代「短信」，怎么总是火不起来</h3>
+<p>ChatGPT 月活破 1 亿只用了 2 个月，RCS 破 8 亿用户却花了 16 年。RCS 的概念于 2007 年首次提出，最初由 GSMA 推动，但发展速度缓慢，基本靠 Google 为它续命。</p>
+<p>但这也不能否认，RCS 一直不温不火的事实。</p>
+<p>国外发展 RCS 的路径主要有两条，一种就是由 Google 主导，各运营商与 Google 合作，利用 Jibe 云平台推出 RCS 服务，并将其预置在 Android 系统。</p>
+<p>另一种是由运营商主导，比如在 2018 年，日本的 Docomo、KDDI 和软银，共同推出 RCS 业务「+Message」，与即时通讯软件 Line 竞争。2022 年，日本的 RCS 用户超过 3000 万，是全世界最流行 RCS 的市场之一。</p>
+<p><img alt="" class="size-full wp-image-1568881 aligncenter" height="1216" src="https://s3.ifanr.com/wp-content/uploads/2023/11/japan.jpg" width="1064" /></p>
+<div class="editor-image-source">
+<p>▲「+Message」，功能包括聊天、群聊、视频、GIF、文件和位置共享等.</p>
+</div>
+<p>国内的情况更像是第二种，当 RCS 来到国内，它的名字变成了增强短信、5G 消息、融合通信等，被三大运营商以及华为、三星、OPPO、小米等手机品牌支持。</p>
+<p>当微信将传统短信远远甩在身后，RCS 依然没有普及，但运营商们没有放弃。</p>
+<p>2018 年 7 月，中国移动与华为合作推出 RCS「增强短信」。当时，中国移动还提供了每月 10GB 的「增强信息专属流量」。毕竟，除了短彩信，流量也是运营商的一大业务。</p>
+<p>2020 年 4 月，RCS 又在国内摇身一变，被称作「5G 信息」。在这个月，中国电信、中国移动、中国联通联合发布了《5G 消息白皮书》。</p>
+<p>目前，三大运营商的 5G 消息都已商用或试商用，在收费方面大同小异。</p>
+<p><img alt="" class="size-full wp-image-1568885 aligncenter" height="860" src="https://s3.ifanr.com/wp-content/uploads/2023/11/yidong.jpg" width="2194" /></p>
+<div class="editor-image-source">
+<p>▲ 中国移动 5G 消息.</p>
+</div>
+<p>以中国移动为例，个人点对点消息免收短信费和流量费，但向携号转网用户发消息，每条 0.1 元，如果对方不支持 5G 消息，就以传统的短信形式发送，也每条 0.1 元。</p>
+<p>中国联通则推出了每月免费 300 条的 5G 消息体验包，超出部分每条 0.1 元。</p>
+<p>时至今日，5G 消息的用户仍然不多。《通信产业报》指出，5G 消息落地三年以来，每年发送量超过 100 亿条。乍看数量很多，其实平均下来，每个用户的月均发送量只有个位数。</p>
+<p>如果拿「前辈」SMS 来比，2022 年前 5 月，移动短信业务量达 7323 亿条，5G 消息完全是「小巫见大巫」。</p>
+<p>C 端吃不开，退而求其次，RCS 对商业服务和政府服务有更大的价值。</p>
+<p>比如在 2022 年，联通为了冬奥推出的 5G 消息，基于短信原生窗口，无需登录和下载，支持中英双语，提供赛事介绍，推广联通服务，上架周边商品。</p>
+<p><img alt="" class="size-full wp-image-1568887 aligncenter" height="2174" src="https://s3.ifanr.com/wp-content/uploads/2023/11/dong.jpeg" width="2340" /></p>
+<p>如果把思路打开，对于类似的低频服务，与其开发安装成本高、留存率低的 app，不如直接由 RCS 提供服务，避免了吃力不讨好的情况，也算是功德一件。</p>
+<p>不仅是国内的运营商，Google 和 GSMA 也很看重 RCS 的 B2C（企业对消费者）服务。</p>
+<p>但翻遍了全网，几乎找不到什么新鲜例子，2018 年，赛百味通过 RCS 推销三明治和优惠券，因为转化率比 SMS 更高，被 Google 当作模范。</p>
+<p><img alt="" class="size-full wp-image-1568888 aligncenter" height="448" src="https://s3.ifanr.com/wp-content/uploads/2023/11/sub2.gif" width="464" /></p>
+<p>这个对比就有些欺负前辈了，比起 SMS，内容和形式更丰富的 RCS 自然是更好。企业可以通过它向用户推送图文消息，用卡片的形式提供类似「小程序」的交互界面。</p>
+<p>从几年前开始，想在 RCS 做营销的，还得了解 Chatbot（聊天机器人），即用自然语言与用户交互的自动化程序，可以随时解答问题、完成交易、提供个性化推荐等。</p>
+<p><img alt="" class="size-full wp-image-1568889 aligncenter" height="960" src="https://s3.ifanr.com/wp-content/uploads/2023/11/chat11.jpg" width="1714" /></p>
+<div class="editor-image-source">
+<p>▲ 图片来自：YouTube@Tatango</p>
+</div>
+<p>大人时代变了，现在已经是 2023 年了，不是 2013 年，ChatGPT 让与 AI 聊天这件事变得习以为常，所以 RCS 提供的功能，听起来并不新鲜，反而让人觉得是在原地打转。</p>
+<p>其实，RCS 的最大优势在于，它在原生的短信应用基础上升级，只要有智能手机的，都可以说是短信用户，群众基础非常可观。</p>
+<p>同时，这也是它的弱势所在，移动运营商、设备生产商、操作系统开发商，任何一方不兼容、不支持，都可能影响到它的使用。</p>
+<p>全球范围内，因为运营商、硬件设备、即时通讯软件等方面的差异，对 RCS 的推广和使用程度其实都不同步。这不，苹果才刚刚打算加入，但 iMessage 明显才是亲儿子，RCS 更像是权宜之计。</p>
+<p><img alt="" class="size-full wp-image-1568891 aligncenter" height="288" src="https://s3.ifanr.com/wp-content/uploads/2023/11/lock.gif" width="512" /></p>
+<p>RCS 能不能给运营商带来新的收入，目前还不明朗。君可见，对于我们而言，微信的江山不可撼动，短信收验证码的用处也不会下线。</p>
+<p>但在不久的未来，对于爱发短信的大洋彼岸，iPhone 和 Android 终于可以愉快地发视频了，怎么不算是好事呢。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank">张成晨</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">利若秋霜，辟除凶殃。
+工作邮箱：zhangchengchen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:zhangchengchen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="https://www.ifanr.com/4" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1568823">原文链接</a> ·
+<a href="https://www.ifanr.com/1568823#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 11:09:43 +0000</pubDate>
+<updated>Thu, 23 Nov 2023 11:09:43 +0000</updated>
+</item>
+
+<item>
 <title>Reno11 评测：主流是怎么变成潮流的</title>
 <link>https://www.ifanr.com/1568822?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568822?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="aligncenter size-full wp-image-1568834" height="2048" src="https://s3.ifanr.com/wp-content/uploads/2023/11/OPPO-Reno112071.png" width="3072" /></p>
 <p>在 QuestMobile 的 2023 中国移动互联网秋季报告里，OPPO Reno10 系列是 9 月激活数最多的设备之一，仅一个月就有超过 300 万台手机被激活，是国产手机 2000-3000 元的主流价格档位最热卖的产品。</p>
 <p>再往前看，2023 年 Q1 激活数最多的设备是 Reno9 系列，2022 年全年激活数最多的设备是 Reno8 系列。</p>
@@ -98,9 +264,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 10:03:51 +0000</pubDate>
-<updated>Thu, 23 Nov 2023 10:03:51 +0000</updated>
 </item>
-
 <item>
 <title>中国特供的宝马 5 系，活成了 7 系的样子</title>
 <link>https://www.ifanr.com/1568755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
