@@ -8838,3 +8838,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
 append_entries: 1
 Finish: 2023-11-24 06:14:48.778987
+------------------------------------------------------
+Started: 2023-11-24 08:13:50.603058
+Existing_entries: 264
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-24 08:13:50.734637
