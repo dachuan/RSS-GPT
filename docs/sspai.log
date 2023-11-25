@@ -8952,3 +8952,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
 append_entries: 1
 Finish: 2023-11-25 08:13:17.430343
+------------------------------------------------------
+Started: 2023-11-25 10:10:35.496293
+Existing_entries: 267
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-25 10:10:35.837728
