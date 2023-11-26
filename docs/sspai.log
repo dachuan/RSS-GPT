@@ -9048,3 +9048,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
 append_entries: 1
 Finish: 2023-11-26 08:13:05.292012
+------------------------------------------------------
+Started: 2023-11-26 10:11:05.237147
+Existing_entries: 269
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-26 10:11:05.417360
