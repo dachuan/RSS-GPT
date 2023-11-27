@@ -10634,3 +10634,25 @@ Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/tex
 Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
 append_entries: 0
 Finish: 2023-11-27 14:10:56.489431
+------------------------------------------------------
+Started: 2023-11-27 16:14:37.263184
+Existing_entries: 75
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Tower giveaway!](https://brett.trpstra.net/link/535/16469906/tower-giveaway)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+Filter: [The TextExpander giveaway winners!](https://brett.trpstra.net/link/535/16404215/the-textexpander-giveaway-winners)
+Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/textexpander-giveaway)
+Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
+append_entries: 1
+Finish: 2023-11-27 16:14:38.107081
