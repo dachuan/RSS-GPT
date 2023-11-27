@@ -9120,3 +9120,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
 append_entries: 1
 Finish: 2023-11-27 04:13:54.159956
+------------------------------------------------------
+Started: 2023-11-27 06:15:15.331801
+Existing_entries: 270
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-27 06:15:15.477280
