@@ -9156,3 +9156,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 append_entries: 2
 Finish: 2023-11-27 08:15:42.900038
+------------------------------------------------------
+Started: 2023-11-27 10:12:24.699658
+Existing_entries: 272
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-27 10:12:24.846654

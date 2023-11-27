@@ -8346,3 +8346,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-11-27 08:15:39.675569
+------------------------------------------------------
+Started: 2023-11-27 10:12:19.619953
+Existing_entries: 161
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [求一个辅助拼图的APP](https://meta.appinn.net/t/topic/49719)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-11-27 10:12:23.133195
