@@ -9258,3 +9258,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 append_entries: 1
 Finish: 2023-11-28 06:15:16.352261
+------------------------------------------------------
+Started: 2023-11-28 08:14:51.276093
+Existing_entries: 275
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-28 08:14:51.767219

@@ -7041,3 +7041,14 @@ Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-s
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/mergeRSS
+------------------------------------------------------
+Started: 2023-11-28 08:14:51.822975
+Existing_entries: 22
+Fetching from https://utgd.net/feed
+Feed error: 301
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/aliyisheng?code=ee98b264d5c3272d2bf137aaefbf006a
+Feed error: 404
+Fetching from https://rsshhhub-dachuan.vercel.app/zhihu/people/activities/piao-shi-yu
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/mergeRSS
