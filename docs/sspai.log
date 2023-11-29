@@ -9421,3 +9421,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [具透 | One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)
 append_entries: 1
 Finish: 2023-11-29 12:21:17.773831
+------------------------------------------------------
+Started: 2023-11-29 14:10:33.136505
+Existing_entries: 281
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/post/83837)
+append_entries: 1
+Finish: 2023-11-29 14:10:33.321195
