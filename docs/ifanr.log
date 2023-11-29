@@ -7417,3 +7417,10 @@ Existing_entries: 247
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-28 22:10:25.876098
+------------------------------------------------------
+Started: 2023-11-29 00:52:30.080716
+Existing_entries: 247
+Fetching from https://www.ifanr.com/feed
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/ifanr
