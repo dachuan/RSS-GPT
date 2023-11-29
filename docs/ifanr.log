@@ -7442,3 +7442,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报｜投资大师芒格去世，巴菲特悼念 / 滴滴系统崩溃损失或超 4 亿 / 拼多多市值逼近阿里](https://www.ifanr.com/1569260?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-29 02:24:21.421284
+------------------------------------------------------
+Started: 2023-11-29 04:13:37.053186
+Existing_entries: 248
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [24.98 万元起，华为智选首款轿车发布，拆分「灵魂」的华为汽车孤注一掷](https://www.ifanr.com/1569185?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-29 04:13:38.918806
