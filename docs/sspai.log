@@ -9379,3 +9379,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)
 append_entries: 1
 Finish: 2023-11-29 06:14:52.678511
+------------------------------------------------------
+Started: 2023-11-29 08:14:59.322992
+Existing_entries: 279
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-29 08:14:59.518505
