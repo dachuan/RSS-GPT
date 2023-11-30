@@ -9493,3 +9493,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 append_entries: 1
 Finish: 2023-11-30 04:13:36.031718
+------------------------------------------------------
+Started: 2023-11-30 06:15:08.661670
+Existing_entries: 283
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-30 06:15:08.859913
