@@ -9553,3 +9553,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [新玩意 166｜少数派的编辑们最近买了啥？](https://sspai.com/post/84740)
 append_entries: 1
 Finish: 2023-11-30 12:21:13.873956
+------------------------------------------------------
+Started: 2023-11-30 14:10:50.083401
+Existing_entries: 286
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-30 14:10:50.358347
