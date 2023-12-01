@@ -7712,3 +7712,9 @@ Existing_entries: 255
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-01 16:13:52.806920
+------------------------------------------------------
+Started: 2023-12-01 18:13:52.695536
+Existing_entries: 255
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-12-01 18:13:54.523714
