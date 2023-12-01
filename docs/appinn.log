@@ -8741,3 +8741,11 @@ Append: [求mac在文本框附近显示中英文状态的软件](https://meta.ap
 Append: [上传到公号的Gif图片额外多出一些小点点](https://meta.appinn.net/t/topic/49853)
 append_entries: 2
 Finish: 2023-12-01 08:14:35.756528
+------------------------------------------------------
+Started: 2023-12-01 10:12:12.190837
+Existing_entries: 169
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-12-01 10:12:16.357481
