@@ -9745,3 +9745,21 @@ Existing_entries: 291
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-02 08:13:04.892138
+------------------------------------------------------
+Started: 2023-12-02 10:10:38.708455
+Existing_entries: 291
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
+append_entries: 1
+Finish: 2023-12-02 10:10:38.895410
