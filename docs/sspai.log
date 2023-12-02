@@ -9763,3 +9763,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
 append_entries: 1
 Finish: 2023-12-02 10:10:38.895410
+------------------------------------------------------
+Started: 2023-12-02 12:18:44.401359
+Existing_entries: 292
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-02 12:18:44.677443
