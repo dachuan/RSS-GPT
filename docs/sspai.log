@@ -9955,3 +9955,33 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
 append_entries: 1
 Finish: 2023-12-04 10:13:20.613307
+------------------------------------------------------
+Started: 2023-12-04 12:20:56.471032
+Existing_entries: 296
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/84841)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
+append_entries: 2
+Finish: 2023-12-04 12:20:56.769888
