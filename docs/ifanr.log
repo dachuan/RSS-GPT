@@ -7904,3 +7904,33 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报｜五月天被质疑假唱，官方回应/OpenAI 在中国申请 GPT-6 商标/腾讯视频回应「App 崩了」](https://www.ifanr.com/1569581?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-04 00:52:38.889858
+------------------------------------------------------
+Started: 2023-12-04 02:25:52.538117
+Existing_entries: 257
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [奔驰宝马合作建设超充网络，不止服务本品牌，补能的混战即将开始？](https://www.ifanr.com/1569406?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [43.5 万元起，特斯拉 Cybertruck 终于交付，马斯克当初说的都实现了吗？](https://www.ifanr.com/1569418?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2023-12-04 02:25:54.502091
