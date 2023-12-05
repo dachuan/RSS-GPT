@@ -10081,3 +10081,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
 append_entries: 1
 Finish: 2023-12-05 08:14:41.846408
+------------------------------------------------------
+Started: 2023-12-05 10:12:41.126926
+Existing_entries: 301
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-05 10:12:41.355314
