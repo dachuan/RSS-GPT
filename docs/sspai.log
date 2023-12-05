@@ -10087,3 +10087,21 @@ Existing_entries: 301
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-05 10:12:41.355314
+------------------------------------------------------
+Started: 2023-12-05 12:21:22.489333
+Existing_entries: 301
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
+append_entries: 1
+Finish: 2023-12-05 12:21:22.681655
