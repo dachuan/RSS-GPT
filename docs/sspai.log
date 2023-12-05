@@ -10039,3 +10039,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
 append_entries: 1
 Finish: 2023-12-05 02:26:14.696168
+------------------------------------------------------
+Started: 2023-12-05 04:13:25.242586
+Existing_entries: 299
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-05 04:13:25.403555
