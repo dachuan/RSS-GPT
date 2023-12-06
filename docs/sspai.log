@@ -10219,3 +10219,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
 append_entries: 1
 Finish: 2023-12-06 10:12:19.891920
+------------------------------------------------------
+Started: 2023-12-06 12:21:19.807477
+Existing_entries: 306
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-06 12:21:19.993982
