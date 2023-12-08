@@ -10423,3 +10423,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
 append_entries: 1
 Finish: 2023-12-08 06:15:01.306551
+------------------------------------------------------
+Started: 2023-12-08 08:14:46.296922
+Existing_entries: 312
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-08 08:14:46.478543
