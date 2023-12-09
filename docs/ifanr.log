@@ -8450,3 +8450,21 @@ Existing_entries: 273
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-08 22:10:27.938793
+------------------------------------------------------
+Started: 2023-12-09 00:51:20.049634
+Existing_entries: 273
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [早报｜OpenAI 员工签署公开信或迫于压力/支付宝宣布启动鸿蒙原生应用开发/张朝阳建议年轻人要早起](https://www.ifanr.com/1570161?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-09 00:51:21.960512
