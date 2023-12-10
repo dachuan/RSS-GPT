@@ -9620,3 +9620,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-10 08:13:36.227832
+------------------------------------------------------
+Started: 2023-12-10 10:10:51.421984
+Existing_entries: 184
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [求一個可以按網域來進行書籤排序的擴充](https://meta.appinn.net/t/topic/50196)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-10 10:10:55.650014
