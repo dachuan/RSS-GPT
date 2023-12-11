@@ -8613,3 +8613,21 @@ Fetching from https://www.ifanr.com/feed
 Feed error: 522
 append_entries: 0
 error when rendering xml, skip docs/ifanr
+------------------------------------------------------
+Started: 2023-12-11 02:25:52.191883
+Existing_entries: 274
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [早报｜iPhone 产品设计负责人将离职/余承东称华为明年将推出颠覆性产品/小米汽车发布会定档？知情人士回应](https://www.ifanr.com/1570270?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-11 02:25:53.987099
