@@ -8661,3 +8661,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [理想发布史上最大更新：「理想老师」能写会画，无人泊车即将推送](https://www.ifanr.com/1570251?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-11 08:15:33.895596
+------------------------------------------------------
+Started: 2023-12-11 10:13:05.409119
+Existing_entries: 276
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Poly Voyager Surround 80 UC 体验：21 天续航加双重降噪，听感最舒服的办公耳麦](https://www.ifanr.com/1564202?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-11 10:13:07.287435
