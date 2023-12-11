@@ -10813,3 +10813,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/post/84402)
 append_entries: 1
 Finish: 2023-12-11 16:15:26.463575
+------------------------------------------------------
+Started: 2023-12-11 18:14:44.732202
+Existing_entries: 324
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-11 18:14:44.890461
