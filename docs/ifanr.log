@@ -8606,3 +8606,10 @@ Existing_entries: 274
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-10 22:10:01.168550
+------------------------------------------------------
+Started: 2023-12-11 00:53:04.999762
+Existing_entries: 274
+Fetching from https://www.ifanr.com/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/ifanr
