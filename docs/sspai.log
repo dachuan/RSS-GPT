@@ -10711,3 +10711,33 @@ Existing_entries: 319
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-11 02:26:01.700941
+------------------------------------------------------
+Started: 2023-12-11 04:14:17.739233
+Existing_entries: 319
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [简单且长期有效的生产力](https://sspai.com/post/84938)
+append_entries: 2
+Finish: 2023-12-11 04:14:18.281866
