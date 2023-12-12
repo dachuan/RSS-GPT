@@ -8745,3 +8745,33 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报｜余承东、吉利、长城怒怼，懂车帝回应/苹果发布 iOS 17.2 正式版/微信视频号电商 GMV 超千亿](https://www.ifanr.com/1570329?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-12 00:52:48.277348
+------------------------------------------------------
+Started: 2023-12-12 02:26:13.623519
+Existing_entries: 279
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [马斯克教「百年福特」们怎么做车，想解决 1 个 70 年的遗留问题](https://www.ifanr.com/1570240?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [马斯克版「ChatGPT」Grok 上线！比本人更毒舌，快被网友玩坏了](https://www.ifanr.com/1570144?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2023-12-12 02:26:15.645406
