@@ -8931,3 +8931,21 @@ Existing_entries: 287
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-13 06:14:57.556072
+------------------------------------------------------
+Started: 2023-12-13 08:14:29.224600
+Existing_entries: 287
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [库克都帮忙宣发的新歌，背后有什么魔力？](https://www.ifanr.com/1570406?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-13 08:14:31.110256
