@@ -11113,3 +11113,21 @@ Existing_entries: 334
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-14 04:13:58.830876
+------------------------------------------------------
+Started: 2023-12-14 06:14:52.426178
+Existing_entries: 334
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [二十年后拆掉重建，这是我们「没有风格」的新家](https://sspai.com/post/85035)
+append_entries: 1
+Finish: 2023-12-14 06:14:52.582769
