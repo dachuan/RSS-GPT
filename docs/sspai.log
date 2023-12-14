@@ -11107,3 +11107,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
 append_entries: 1
 Finish: 2023-12-14 02:24:27.286049
+------------------------------------------------------
+Started: 2023-12-14 04:13:58.698892
+Existing_entries: 334
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-14 04:13:58.830876
