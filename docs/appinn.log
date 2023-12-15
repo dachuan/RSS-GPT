@@ -10106,3 +10106,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-15 08:14:53.885016
+------------------------------------------------------
+Started: 2023-12-15 10:12:19.038649
+Existing_entries: 190
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [tab页标签分组 聚焦专注浏览 分屏管理 冻结 自适应主题等提升浏览体验和生产力](https://meta.appinn.net/t/topic/50397)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-15 10:12:23.042250
