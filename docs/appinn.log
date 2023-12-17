@@ -10278,3 +10278,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-17 02:26:10.679960
+------------------------------------------------------
+Started: 2023-12-17 04:13:20.857049
+Existing_entries: 194
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [mainonly - 仅显示网页所选部分的 JS 小书签](https://meta.appinn.net/t/topic/50444)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-17 04:13:25.965042
