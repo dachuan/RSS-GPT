@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Ruby Regexp::scan with MatchData</title>
 <link>https://brett.trpstra.net/link/535/16498512/ruby-regexp-scan-with-matchdata</link>
 <guid>https://brett.trpstra.net/link/535/16498512/ruby-regexp-scan-with-matchdata</guid>
 <content:encoded><![CDATA[
-
 <p>This post will only be of interest to people writing scripts in Ruby. Seriously, zero utility if you’re not using Ruby. Though I would be curious how you accomplish the same thing in other languages like Rust and Python, because I’ve never gotten too deep with string manipulation in anything other than Ruby, Swift, and Objective-C. If you care to leave a comment with pointers, I’m all ears.</p>
 
 <!--more-->
@@ -108,9 +108,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16498512.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-17T15:38:00-06:00</pubDate>
-<updated>2023-12-17T15:38:00-06:00</updated>
 </item>
-
 <item>
 <title>The SpamSieve giveaway winners!</title>
 <link>https://brett.trpstra.net/link/535/16497258/the-spamsieve-giveaway-winners</link>

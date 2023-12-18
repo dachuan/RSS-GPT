@@ -9400,3 +9400,21 @@ Existing_entries: 298
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-17 22:09:54.921844
+------------------------------------------------------
+Started: 2023-12-18 00:53:07.781819
+Existing_entries: 298
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [早报｜董宇辉成为东方甄选高级合伙人/2024 款 Apple Watch 或将采用全新外观/字节回应被 OpenAI 封禁账户](https://www.ifanr.com/1570779?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-18 00:53:09.546081
