@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Kaleidoscope giveaway!</title>
 <link>https://brett.trpstra.net/link/535/16500870/kaleidoscope-giveaway</link>
 <guid>https://brett.trpstra.net/link/535/16500870/kaleidoscope-giveaway</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/webp" />
@@ -58,9 +58,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16500870.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-18T08:00:00-06:00</pubDate>
-<updated>2023-12-18T08:00:00-06:00</updated>
 </item>
-
 <item>
 <title>Ruby Regexp::scan with MatchData</title>
 <link>https://brett.trpstra.net/link/535/16498512/ruby-regexp-scan-with-matchdata</link>
