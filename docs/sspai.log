@@ -11509,3 +11509,21 @@ Existing_entries: 344
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-18 00:53:17.232444
+------------------------------------------------------
+Started: 2023-12-18 02:25:48.080995
+Existing_entries: 344
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [派早报：字节跳动回应被 OpenAI 停用账户](https://sspai.com/post/85139)
+append_entries: 1
+Finish: 2023-12-18 02:25:48.297498
