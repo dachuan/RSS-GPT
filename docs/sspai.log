@@ -11551,3 +11551,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)
 append_entries: 1
 Finish: 2023-12-18 06:15:47.372598
+------------------------------------------------------
+Started: 2023-12-18 08:15:23.900739
+Existing_entries: 346
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-18 08:15:24.090154
