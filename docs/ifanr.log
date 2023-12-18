@@ -9448,3 +9448,33 @@ Existing_entries: 299
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-18 10:13:05.801209
+------------------------------------------------------
+Started: 2023-12-18 12:21:33.769158
+Existing_entries: 299
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [苹果 2024 年的重要更新，都在这了](https://www.ifanr.com/1570810?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [最全攻略！OpenAI 发布 GPT-4 使用指南，所有干货全在这](https://www.ifanr.com/1570792?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2023-12-18 12:21:35.166829
