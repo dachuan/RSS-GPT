@@ -11815,3 +11815,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
 append_entries: 1
 Finish: 2023-12-20 06:12:21.400159
+------------------------------------------------------
+Started: 2023-12-20 08:12:03.983592
+Existing_entries: 356
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [放轻松 | 用放松，重夺生活的掌控感](https://sspai.com/post/85159)
+append_entries: 1
+Finish: 2023-12-20 08:12:04.159635
