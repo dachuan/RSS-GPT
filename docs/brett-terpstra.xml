@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>macOS keybinding tricks: the repeat count binding</title>
 <link>https://brett.trpstra.net/link/535/16502539/macos-keybinding-tricks-the-repeat-count-binding</link>
 <guid>https://brett.trpstra.net/link/535/16502539/macos-keybinding-tricks-the-repeat-count-binding</guid>
 <content:encoded><![CDATA[
-
 <p>Another trick for readers interested in honing their keyboard-fu on macOS.</p>
 
 <p>In Vim, most operations have can have a count specified in the keystrokes for the command, e.g. <code class="language-plaintext highlighter-rouge">3dd</code> to delete 3 lines. You can do similar in any Cocoa text field (all Apple apps, plus most native apps). You just need to specify a keyboard shortcut to use before the count. Then you can hit that keyboard shortcut, type a number (X) and then hit a key or key combination to have that event repeated X times.</p>
@@ -75,9 +75,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16502539.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-19T15:12:00-06:00</pubDate>
-<updated>2023-12-19T15:12:00-06:00</updated>
 </item>
-
 <item>
 <title>macOS keybinding tricks: The kill ring</title>
 <link>https://brett.trpstra.net/link/535/16501154/macos-keybinding-tricks-the-kill-ring</link>
