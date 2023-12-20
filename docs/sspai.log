@@ -11839,3 +11839,21 @@ Existing_entries: 357
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-20 10:10:09.592254
+------------------------------------------------------
+Started: 2023-12-20 12:17:23.362262
+Existing_entries: 357
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
+append_entries: 1
+Finish: 2023-12-20 12:17:23.500676
