@@ -11929,3 +11929,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
 append_entries: 1
 Finish: 2023-12-21 04:13:43.267254
+------------------------------------------------------
+Started: 2023-12-21 06:14:44.965283
+Existing_entries: 360
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-21 06:14:45.079025
