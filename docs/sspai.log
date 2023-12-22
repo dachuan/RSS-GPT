@@ -12049,3 +12049,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
 append_entries: 1
 Finish: 2023-12-22 04:13:43.396878
+------------------------------------------------------
+Started: 2023-12-22 06:14:42.423039
+Existing_entries: 364
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程](https://sspai.com/post/84644)
+append_entries: 1
+Finish: 2023-12-22 06:14:42.582193

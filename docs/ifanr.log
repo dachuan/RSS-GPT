@@ -9862,3 +9862,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [朋友圈刷屏的 emo 大叔，怎么成了年轻人的嘴替](https://www.ifanr.com/1571180?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-22 04:13:34.854419
+------------------------------------------------------
+Started: 2023-12-22 06:14:31.920909
+Existing_entries: 311
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [⭕️ 制糖工厂推出多彩贴贴线，为生活注入数字多巴胺](https://www.ifanr.com/1571251?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-22 06:14:33.362162
