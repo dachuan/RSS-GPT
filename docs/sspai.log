@@ -12115,3 +12115,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [少数派会员年度周边，邀请你一起来创作](https://sspai.com/post/85259)
 append_entries: 2
 Finish: 2023-12-22 10:11:52.569882
+------------------------------------------------------
+Started: 2023-12-22 12:20:01.047616
+Existing_entries: 368
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-22 12:20:01.178194
