@@ -10911,3 +10911,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-23 14:09:37.821935
+------------------------------------------------------
+Started: 2023-12-23 16:12:47.808504
+Existing_entries: 203
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 插件 - 二分法排查扩展程序](https://meta.appinn.net/t/topic/45673)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-23 16:12:52.018058
