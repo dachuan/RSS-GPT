@@ -12187,3 +12187,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)
 append_entries: 1
 Finish: 2023-12-23 06:13:56.567797
+------------------------------------------------------
+Started: 2023-12-23 08:12:39.899659
+Existing_entries: 369
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-23 08:12:40.084929
