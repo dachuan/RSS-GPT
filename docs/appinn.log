@@ -11056,3 +11056,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-25 02:24:20.107714
+------------------------------------------------------
+Started: 2023-12-25 04:13:46.344984
+Existing_entries: 204
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [如何优雅的获取YouTube最新视频链接](https://meta.appinn.net/t/topic/50734)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-25 04:13:50.520293

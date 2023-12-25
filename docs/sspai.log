@@ -12343,3 +12343,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报](https://sspai.com/post/85316)
 append_entries: 1
 Finish: 2023-12-25 02:24:22.361629
+------------------------------------------------------
+Started: 2023-12-25 04:13:52.603488
+Existing_entries: 371
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-25 04:13:52.727018
