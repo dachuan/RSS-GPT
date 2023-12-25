@@ -12409,3 +12409,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/85340)
 append_entries: 1
 Finish: 2023-12-25 12:19:56.664978
+------------------------------------------------------
+Started: 2023-12-25 14:10:08.212264
+Existing_entries: 374
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-25 14:10:08.392955
