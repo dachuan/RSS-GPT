@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Updated Bitlyize Service</title>
 <link>https://brett.trpstra.net/link/535/16509323/updated-bitlyize-service</link>
 <guid>https://brett.trpstra.net/link/535/16509323/updated-bitlyize-service</guid>
 <content:encoded><![CDATA[
-
 <p>I hope you&rsquo;ve had nice holidays!</p>
 
 <p>I&rsquo;ve updated my Bitlyize service to work with v4 of the Bit.ly API. It parses the input for <em>all</em> URLs and replaces them with shortened links connected to your account. Not only can this make long links more readable, it gives you some analytics on how often the links are used (and deeper analytics like country of origin, referrer, and other data). If you pass it a Bit.ly-shortened  link, it will expand it to its original URL.</p>
@@ -94,9 +94,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16509323.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2023-12-26T08:00:00-06:00</pubDate>
-<updated>2023-12-26T08:00:00-06:00</updated>
 </item>
-
 <item>
 <title>Weather forecasts for SearchLink</title>
 <link>https://brett.trpstra.net/link/535/16508012/weather-forecasts-for-searchlink</link>
