@@ -12559,3 +12559,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/post/85368)
 append_entries: 1
 Finish: 2023-12-26 14:10:05.310818
+------------------------------------------------------
+Started: 2023-12-26 16:13:35.193777
+Existing_entries: 380
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-26 16:13:35.352462
