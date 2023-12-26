@@ -12463,3 +12463,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等](https://sspai.com/post/85354)
 append_entries: 1
 Finish: 2023-12-26 02:20:36.480111
+------------------------------------------------------
+Started: 2023-12-26 04:13:44.691671
+Existing_entries: 375
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-26 04:13:44.881135
