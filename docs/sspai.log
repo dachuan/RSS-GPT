@@ -12625,3 +12625,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
 append_entries: 1
 Finish: 2023-12-27 04:13:34.281673
+------------------------------------------------------
+Started: 2023-12-27 06:14:52.012653
+Existing_entries: 382
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-27 06:14:52.212091
