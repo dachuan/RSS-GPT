@@ -10372,3 +10372,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报 | 雷军称小米第一辆车「有点贵」/ 46.98 万起，华为问界 M9 大定突破 1 万 / 微信 AI 下月亮相](https://www.ifanr.com/1571704?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-27 02:21:02.107446
+------------------------------------------------------
+Started: 2023-12-27 04:13:24.909281
+Existing_entries: 324
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [抖音商城开始找「锦鲤」？这是你的年末好运！](https://www.ifanr.com/1571682?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-27 04:13:26.788788
