@@ -12751,3 +12751,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [使用15个月后，再来看看 Arc](https://sspai.com/post/84931)
 append_entries: 1
 Finish: 2023-12-28 06:14:34.456208
+------------------------------------------------------
+Started: 2023-12-28 08:14:07.005165
+Existing_entries: 386
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-28 08:14:07.297351
