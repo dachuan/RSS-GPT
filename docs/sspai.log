@@ -12871,3 +12871,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
 append_entries: 2
 Finish: 2023-12-29 06:14:47.243210
+------------------------------------------------------
+Started: 2023-12-29 08:13:46.345237
+Existing_entries: 390
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-29 08:13:46.544675
