@@ -13105,3 +13105,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
 append_entries: 1
 Finish: 2023-12-31 12:18:59.469047
+------------------------------------------------------
+Started: 2023-12-31 14:09:26.309539
+Existing_entries: 396
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-31 14:09:26.472084
