@@ -13081,3 +13081,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
 append_entries: 1
 Finish: 2023-12-31 08:13:08.125003
+------------------------------------------------------
+Started: 2023-12-31 10:10:58.873812
+Existing_entries: 395
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-31 10:10:59.101583
