@@ -13285,3 +13285,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)
 append_entries: 1
 Finish: 2024-01-02 10:12:16.284181
+------------------------------------------------------
+Started: 2024-01-02 12:20:06.177952
+Existing_entries: 400
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)
+append_entries: 1
+Finish: 2024-01-02 12:20:06.470162
