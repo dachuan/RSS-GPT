@@ -13237,3 +13237,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：微信发布 2023 年度朋友圈十大谣言等](https://sspai.com/post/85504)
 append_entries: 1
 Finish: 2024-01-02 02:24:54.908323
+------------------------------------------------------
+Started: 2024-01-02 04:13:46.090939
+Existing_entries: 398
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-02 04:13:46.259367
