@@ -11092,3 +11092,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [苹果 Vision Pro 或将于本月底上市/华为夺 2023 高端手机份额前三/B 站公布 2023 百大 UP 主名单](https://www.ifanr.com/1572283?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-03 00:52:00.265900
+------------------------------------------------------
+Started: 2024-01-03 02:22:50.797360
+Existing_entries: 343
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-01-03 02:22:52.137177
