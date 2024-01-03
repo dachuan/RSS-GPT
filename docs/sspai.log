@@ -13381,3 +13381,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [提示词工程的问题视角](https://sspai.com/post/85484)
 append_entries: 1
 Finish: 2024-01-03 06:14:36.686302
+------------------------------------------------------
+Started: 2024-01-03 08:14:01.211357
+Existing_entries: 403
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-03 08:14:01.365314
