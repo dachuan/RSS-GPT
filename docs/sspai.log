@@ -13387,3 +13387,33 @@ Existing_entries: 403
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-03 08:14:01.365314
+------------------------------------------------------
+Started: 2024-01-03 10:12:07.290226
+Existing_entries: 403
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)
+append_entries: 2
+Finish: 2024-01-03 10:12:07.484856
