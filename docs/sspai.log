@@ -13477,3 +13477,33 @@ Existing_entries: 406
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-04 02:23:44.973067
+------------------------------------------------------
+Started: 2024-01-04 04:13:39.560506
+Existing_entries: 406
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
+append_entries: 2
+Finish: 2024-01-04 04:13:39.796283
