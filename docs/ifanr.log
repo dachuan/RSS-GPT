@@ -11194,3 +11194,21 @@ Existing_entries: 344
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-04 06:14:48.258970
+------------------------------------------------------
+Started: 2024-01-04 08:13:54.855591
+Existing_entries: 344
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [网易有道发布教育大模型重磅新品，AI 对社会最深远的影响正发生在这个领域](https://www.ifanr.com/1572315?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-04 08:13:56.315259
