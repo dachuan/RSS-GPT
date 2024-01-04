@@ -11212,3 +11212,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [网易有道发布教育大模型重磅新品，AI 对社会最深远的影响正发生在这个领域](https://www.ifanr.com/1572315?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-04 08:13:56.315259
+------------------------------------------------------
+Started: 2024-01-04 10:11:52.865673
+Existing_entries: 345
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [一加 Ace 3 体验：定价 2599 起，电池储存大升级，加量之后也降价](https://www.ifanr.com/1572378?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-04 10:11:54.673555
