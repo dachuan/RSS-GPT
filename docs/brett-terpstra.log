@@ -15204,3 +15204,23 @@ Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https:/
 Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
 append_entries: 0
 Finish: 2024-01-05 20:11:49.955553
+------------------------------------------------------
+Started: 2024-01-05 22:10:37.326321
+Existing_entries: 104
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [The App Tamer giveaway winners!](https://brett.trpstra.net/link/535/16520840/the-app-tamer-giveaway-winners)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+append_entries: 1
+Finish: 2024-01-05 22:10:38.215093
