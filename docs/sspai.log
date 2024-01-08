@@ -13933,3 +13933,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
 append_entries: 1
 Finish: 2024-01-08 06:15:21.289959
+------------------------------------------------------
+Started: 2024-01-08 08:15:28.475002
+Existing_entries: 419
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-08 08:15:28.728425
