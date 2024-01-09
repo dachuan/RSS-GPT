@@ -12509,3 +12509,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-01-09 02:26:33.399072
+------------------------------------------------------
+Started: 2024-01-09 04:13:58.063241
+Existing_entries: 225
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [Mac强制关闭快捷键](https://meta.appinn.net/t/topic/51232)
+append_entries: 1
+Finish: 2024-01-09 04:14:01.546156
