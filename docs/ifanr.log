@@ -11668,3 +11668,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报 | 苹果官宣 Vision Pro 发售日期/小米称暂无 Redmi 汽车计划/英伟达发布新显卡](https://www.ifanr.com/1572846?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-09 00:53:03.161049
+------------------------------------------------------
+Started: 2024-01-09 02:26:27.075229
+Existing_entries: 355
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-01-09 02:26:29.019062
