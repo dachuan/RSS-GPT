@@ -11692,3 +11692,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [蔚来手机，得先是一台合格的「手机」](https://www.ifanr.com/1572832?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-09 04:13:56.266950
+------------------------------------------------------
+Started: 2024-01-09 06:14:51.377579
+Existing_entries: 356
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [vivo S18 Pro 体验：人像手机就是这个时代的拍立得](https://www.ifanr.com/1572774?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-09 06:14:53.238383
