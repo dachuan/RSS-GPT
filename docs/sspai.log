@@ -14197,3 +14197,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
 append_entries: 2
 Finish: 2024-01-10 10:12:21.108578
+------------------------------------------------------
+Started: 2024-01-10 12:21:32.162772
+Existing_entries: 428
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
+append_entries: 1
+Finish: 2024-01-10 12:21:32.397539
