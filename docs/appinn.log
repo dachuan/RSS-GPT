@@ -12614,3 +12614,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-01-10 04:14:04.130851
+------------------------------------------------------
+Started: 2024-01-10 06:15:12.951587
+Existing_entries: 226
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【自荐】DeepTab - 为 AI 打造的新标签页](https://meta.appinn.net/t/topic/51279)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-01-10 06:15:16.265829
