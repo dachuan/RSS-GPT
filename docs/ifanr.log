@@ -11879,3 +11879,9 @@ Fetching from https://www.ifanr.com/feed
 Feed error: 522
 append_entries: 0
 error when rendering xml, skip docs/ifanr
+------------------------------------------------------
+Started: 2024-01-11 00:53:24.799368
+Existing_entries: 361
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-01-11 00:53:26.585599
