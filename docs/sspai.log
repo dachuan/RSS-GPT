@@ -14275,3 +14275,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
 append_entries: 1
 Finish: 2024-01-11 04:14:06.356634
+------------------------------------------------------
+Started: 2024-01-11 06:15:08.538394
+Existing_entries: 430
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
+append_entries: 1
+Finish: 2024-01-11 06:15:08.789697
