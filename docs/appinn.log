@@ -12744,3 +12744,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-01-11 12:21:01.101530
+------------------------------------------------------
+Started: 2024-01-11 14:10:57.014601
+Existing_entries: 228
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [01-01~01-07.老胡的周刊（第123期）](https://meta.appinn.net/t/topic/51331)
+append_entries: 1
+Finish: 2024-01-11 14:11:01.260922
