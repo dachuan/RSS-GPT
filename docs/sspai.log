@@ -14437,3 +14437,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
 append_entries: 1
 Finish: 2024-01-12 10:12:33.431846
+------------------------------------------------------
+Started: 2024-01-12 12:20:48.612494
+Existing_entries: 436
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-12 12:20:48.793854
