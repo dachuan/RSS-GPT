@@ -12011,3 +12011,45 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报|微软市值一度超越苹果/SpaceX 星舰第三次试飞最快下月进行/荣耀回应抄袭锤子争议](https://www.ifanr.com/1573187?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-12 02:27:08.775582
+------------------------------------------------------
+Started: 2024-01-12 04:14:15.654425
+Existing_entries: 365
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [CES 2024：车企「画饼」失败，一个存在了数十年的老物件，成为全场最大亮点](https://www.ifanr.com/1573042?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [零跑发布新车 C10 ，要用 15.18 万元，成为「更理想的家」](https://www.ifanr.com/1573135?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [「最美纯电」吉利银河 E8 上市，用 17 万元的售价，撬动小米 SU7](https://www.ifanr.com/1572553?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2024-01-12 04:14:17.368495
