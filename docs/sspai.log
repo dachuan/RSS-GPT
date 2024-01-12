@@ -14461,3 +14461,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
 append_entries: 1
 Finish: 2024-01-12 14:11:07.458824
+------------------------------------------------------
+Started: 2024-01-12 16:14:38.139366
+Existing_entries: 437
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-12 16:14:38.569016
