@@ -14515,3 +14515,21 @@ Existing_entries: 437
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-13 08:13:48.822538
+------------------------------------------------------
+Started: 2024-01-13 10:10:56.994725
+Existing_entries: 437
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
+append_entries: 1
+Finish: 2024-01-13 10:10:57.168765
