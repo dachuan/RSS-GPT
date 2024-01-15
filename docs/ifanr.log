@@ -12299,3 +12299,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [苹果 Vision Pro 发售前，我们找到了官网也没有的这些新细节](https://www.ifanr.com/1572939?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-15 02:29:04.041774
+------------------------------------------------------
+Started: 2024-01-15 04:14:16.154638
+Existing_entries: 371
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-01-15 04:14:17.621391
