@@ -12281,3 +12281,21 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 Append: [早报｜华为鸿蒙智行新车曝光/饿了么回应字节收购传闻/《王者荣耀》抖音直播将全面开放](https://www.ifanr.com/1573352?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-01-15 00:54:58.306550
+------------------------------------------------------
+Started: 2024-01-15 02:29:02.575655
+Existing_entries: 370
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+Append: [苹果 Vision Pro 发售前，我们找到了官网也没有的这些新细节](https://www.ifanr.com/1572939?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-15 02:29:04.041774
